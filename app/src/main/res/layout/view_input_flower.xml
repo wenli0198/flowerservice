@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/view_input_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:layout_marginBottom="5dp"/>
+
+    <com.test.aoner.fanow.test.view_flower.widget_flower.InfoInputEditText
+        android:id="@+id/view_input_et_input"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="14dp"
+        android:background="@drawable/ic_bg_input"
+        android:maxLines="1"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        tools:ignore="Autofill,LabelFor" />
+
+</LinearLayout>

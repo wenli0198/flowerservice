@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.test.aoner.fanow.test.activity_fragment_flower.fragment_flower.RepayFragment_flower">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="30dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:layout_marginTop="20dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_loan_main_logo"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_marginHorizontal="12dp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="@string/app_name"
+                    android:layout_height="wrap_content"/>
+
+                <ImageButton
+                    android:id="@+id/fragment_repay_ib_customer_service"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/icon_customer_service_black"
+                    tools:ignore="ContentDescription" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_repay_layout_plan_a"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_round_corner_black_12dp_top"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginHorizontal="6dp"
+                    android:elevation="5dp"
+                    android:padding="12dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        tools:ignore="UseCompoundDrawables">
+
+                        <ImageView
+                            android:id="@+id/fragment_repay_iv_plan_a"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/icon_item_check_true"
+                            tools:ignore="ContentDescription" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:textColor="@color/white"
+                            android:textSize="16sp"
+                            android:text="@string/fragment_repay_plan_a_title"
+                            android:textStyle="bold"/>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"
+                        android:text="@string/fragment_repay_plan_a_text"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_round_corner_white_12dp_bottom"
+                    android:layout_marginHorizontal="6dp"
+                    android:layout_marginBottom="6dp"
+                    android:elevation="5dp"
+                    android:padding="10dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:layout_marginHorizontal="5dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_dd"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            android:text="@string/fragment_repay_total_repayment"
+                            android:layout_marginEnd="5dp"/>
+
+                        <TextView
+                            android:id="@+id/fragment_repay_tv_total_repayment"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/blue_2"
+                            android:textStyle="bold"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_dd"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            android:text="@string/fragment_repay_due_date"
+                            android:layout_marginEnd="5dp"/>
+
+                        <TextView
+                            android:id="@+id/fragment_repay_tv_due_date"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/blue_2"
+                            android:textStyle="bold"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/gray_ll"
+                        android:layout_marginTop="15dp"/>
+
+                    <LinearLayout
+                        android:id="@+id/fragment_repay_layout_plan_a_detail"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:layout_marginTop="15dp"
+                            android:layout_marginHorizontal="5dp"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="12sp"
+                                android:textStyle="bold"
+                                android:text="@string/fragment_repay_loan_amount"
+                                android:layout_marginEnd="5dp"/>
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_loan_amount"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_ddd"
+                                android:textStyle="bold"
+                                android:textSize="14sp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal"
+                            android:layout_marginHorizontal="5dp"
+                            android:layout_marginTop="15dp">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="12sp"
+                                android:textStyle="bold"
+                                android:text="@string/fragment_repay_interest"
+                                android:layout_marginEnd="5dp"/>
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_interest"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:textColor="@color/gray_ddd"
+                                android:textSize="14sp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal"
+                            android:layout_marginHorizontal="5dp"
+                            android:layout_marginTop="15dp">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="12sp"
+                                android:textStyle="bold"
+                                android:text="@string/fragment_repay_service_fee"
+                                android:layout_marginEnd="5dp"/>
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_service_fee"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:textColor="@color/gray_ddd"
+                                android:textSize="14sp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/fragment_repay_layout_vat"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal"
+                            android:layout_marginHorizontal="5dp"
+                            android:layout_marginTop="15dp"
+                            android:visibility="gone">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="12sp"
+                                android:textStyle="bold"
+                                android:text="VAT"
+                                android:layout_marginEnd="5dp"
+                                tools:ignore="HardcodedText" />
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_vat"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:textColor="@color/gray_ddd"
+                                android:textSize="14sp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal"
+                            android:layout_marginHorizontal="5dp"
+                            android:layout_marginTop="15dp">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="12sp"
+                                android:text="@string/fragment_repay_overdue_days"
+                                android:textStyle="bold"
+                                android:layout_marginEnd="5dp"/>
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_overdue_days"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_ddd"
+                                android:textStyle="bold"
+                                android:textSize="14sp"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal"
+                            android:layout_marginHorizontal="5dp"
+                            android:layout_marginTop="15dp">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="12sp"
+                                android:textStyle="bold"
+                                android:text="@string/fragment_repay_overdue_penalty"
+                                android:layout_marginEnd="5dp"/>
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_overdue_penalty"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_ddd"
+                                android:textStyle="bold"
+                                android:textSize="14sp"/>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/fragment_repay_layout_plan_a_fold_click"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/fragment_repay_iv_plan_a_fold"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_alignParentBottom="true"
+                            android:background="@drawable/icon_repay_plan_a_folded"
+                            tools:ignore="ContentDescription" />
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_repay_layout_plan_b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_round_corner_black_12dp_top"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginHorizontal="6dp"
+                    android:elevation="5dp"
+                    android:padding="14dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical"
+                        tools:ignore="UseCompoundDrawables">
+
+                        <ImageView
+                            android:id="@+id/fragment_repay_iv_plan_b"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/icon_item_check_false"
+                            tools:ignore="ContentDescription" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:textColor="@color/white"
+                            android:textSize="16sp"
+                            android:text="@string/fragment_repay_plan_b_title"
+                            android:textStyle="bold"/>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/white"
+                        android:textSize="14sp"
+                        android:text="@string/fragment_repay_plan_b_text"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_round_corner_white_12dp_bottom"
+                    android:layout_marginHorizontal="6dp"
+                    android:layout_marginBottom="6dp"
+                    android:elevation="5dp"
+                    android:paddingVertical="14dp"
+                    android:paddingHorizontal="10dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:layout_marginHorizontal="5dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_dd"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            android:text="@string/fragment_repay_plan_b_extended_service_charges"
+                            android:layout_marginEnd="5dp"/>
+
+                        <TextView
+                            android:id="@+id/fragment_repay_tv_extended_service_charges"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/blue_2"
+                            android:textStyle="bold"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:layout_marginHorizontal="5dp"
+                        android:layout_marginTop="15dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_dd"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            android:text="@string/fragment_repay_plan_b_days_of_extension"
+                            android:layout_marginEnd="5dp"/>
+
+                        <TextView
+                            android:id="@+id/fragment_repay_tv_days_of_extension"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/blue_2"
+                            android:textStyle="bold"
+                            android:textSize="14sp"/>
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/gray_ll"
+                        android:layout_marginTop="15dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/black"
+                        android:text="@string/fragment_repay_plan_b_due_date_after_extension"
+                        android:textStyle="bold"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="5dp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="5dp">
+
+                        <RelativeLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:id="@+id/fragment_repay_tv_due_date_after_extension_1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/gray_dd"
+                                android:textSize="14sp"
+                                android:textStyle="bold"/>
+
+                            <View
+                                android:layout_width="wrap_content"
+                                android:layout_height="1dp"
+                                android:layout_centerVertical="true"
+                                android:background="@color/gray_d"
+                                android:layout_alignEnd="@id/fragment_repay_tv_due_date_after_extension_1"/>
+
+                        </RelativeLayout>
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/img_repay_plan_b_arrow"
+                            android:layout_marginHorizontal="12dp"
+                            tools:ignore="ContentDescription" />
+
+                        <TextView
+                            android:id="@+id/fragment_repay_plan_b_tv_due_date_after_extension_2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/blue_2"
+                            android:textSize="14sp"
+                            android:textStyle="bold"/>
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/black"
+                        android:text="@string/fragment_repay_plan_b_total_repayment_due"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/fragment_repay_plan_b_tv_total_repayment_due"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginHorizontal="5dp"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:textColor="@color/blue_2"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/fragment_repay_view_offline_repay_niri"
+                android:background="@drawable/ic_round_corner_green_flower_12dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:padding="16dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/fragment_repay_tv_offline_repay_title_niri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="Or choose offline repayment method, Repay to"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/fragment_repay_tv_offline_repay_bank_name_title_niri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/fragment_repay_tv_offline_repay_title_niri"
+                    android:layout_marginTop="16dp"
+                    android:gravity="center_vertical"
+                    android:text="Bank Name"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    tools:ignore="HardcodedText" />
+
+                <ImageView
+                    android:id="@+id/fragment_repay_iv_offline_repay_copy_bank_name_niri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/fragment_repay_tv_offline_repay_bank_name_title_niri"
+                    android:layout_alignBottom="@id/fragment_repay_tv_offline_repay_bank_name_title_niri"
+                    android:layout_alignParentEnd="true"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/icon_copy"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    android:id="@+id/fragment_repay_tv_offline_repay_bank_name_niri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/fragment_repay_tv_offline_repay_bank_name_title_niri"
+                    android:layout_marginEnd="6dp"
+                    android:layout_toStartOf="@id/fragment_repay_iv_offline_repay_copy_bank_name_niri"
+                    android:gravity="center|end"
+                    android:text="***"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/fragment_repay_tv_offline_repay_bank_account_title_niri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/fragment_repay_tv_offline_repay_bank_name_niri"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center_vertical"
+                    android:text="Bank Account"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    tools:ignore="HardcodedText" />
+
+                <ImageView
+                    android:id="@+id/fragment_repay_iv_offline_repay_copy_bank_account_niri"
+                    android:src="@drawable/icon_copy"
+                    android:scaleType="centerInside"
+                    android:layout_alignTop="@id/fragment_repay_tv_offline_repay_bank_account_title_niri"
+                    android:layout_alignBottom="@id/fragment_repay_tv_offline_repay_bank_account_title_niri"
+                    android:layout_alignParentEnd="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    android:id="@+id/fragment_repay_tv_offline_repay_bank_account_niri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@id/fragment_repay_tv_offline_repay_bank_account_title_niri"
+                    android:layout_toStartOf="@id/fragment_repay_iv_offline_repay_copy_bank_account_niri"
+                    android:layout_marginEnd="6dp"
+                    android:gravity="center|end"
+                    android:text="***"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    tools:ignore="HardcodedText" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/fragment_repay_tv_offline_repayment_niri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:gravity="center_horizontal"
+                android:textColor="@color/green_flower"
+                android:text="Offline repayment"
+                android:textSize="14sp"
+                tools:ignore="HardcodedText"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/fragment_repay_btn_query_process"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginHorizontal="20dp"
+                android:background="@drawable/ic_bg_btn"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:text="@string/word_query_progress"
+                android:textAllCaps="false"/>
+
+            <LinearLayout
+                android:id="@+id/fragment_loan_wait_view_tips"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:text="@string/loan_tip_title"
+                    android:layout_marginTop="20dp"
+                    android:textStyle="bold"
+                    android:layout_marginHorizontal="20dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:gravity="center_vertical"
+                    android:background="@drawable/ic_round_corner_green_l_12dp"
+                    android:padding="12dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/icon_loan_tip_1"
+                        tools:ignore="ContentDescription" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_ddd"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:text="@string/loan_tip_1"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:gravity="center_vertical"
+                    android:background="@drawable/ic_round_corner_green_l_12dp"
+                    android:padding="12dp"
+                    android:orientation="horizontal"
+                    tools:ignore="TooManyViews">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/icon_loan_tip_2"
+                        tools:ignore="ContentDescription" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_ddd"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:text="@string/loan_tip_2"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:text="@string/loan_overdue_tip_title"
+                    android:layout_marginTop="20dp"
+                    android:textStyle="bold"
+                    android:layout_marginHorizontal="20dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:gravity="center_vertical"
+                    android:background="@drawable/ic_round_corner_yellow_l_12dp"
+                    android:padding="12dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/icon_overdue_tip_1"
+                        tools:ignore="ContentDescription" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_ddd"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:text="@string/loan_overdue_tip_1"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:gravity="center_vertical"
+                    android:background="@drawable/ic_round_corner_yellow_l_12dp"
+                    android:padding="12dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/icon_overdue_tip_2"
+                        tools:ignore="ContentDescription" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_ddd"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            android:text="@string/loan_overdue_tip_2"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_repay_view_operated"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginHorizontal="20dp"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/fragment_repay_iv_operated_logo"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    tools:ignore="ContentDescription" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/gray_d"
+                        android:textSize="14sp"
+                        android:text="@string/operated_company_desc"
+                        android:fontFamily="sans-serif-medium"/>
+
+                    <TextView
+                        android:id="@+id/fragment_repay_tv_company_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:textColor="@color/black"
+                        android:textSize="14sp"
+                        android:fontFamily="sans-serif-black"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green_flower"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="12dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="120dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:text="@string/fragment_repay_payment_amount"/>
+
+            <TextView
+                android:id="@+id/fragment_repay_tv_payment_amount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:textSize="24sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/fragment_repay_btn_repay"
+            android:layout_width="105dp"
+            android:layout_height="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ic_round_corner_white_12dp"
+            android:textColor="@color/blue_2"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:text="@string/fragment_repay_btn_pay"
+            android:textAllCaps="false"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

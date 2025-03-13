@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/view_loan_apply_detail_layout_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_round_corner_white_12dp"
+        android:layout_marginVertical="8dp"
+        android:layout_marginHorizontal="20dp"
+        android:orientation="vertical"
+        android:paddingVertical="6dp"
+        android:elevation="3dp"/>
+
+</LinearLayout>

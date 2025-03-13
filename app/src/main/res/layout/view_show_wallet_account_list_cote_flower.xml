@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginHorizontal="5dp"
+        android:text="Prêt sera transféré à"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:layout_marginHorizontal="5dp"
+        android:layout_marginTop="10dp"
+        android:lineSpacingExtra="3dp"
+        android:text="Une fois le prêt approuvé, le prêt sera transféré sur l'un de vos portefeuille électronique mobile disponibles."
+        tools:ignore="HardcodedText" />
+    
+    <LinearLayout
+        android:id="@+id/view_show_wallet_account_list_layout_account_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:background="@color/trans"
+        android:layout_marginBottom="15dp"/>
+    
+</LinearLayout>

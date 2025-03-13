@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/trans"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="166dp"
+        android:layout_height="135dp"
+        android:src="@drawable/img_notice_flower"
+        android:scaleType="centerInside"
+        android:layout_marginHorizontal="60dp"
+        android:elevation="1dp"
+        tools:ignore="ContentDescription" />
+
+    <View
+        android:id="@+id/dialog_notice_close"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/icon_close_2"
+        android:layout_gravity="end"
+        android:layout_marginHorizontal="27dp"
+        android:layout_marginTop="-95dp"
+        android:elevation="2dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:elevation="0dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginHorizontal="27dp"
+        android:background="@drawable/ic_bg_notice_dialog_flower"
+        android:paddingTop="69dp"
+        android:paddingHorizontal="24dp">
+
+        <TextView
+            android:id="@+id/dialog_notice_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:text="@string/flower_notice"
+            android:fontFamily="sans-serif-black"
+            android:lineSpacingExtra="2dp"/>
+
+        <TextView
+            android:id="@+id/dialog_notice_tv_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="2dp"
+            android:textColor="#FF666666"
+            android:textSize="12sp"
+            android:letterSpacing="0.02"/>
+        
+        <Button
+            android:id="@+id/dialog_notice_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:background="@drawable/ic_bg_btn"
+            android:layout_marginVertical="24dp"
+            android:layout_marginHorizontal="9dp"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:text="@string/flower_confirm"
+            android:textAllCaps="false"/>
+
+    </LinearLayout>
+
+</LinearLayout>

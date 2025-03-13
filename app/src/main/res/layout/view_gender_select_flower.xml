@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/view_gender_select_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:layout_marginBottom="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+
+        <LinearLayout
+            android:id="@+id/view_gender_select_layout_male"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/ic_bg_input"
+            android:paddingVertical="12dp"
+            android:paddingHorizontal="6dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_male"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/view_gender_select_tv_g1"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:text="@string/view_gender_select_male"
+                tools:ignore="NestedWeights"
+                android:layout_marginHorizontal="6dp"/>
+
+            <ImageView
+                android:id="@+id/view_gender_select_iv_male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_item_check_true"
+                tools:ignore="ContentDescription" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/view_gender_select_layout_female"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/ic_border_gray_ll_1dp_round_corner_10dp"
+            android:paddingVertical="12dp"
+            android:layout_marginStart="15dp"
+            android:paddingHorizontal="6dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_female"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/view_gender_select_tv_female"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="@string/view_gender_select_female"
+                android:textColor="@color/gray_ddd"
+                android:textSize="14sp"
+                tools:ignore="NestedWeights"
+                android:layout_marginHorizontal="6dp"/>
+
+            <ImageView
+                android:id="@+id/view_gender_select_iv_female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_item_check_false"
+                tools:ignore="ContentDescription" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/trans"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="166dp"
+        android:layout_height="135dp"
+        android:src="@drawable/img_delete_data_tips"
+        android:scaleType="centerInside"
+        android:layout_marginHorizontal="60dp"
+        android:elevation="1dp"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-67dp"
+        android:elevation="0dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginHorizontal="27dp"
+        android:background="@drawable/ic_bg_notice_dialog_flower"
+        android:paddingTop="91dp"
+        android:paddingHorizontal="21dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/delete_data_desc"
+            android:textSize="12sp"
+            android:textColor="#FF666666"
+            android:lineSpacingExtra="1dp"
+            android:fontFamily="sans-serif-medium"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/green_flower"
+            android:textSize="18sp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/delete_data_title"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginVertical="16dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/dialog_delete_data_tv_return"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_bg_btn_border"
+                android:gravity="center"
+                android:padding="3dp"
+                android:textColor="@color/green_flower"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="@string/btn_return"/>
+
+            <TextView
+                android:id="@+id/dialog_delete_data_tv_confirm"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_bg_btn_gray"
+                android:layout_marginStart="17dp"
+                android:gravity="center"
+                android:padding="3dp"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="@string/flower_confirm"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

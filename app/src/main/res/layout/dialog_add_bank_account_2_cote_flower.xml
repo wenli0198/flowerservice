@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_round_corner_white_12dp_top"
+    android:paddingTop="20dp"
+    android:paddingBottom="30dp"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/dialog_add_account_ib_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/icon_close"
+        android:layout_marginHorizontal="30dp"
+        android:layout_gravity="end"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Ajouter un portefeuille électronique mobile"
+        tools:ignore="HardcodedText"
+        android:layout_marginHorizontal="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        android:text="Portefeuille électronique mobile pour recevoir votre prêt"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="10dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_bg_input"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:text="+225"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/dialog_add_account_2_tv_show_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="5dp"
+            tools:ignore="HardcodedText" />
+
+        <ImageView
+            android:id="@+id/dialog_add_account_2_tv_show_account_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            tools:ignore="ContentDescription" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@color/gray_dd"
+        android:layout_marginTop="8dp"
+        android:layout_marginHorizontal="15dp"
+        android:textStyle="bold"
+        android:text="Afin de vous assurer que vous pouvez recevoir le prêt, veuillez ajouter autant de portefeuilles mobiles que possible pour éviter le problème de la limite affectant le transfert du prêt vers vous."
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="@color/black"
+            android:text="Veuillez choisir un opérateur"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/dialog_add_account_2_layout_account_type"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:paddingHorizontal="15dp"
+        android:layout_marginHorizontal="10dp"
+        android:background="@drawable/ic_bg_input">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="32dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:id="@+id/dialog_add_account_2_iv_account_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/dialog_add_account_2_tv_account_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:gravity="center_vertical"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:hint="Veuillez choisir un opérateur"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_item_bottom"
+            tools:ignore="ContentDescription" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/dialog_add_account_2_layout_account_type_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_border_green_flower_1dp_round_corner_4dp"
+        android:layout_marginHorizontal="10dp"
+        android:paddingHorizontal="15dp"
+        android:visibility="gone"
+        android:elevation="2dp">
+
+        <ListView
+            android:id="@+id/dialog_add_account_2_lv_account_type_list"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginVertical="5dp"
+            android:scrollbarSize="0dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="@color/black"
+            android:text="@string/dialog_add_bank_account_cote_account_input_title_1"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="15dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginHorizontal="10dp"
+        android:background="@drawable/ic_bg_input">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:text="+225"
+            tools:ignore="HardcodedText" />
+
+        <EditText
+            android:id="@+id/dialog_add_account_2_et_account_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:background="@null"
+            android:layout_marginStart="10dp"
+            android:maxLines="1"
+            android:inputType="number"
+            android:cursorVisible="true"
+            android:focusableInTouchMode="true"
+            android:focusable="true"
+            tools:ignore="Autofill,LabelFor,TextFields" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginTop="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="@color/black"
+            android:text="@string/dialog_add_bank_account_cote_account_input_title_2"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="15dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginHorizontal="10dp"
+        android:background="@drawable/ic_bg_input">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:text="+225"
+            tools:ignore="HardcodedText" />
+
+        <EditText
+            android:id="@+id/dialog_add_account_2_et_account_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:background="@null"
+            android:layout_marginStart="10dp"
+            android:maxLines="1"
+            android:inputType="number"
+            android:cursorVisible="true"
+            android:focusableInTouchMode="true"
+            android:focusable="true"
+            tools:ignore="Autofill,LabelFor,TextFields" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/dialog_add_account_2_btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="15dp"
+        android:background="@drawable/ic_bg_btn"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textAllCaps="false"
+        android:text="Ajouter"
+        android:layout_marginTop="15dp"
+        android:paddingHorizontal="20dp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/dialog_add_account_2_tv_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:textColor="@color/green_flower"
+        android:textSize="14sp"
+        android:textAllCaps="false"
+        android:text="Je n'ai pas d'autres portefeuilles mobiles disponibles"
+        android:layout_marginTop="15dp"
+        android:paddingHorizontal="20dp"
+        tools:ignore="HardcodedText"
+        android:layout_marginBottom="15dp"/>
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.test.aoner.fanow.test.activity_fragment_flower.fragment_flower.DataSafetyFragment_flower"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/ic_bg_main"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:text="@string/tab_data_safety"
+        android:gravity="center"
+        android:paddingHorizontal="20dp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <WebView
+        android:id="@+id/fragment_data_safety_web_view"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"/>
+
+
+    <LinearLayout
+        android:id="@+id/fragment_data_safety_view_operated"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginVertical="12dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="20dp"
+        android:background="@color/white"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/fragment_data_safety_iv_operated_logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            tools:ignore="ContentDescription" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_d"
+                android:textSize="14sp"
+                android:text="@string/operated_company_desc"
+                android:fontFamily="sans-serif-medium"/>
+
+            <TextView
+                android:id="@+id/fragment_data_safety_tv_company_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif-black"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

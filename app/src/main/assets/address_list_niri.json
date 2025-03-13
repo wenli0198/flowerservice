@@ -1,0 +1,2948 @@
+[{
+	"name": "ABIA",
+	"children": [{
+		"name": "ABA",
+		"children": [{
+			"name": "ABA CENTRAL"
+		}, {
+			"name": "ABAUKWU"
+		}, {
+			"name": "ASAOKPUJA"
+		}, {
+			"name": "EZIAMA-LAYOUT"
+		}, {
+			"name": "IHEORJI-LAYOU"
+		}, {
+			"name": "OHABIAM-LAYOUT"
+		}, {
+			"name": "OSUSU LAYOUT"
+		}, {
+			"name": "OVOM"
+		}, {
+			"name": "UMUNGASI"
+		}]
+	}, {
+		"name": "UMUAHIA",
+		"children": [{
+			"name": "AFARA"
+		}, {
+			"name": "AMUZUKWU"
+		}, {
+			"name": "OSSAH"
+		}, {
+			"name": "UGWUNCHARA"
+		}, {
+			"name": "UMUAHIA URBAN I"
+		}, {
+			"name": "UMUAHIA URBAN III"
+		}, {
+			"name": "WORLD BANK"
+		}]
+	}]
+}, {
+	"name": "ADAMAWA",
+	"children": [{
+		"name": "JIMETA",
+		"children": [{
+			"name": "DAMILO"
+		}, {
+			"name": "DEMSAWO"
+		}, {
+			"name": "DUBELI"
+		}, {
+			"name": "GWADABAWA"
+		}, {
+			"name": "JAMBUTU"
+		}, {
+			"name": "KAREWA"
+		}, {
+			"name": "LUGGERE"
+		}, {
+			"name": "MAJALISA"
+		}, {
+			"name": "OLD G.R.A."
+		}]
+	}, {
+		"name": "MUBI",
+		"children": [{
+			"name": "AIRFIELD"
+		}, {
+			"name": "INDUSTRIAL"
+		}, {
+			"name": "KOCHIFA WARD"
+		}, {
+			"name": "LUKUWA"
+		}, {
+			"name": "NASARAWA"
+		}, {
+			"name": "SCHOOL OF ARTS"
+		}, {
+			"name": "SHUWARE WARD"
+		}, {
+			"name": "WURO JIBIRWARD"
+		}, {
+			"name": "WURO PATUJI"
+		}, {
+			"name": "YELWA WARD"
+		}]
+	}, {
+		"name": "YOLA",
+		"children": [{
+			"name": "FEDERAL HOUSING"
+		}, {
+			"name": "LAMIDO PALACE"
+		}]
+	}]
+}, {
+	"name": "AKWA IBOM",
+	"children": [{
+		"name": "UYO",
+		"children": [{
+			"name": "AKPAN ST."
+		}, {
+			"name": "CATHOLIC SECRETARY"
+		}, {
+			"name": "EWET VILLAGE"
+		}, {
+			"name": "FAHA OKU AKPON"
+		}, {
+			"name": "HOUSING ESTATE EWET"
+		}, {
+			"name": "IBOKO"
+		}, {
+			"name": "ITIAM IKOT ABIA"
+		}, {
+			"name": "MILITARY OFFICE IBA OKU"
+		}, {
+			"name": "SCHOOL OF ART AND SCIENCE"
+		}, {
+			"name": "UYO MARKET"
+		}]
+	}]
+}, {
+	"name": "ANAMBRA",
+	"children": [{
+		"name": "AWKA",
+		"children": [{
+			"name": "ASU TECH AREA"
+		}, {
+			"name": "CEMESTRY AREA"
+		}, {
+			"name": "HIGH COURT"
+		}, {
+			"name": "INDUSTRIAL LAYOUT"
+		}, {
+			"name": "IZUOCHA LAYOUT"
+		}, {
+			"name": "OBUNAGU VILL."
+		}]
+	}, {
+		"name": "ONITSHA",
+		"children": [{
+			"name": "AFORADIKE"
+		}, {
+			"name": "AGULU A"
+		}, {
+			"name": "AKUZOR RD"
+		}, {
+			"name": "AKUZOR VILLAGE"
+		}, {
+			"name": "AMAFOR"
+		}, {
+			"name": "AWKA RD"
+		}, {
+			"name": "EJIKEME QTRS"
+		}, {
+			"name": "GRA I"
+		}, {
+			"name": "GRA II"
+		}, {
+			"name": "GRA III"
+		}, {
+			"name": "IWEKA RD"
+		}, {
+			"name": "NEW MARKET RD"
+		}, {
+			"name": "NIGER BRIDGE HEAD RD"
+		}, {
+			"name": "NKPOR NEW MKT."
+		}, {
+			"name": "OBOMPA"
+		}, {
+			"name": "ODOAKPU"
+		}, {
+			"name": "ODUME LAYOUT I"
+		}, {
+			"name": "ODUME LAYOUT II"
+		}, {
+			"name": "OGIDI"
+		}, {
+			"name": "OGUTA RD"
+		}, {
+			"name": "OMAGBA LYT PHASE I \u0026 II"
+		}, {
+			"name": "ONYEABO ST"
+		}, {
+			"name": "OSE I"
+		}, {
+			"name": "OSE II"
+		}, {
+			"name": "THREE THREE I"
+		}, {
+			"name": "UBUBA"
+		}, {
+			"name": "UMUOTA"
+		}, {
+			"name": "UMUSIOME IBO"
+		}, {
+			"name": "UPER IWEKA"
+		}, {
+			"name": "URUOWULU VILLAGE"
+		}, {
+			"name": "ZIK A"
+		}]
+	}, {
+		"name": "NNEWI",
+		"children": [{
+			"name": "NNEWI"
+		}]
+	}]
+}, {
+	"name": "BAUCHI",
+	"children": [{
+		"name": "BAUCHI",
+		"children": [{
+			"name": "ABUBAKAR TAFAWA BALEWA UNIVERSITY"
+		}, {
+			"name": "ABUBAKAR UMAR STATE SCRETARIAT"
+		}, {
+			"name": "ABUBAKAR UMAR STATE SECRETARIAT"
+		}, {
+			"name": "ARMY BARRACKS"
+		}, {
+			"name": "BACAS"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GUMI HILL"
+		}, {
+			"name": "KOFAR JAHUN"
+		}, {
+			"name": "KOFAR WAMBAI"
+		}, {
+			"name": "KOFAR WASA"
+		}, {
+			"name": "LUSHI"
+		}, {
+			"name": "RAILWAY STATION"
+		}, {
+			"name": "TAFAWA BALEWA HOUSING ESTATE"
+		}, {
+			"name": "TAMBARARI VILLAGE"
+		}]
+	}]
+}, {
+	"name": "BAYELSA",
+	"children": [{
+		"name": "YENAGOA",
+		"children": [{
+			"name": "AMARATA-EPIE"
+		}, {
+			"name": "BEBELEBIRI 1 \u0026 2"
+		}, {
+			"name": "EDE-EPE"
+		}, {
+			"name": "EKEKI"
+		}, {
+			"name": "IMGBI"
+		}, {
+			"name": "JULIUS BERGE"
+		}, {
+			"name": "KPANSIA"
+		}, {
+			"name": "NIPOST MAKT"
+		}, {
+			"name": "OKAKA"
+		}, {
+			"name": "SWALI"
+		}]
+	}]
+}, {
+	"name": "BENUE",
+	"children": [{
+		"name": "MAKURDI",
+		"children": [{
+			"name": "ARMY BARRACKS"
+		}, {
+			"name": "EUPI"
+		}, {
+			"name": "EUPI-NEW LAYOUT"
+		}, {
+			"name": "FEDERAL HOUSING AREA"
+		}, {
+			"name": "FEDERAL LOW"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "HIGH LEVEL ASS. VILL."
+		}, {
+			"name": "HUDCO QUARTERS"
+		}, {
+			"name": "KOKOROO"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "UNIJOS CAMPIS"
+		}, {
+			"name": "WADATA"
+		}, {
+			"name": "WURUKUM"
+		}]
+	}, {
+		"name": "OTUKPO",
+		"children": [{
+			"name": "AHMADU BELLO"
+		}, {
+			"name": "ELLA MARKET"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "LOCAL GOVERNMENT CLINIC"
+		}, {
+			"name": "MINISTRY OF WORKS"
+		}, {
+			"name": "NEW MARKET"
+		}, {
+			"name": "NO. CROSS"
+		}, {
+			"name": "OOL"
+		}, {
+			"name": "OCHIDO\u0027S PALACE"
+		}, {
+			"name": "OGWONOGBA"
+		}, {
+			"name": "POST OFFICE"
+		}, {
+			"name": "RAIL WAY STATION"
+		}, {
+			"name": "RICE MILL"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "UPU RD."
+		}]
+	}, {
+		"name": "GBOKO",
+		"children": [{
+			"name": "GYADO JUNCTION"
+		}, {
+			"name": "YANDEV"
+		}, {
+			"name": "MKAR"
+		}, {
+			"name": "ABAAGU"
+		}, {
+			"name": "MALAMI"
+		}, {
+			"name": "GBOKO SOUTH"
+		}]
+	}, {
+		"name": "KASTINA-ALA",
+		"children": [{
+			"name": "COLLEGE AREA"
+		}, {
+			"name": "ABAVER"
+		}, {
+			"name": "HAUSA QUARTERS"
+		}, {
+			"name": "RICE MILL"
+		}, {
+			"name": "HEMATYONGU"
+		}, {
+			"name": "ORSTAAZI"
+		}]
+	}, {
+		"name": "VANDEIKYA",
+		"children": [{
+			"name": "BRANCH ATSER"
+		}, {
+			"name": "KPE AYAA"
+		}, {
+			"name": "TYAKPO"
+		}, {
+			"name": "STADIUM AREA"
+		}, {
+			"name": "LOW COST"
+		}, {
+			"name": "G.R.A"
+		}]
+	}, {
+		"name": "ZAKI BIAM",
+		"children": [{
+			"name": "TER UKUM"
+		}, {
+			"name": "NEW CITY"
+		}, {
+			"name": "JOHN IAN"
+		}, {
+			"name": "TYOGA"
+		}, {
+			"name": "TORKU"
+		}, {
+			"name": "NKST"
+		}]
+	}]
+}, {
+	"name": "BORNO",
+	"children": [{
+		"name": "BAMA",
+		"children": [{
+			"name": "ABUJA"
+		}, {
+			"name": "AJARI"
+		}, {
+			"name": "BULABULIN"
+		}, {
+			"name": "KAIGAMARI"
+		}, {
+			"name": "KANGELERI"
+		}, {
+			"name": "KASUGULA"
+		}, {
+			"name": "KIDARI"
+		}, {
+			"name": "MAKINTARI"
+		}, {
+			"name": "TANDARI"
+		}, {
+			"name": "YERIMARI"
+		}, {
+			"name": "ZANNARI"
+		}]
+	}, {
+		"name": "BIU",
+		"children": [{
+			"name": "BIRMAJUGWAL"
+		}, {
+			"name": "DUGJA"
+		}, {
+			"name": "GALDIMARY"
+		}, {
+			"name": "GARWASHINA"
+		}, {
+			"name": "MANDARA ABDU"
+		}, {
+			"name": "MBULA MEL."
+		}, {
+			"name": "TABRA"
+		}, {
+			"name": "WAKA"
+		}, {
+			"name": "ZARAWUYAKU"
+		}]
+	}, {
+		"name": "MAIDUGURI",
+		"children": [{
+			"name": "BOLORI"
+		}, {
+			"name": "BULABULIN"
+		}, {
+			"name": "COCA COLA FACTORY"
+		}, {
+			"name": "COLLEGE OF AGRIC."
+		}, {
+			"name": "ELKANEMI ISLAMIC THEOLOGY"
+		}, {
+			"name": "G.R.A POLICE STATION"
+		}, {
+			"name": "GAMBORU"
+		}, {
+			"name": "GOVERNMENT HOUSE"
+		}, {
+			"name": "GWANGE"
+		}, {
+			"name": "LAMISULA/MAFONI"
+		}, {
+			"name": "LONDON CIKI"
+		}, {
+			"name": "MAIDUGURI FLOUR MILLS/"
+		}, {
+			"name": "MOLAI G. R. A."
+		}, {
+			"name": "NIPOST HEAD QUARTERS"
+		}, {
+			"name": "NNPC DEPOT"
+		}, {
+			"name": "NEW G.R.A"
+		}, {
+			"name": "NURSING HOME"
+		}, {
+			"name": "POLICE COLLEGE"
+		}, {
+			"name": "POMPAMARI HOUSING ESTATE"
+		}, {
+			"name": "POMPAMARI INDUSTRIAL"
+		}, {
+			"name": "POST OFFICE"
+		}, {
+			"name": "SHEHU\u0027S PALACE"
+		}, {
+			"name": "STADIUM"
+		}, {
+			"name": "STATE LOW COST"
+		}]
+	}]
+}, {
+	"name": "CROSS RIVER",
+	"children": [{
+		"name": "CALABAR",
+		"children": [{
+			"name": "AIPORT"
+		}, {
+			"name": "BOGOBIRI"
+		}, {
+			"name": "DAN ARCHIBON"
+		}, {
+			"name": "EDIBA"
+		}, {
+			"name": "EGERTON"
+		}, {
+			"name": "EGERTON AREA II"
+		}, {
+			"name": "EKPO ABASI"
+		}, {
+			"name": "ESSIEN TOWN"
+		}, {
+			"name": "ETA AGBOR"
+		}, {
+			"name": "GOLDIE"
+		}, {
+			"name": "IKORINIM"
+		}, {
+			"name": "IKOT ANSA"
+		}, {
+			"name": "IKOT OMIN"
+		}, {
+			"name": "STADIUM"
+		}, {
+			"name": "STATE HOUSING ESTATE"
+		}, {
+			"name": "UWANSE"
+		}]
+	}, {
+		"name": "IKOM",
+		"children": [{
+			"name": "ABAKPA"
+		}, {
+			"name": "BISIRI"
+		}, {
+			"name": "BOJOR ACHIBONG"
+		}, {
+			"name": "CALABAR RD"
+		}, {
+			"name": "COMM. SEC. SCH."
+		}, {
+			"name": "LOCAL GOVT. COUNCL"
+		}, {
+			"name": "MAIN MARKET"
+		}, {
+			"name": "MISSION ROAD"
+		}, {
+			"name": "OBUDU RD"
+		}, {
+			"name": "OGJA RD"
+		}, {
+			"name": "OKIM OSABOR RD"
+		}, {
+			"name": "OKUKU"
+		}, {
+			"name": "POST OFFICE FORESTRY"
+		}, {
+			"name": "SCOUT LANE"
+		}, {
+			"name": "UDAMA UBUG"
+		}, {
+			"name": "UKAMUSHA"
+		}, {
+			"name": "UKELLE"
+		}, {
+			"name": "UKWEL"
+		}]
+	}]
+}, {
+	"name": "DELTA",
+	"children": [{
+		"name": "AGBOR",
+		"children": [{
+			"name": "ALIBUBA QUARTERS"
+		}, {
+			"name": "BOJI-BOJI AGBOR"
+		}, {
+			"name": "BOLI-BOJI OWA"
+		}, {
+			"name": "G. R. A."
+		}]
+	}, {
+		"name": "ASABA",
+		"children": [{
+			"name": "CABLEPOINT"
+		}, {
+			"name": "CENTRAL CORE AREA"
+		}, {
+			"name": "EZENEI"
+		}, {
+			"name": "ISIEKE"
+		}, {
+			"name": "OKPANAM ASABA RD."
+		}, {
+			"name": "OVERHEAD BRIDGE LAYOUT"
+		}, {
+			"name": "UMUAGU"
+		}, {
+			"name": "UMUEZE"
+		}, {
+			"name": "UMUONAJE"
+		}]
+	}, {
+		"name": "WARRI",
+		"children": [{
+			"name": "ALDERS TOWN"
+		}, {
+			"name": "BORROW PIT"
+		}, {
+			"name": "EKPAN(TORI)"
+		}, {
+			"name": "GOLF COURSE RD."
+		}, {
+			"name": "NBTC"
+		}, {
+			"name": "OKUAMAGBA LAYOUT"
+		}, {
+			"name": "UGBORIKOKO"
+		}, {
+			"name": "UPPER EREJUWA"
+		}, {
+			"name": "WARRI AIRPORT"
+		}]
+	}, {
+		"name": "SAPELE",
+		"children": [{
+			"name": "AGIMELE VILLAGE"
+		}, {
+			"name": "ATUFE RD."
+		}, {
+			"name": "AYOMANOR RD."
+		}, {
+			"name": "CATHOLIC MISSION RD."
+		}, {
+			"name": "CHICKESTER RD."
+		}, {
+			"name": "OJOLU/GHANA"
+		}, {
+			"name": "OKPE RD."
+		}, {
+			"name": "RECLAMATION RD."
+		}]
+	}]
+}, {
+	"name": "EBONYI",
+	"children": [{
+		"name": "ABAKALIKI",
+		"children": [{
+			"name": "ABAKPA"
+		}, {
+			"name": "AFIKPO RD"
+		}, {
+			"name": "AFIKPO RD."
+		}, {
+			"name": "ENUG-OGOJA EXP.RD"
+		}, {
+			"name": "ENUGU EXP RD."
+		}, {
+			"name": "ENUGU EXPRESS"
+		}, {
+			"name": "ENUGU-OGOJA EXPR."
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "KPIRI-KPIRI"
+		}, {
+			"name": "MBUKOBE"
+		}, {
+			"name": "NDIAGUO"
+		}, {
+			"name": "NEW LAYOUT"
+		}, {
+			"name": "NKALIKI RD"
+		}, {
+			"name": "NTEZI ABA"
+		}, {
+			"name": "OGBAGA RD"
+		}, {
+			"name": "OGOJA RD"
+		}, {
+			"name": "PRESSCO JUNCTION"
+		}, {
+			"name": "UDENSI ST"
+		}]
+	}]
+}, {
+	"name": "EDO",
+	"children": [{
+		"name": "BENIN CITY",
+		"children": [{
+			"name": "EKENHAUN"
+		}, {
+			"name": "EKOSODIN VILLAGE"
+		}, {
+			"name": "ETETE"
+		}, {
+			"name": "EVBOTUBE"
+		}, {
+			"name": "EWEMADE VILLAGE"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "IHOGBEN"
+		}, {
+			"name": "IKPOBA"
+		}, {
+			"name": "IWOGBAN"
+		}, {
+			"name": "OGBA ZOO/OBA AKENZUA II"
+		}, {
+			"name": "OGBELAKA"
+		}, {
+			"name": "OHOVBEOKAO"
+		}, {
+			"name": "OREGBENI"
+		}, {
+			"name": "UGBEKUN"
+		}, {
+			"name": "UGBOWO"
+		}, {
+			"name": "UHUMWUIMWU"
+		}, {
+			"name": "USE"
+		}, {
+			"name": "USELU"
+		}, {
+			"name": "UWELU"
+		}]
+	}, {
+		"name": "UBIAJA",
+		"children": [{
+			"name": "EBHURU QUARTERS  I"
+		}, {
+			"name": "EBHURU QUARTERS  I I"
+		}, {
+			"name": "EGBEMIJE"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "OLD ILUSHI"
+		}, {
+			"name": "OYOMON QUARTERS"
+		}, {
+			"name": "UKPAJA QUARTERS"
+		}]
+	}, {
+		"name": "EKPOMA",
+		"children": [{
+			"name": "EKPOMA"
+		}]
+	}, {
+		"name": "AUCHI",
+		"children": [{
+			"name": "AUCHI"
+		}, {
+			"name": "JATTU"
+		}, {
+			"name": "IGARRA"
+		}, {
+			"name": "OKPELLA"
+		}]
+	}, {
+		"name": "UROMI",
+		"children": [{
+			"name": "UROMI"
+		}]
+	}]
+}, {
+	"name": "EKITI",
+	"children": [{
+		"name": "ADO EKITI",
+		"children": [{
+			"name": "ARAROMI"
+		}, {
+			"name": "COCOA DEV. UNIT AREA"
+		}, {
+			"name": "FALEGAN ESTATE"
+		}, {
+			"name": "FEDERAL POLYTECHNIC"
+		}, {
+			"name": "FEHINTOLA ESTATE"
+		}, {
+			"name": "G.R.A."
+		}, {
+			"name": "IDOLOFIN"
+		}, {
+			"name": "ILOKUN"
+		}, {
+			"name": "MINE-CAMPU AREA"
+		}, {
+			"name": "OLORA\u0027S PALACE AREA"
+		}, {
+			"name": "STADIUM"
+		}]
+	}, {
+		"name": "IKERE EKITI",
+		"children": [{
+			"name": "AJOGBEJE QUARTERS"
+		}, {
+			"name": "AMOYE GRAMMER SCHOOL"
+		}, {
+			"name": "ANAYE"
+		}, {
+			"name": "ARAROMI"
+		}, {
+			"name": "HAVANA QUARTERS"
+		}, {
+			"name": "IJOKA QUARTERS"
+		}, {
+			"name": "IKOYI I"
+		}, {
+			"name": "IKOYI II"
+		}, {
+			"name": "KOJOLA QUARTERS"
+		}, {
+			"name": "MOSHUDI"
+		}, {
+			"name": "ODO ISE"
+		}, {
+			"name": "ODO OJA"
+		}, {
+			"name": "ODO ORO"
+		}, {
+			"name": "OKEOSUN"
+		}, {
+			"name": "ONWARD"
+		}]
+	}, {
+		"name": "IKOLE EKITI",
+		"children": [{
+			"name": "AMUNIKLO"
+		}, {
+			"name": "ARAROMI"
+		}, {
+			"name": "ASIN"
+		}, {
+			"name": "ELEKOLE\u0027S PALACE"
+		}, {
+			"name": "ERUWA"
+		}, {
+			"name": "IBALE IKOYI"
+		}, {
+			"name": "IDEMO"
+		}, {
+			"name": "IGBONNA"
+		}, {
+			"name": "IKOLE GENERAL HOSPITAL"
+		}, {
+			"name": "IKOYI IKORO"
+		}, {
+			"name": "ILOKA"
+		}, {
+			"name": "ILOTIN"
+		}, {
+			"name": "IMIKAN"
+		}, {
+			"name": "ISABA"
+		}, {
+			"name": "ISOLO"
+		}, {
+			"name": "OKE IGBALA"
+		}, {
+			"name": "OKE IRU"
+		}, {
+			"name": "OMODOWA"
+		}, {
+			"name": "ORIN"
+		}, {
+			"name": "OTUNJA"
+		}, {
+			"name": "ST. PETERS"
+		}, {
+			"name": "USIN"
+		}]
+	}]
+}, {
+	"name": "ENUGU",
+	"children": [{
+		"name": "ENUGU",
+		"children": [{
+			"name": "AKPOGA NIKE"
+		}, {
+			"name": "AMAOJI AGU NIKE"
+		}, {
+			"name": "ARMY BARRACKS"
+		}, {
+			"name": "AZIKWE STADIUM"
+		}, {
+			"name": "CHINA TOWN"
+		}, {
+			"name": "COLLERY SNR STAFF QTRS"
+		}, {
+			"name": "GABON VILLAGE"
+		}, {
+			"name": "IDAW RIVER LAYOUT"
+		}, {
+			"name": "INDEPENDENCE LAYOUT"
+		}, {
+			"name": "NEW HAVEN"
+		}, {
+			"name": "OGBETE LAYOUT"
+		}, {
+			"name": "REPUBLIC LAYOUT"
+		}, {
+			"name": "UNN"
+		}, {
+			"name": "UGBO ODOGWU"
+		}, {
+			"name": "UWAM"
+		}]
+	}]
+}, {
+	"name": "FCT",
+	"children": [{
+		"name": "ABUJA",
+		"children": [{
+			"name": "ASOKORO"
+		}, {
+			"name": "CENTRAL BUSINESS DISTRICT"
+		}, {
+			"name": "GARKI AREA 1"
+		}, {
+			"name": "GARKI AREA 10"
+		}, {
+			"name": "GARKI AREA 11"
+		}, {
+			"name": "GARKI AREA 2"
+		}, {
+			"name": "GARKI AREA 3"
+		}, {
+			"name": "GARKI AREA 7"
+		}, {
+			"name": "GARKI AREA 8"
+		}, {
+			"name": "MAITAMA"
+		}, {
+			"name": "THREE ARMS ZONE"
+		}, {
+			"name": "WUSE II"
+		}, {
+			"name": "WUSE ZONE 1"
+		}, {
+			"name": "WUSE ZONE 2"
+		}, {
+			"name": "WUSE ZONE 3"
+		}, {
+			"name": "WUSE ZONE 4"
+		}, {
+			"name": "WUSE ZONE 5"
+		}, {
+			"name": "WUSE ZONE 6"
+		}, {
+			"name": "WUSE ZONE 7"
+		}]
+	}]
+}, {
+	"name": "GOMBE",
+	"children": [{
+		"name": "GOMBE",
+		"children": [{
+			"name": "BOLORI"
+		}, {
+			"name": "EMENEKE BUS STOP"
+		}, {
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "G. R. A"
+		}, {
+			"name": "GOVERNMENT HOUSE"
+		}, {
+			"name": "HERO GANA"
+		}, {
+			"name": "JEKA DA FARI"
+		}, {
+			"name": "KUMBIYA KUMBIYA"
+		}, {
+			"name": "NASSARAWO"
+		}, {
+			"name": "PANTAMI"
+		}, {
+			"name": "POLICE C.I.D"
+		}, {
+			"name": "SHAMAKI"
+		}, {
+			"name": "TUDUN HATSI"
+		}, {
+			"name": "TUDUN WADA"
+		}]
+	}]
+}, {
+	"name": "IMO",
+	"children": [{
+		"name": "OKIGWE",
+		"children": [{
+			"name": "AGIRIGA"
+		}, {
+			"name": "GERMAN HILL"
+		}, {
+			"name": "INDUSTRIAL AREA"
+		}, {
+			"name": "MECHANIC VILLAGE"
+		}, {
+			"name": "NDIAKWAEKE"
+		}, {
+			"name": "UBAHU"
+		}, {
+			"name": "REV. MANN"
+		}]
+	}, {
+		"name": "ORLU",
+		"children": [{
+			"name": "AMAIFEKE"
+		}, {
+			"name": "AMAOJI"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "LOCAL GOVERNMENT HEADQUARTERS"
+		}, {
+			"name": "LOW COST"
+		}, {
+			"name": "UMUNA"
+		}, {
+			"name": "UMUOKWARA"
+		}, {
+			"name": "UMUSASA"
+		}]
+	}, {
+		"name": "OWERRI",
+		"children": [{
+			"name": "ALADINMA ESTATE"
+		}, {
+			"name": "ALADINMA NORTHERN EXTENTION"
+		}, {
+			"name": "AMAWOM"
+		}, {
+			"name": "ARUGO LAYOUT"
+		}, {
+			"name": "IKENEGBU LAYOUT"
+		}, {
+			"name": "IMO STATE UNIVERSITY"
+		}, {
+			"name": "NEKEDE"
+		}, {
+			"name": "NEW OWERRI"
+		}, {
+			"name": "STATE HIGH COURT"
+		}, {
+			"name": "UGWU ORJI"
+		}, {
+			"name": "UMUECHE"
+		}, {
+			"name": "UMUODU"
+		}, {
+			"name": "UMUOYIMA EMMANUEL COLLEGE LAYOUT"
+		}, {
+			"name": "UZI LAYOUT"
+		}, {
+			"name": "WORKS LAYOUT"
+		}]
+	}]
+}, {
+	"name": "JIGAWA",
+	"children": [{
+		"name": "DUTSE",
+		"children": [{
+			"name": "CENTRAL MARKET"
+		}, {
+			"name": "FAGOJI"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GALDIMAWA"
+		}, {
+			"name": "GOVERNMENT HOUSE"
+		}, {
+			"name": "INTERNET AREA"
+		}, {
+			"name": "KALGO VILLAGE"
+		}, {
+			"name": "SABON GARIN ZAI"
+		}, {
+			"name": "SABUWAR MARINJUWA"
+		}, {
+			"name": "TAKUR QUARTRES"
+		}]
+	}, {
+		"name": "HADEJIA",
+		"children": [{
+			"name": "DABANTU"
+		}, {
+			"name": "GARKO"
+		}, {
+			"name": "GAZULMARI"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "HADEJIA JAMA\u0027ARE"
+		}, {
+			"name": "KOFAR AREWA"
+		}, {
+			"name": "KOFAR GABAS"
+		}, {
+			"name": "MAJEMA"
+		}, {
+			"name": "MAKWALLA"
+		}, {
+			"name": "NEW G.R.A"
+		}, {
+			"name": "POLICE BARRACKS"
+		}, {
+			"name": "POLICE HEADQUARTERS"
+		}]
+	}]
+}, {
+	"name": "KADUNA",
+	"children": [{
+		"name": "KADUNA",
+		"children": [{
+			"name": "AHMADU BELLO STADIUM"
+		}, {
+			"name": "AHMADU BELLO WAY"
+		}, {
+			"name": "BADIKO"
+		}, {
+			"name": "BARNAWA G.R.A"
+		}, {
+			"name": "BARNAWA VILLAGE"
+		}, {
+			"name": "CHIYODA"
+		}, {
+			"name": "DALLET BARRACKS"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GONI GORA"
+		}, {
+			"name": "JUNCTION RD."
+		}, {
+			"name": "KABALA WEST"
+		}, {
+			"name": "KAKURI"
+		}, {
+			"name": "KAWO"
+		}, {
+			"name": "KURMI MASHI"
+		}, {
+			"name": "MANDO"
+		}, {
+			"name": "N.D.A"
+		}, {
+			"name": "NARAYI"
+		}, {
+			"name": "NIGERIAN AIRFORCE BASE"
+		}, {
+			"name": "RIGASA NORTH"
+		}, {
+			"name": "RIGASA VILLAGE"
+		}, {
+			"name": "SABON TASHA"
+		}, {
+			"name": "TELEVISION"
+		}, {
+			"name": "TUDUN NUPAWA"
+		}, {
+			"name": "TUDUN WADA"
+		}, {
+			"name": "UNGUWAN KANAWA"
+		}, {
+			"name": "UNGUWAR MA\u0027AZU"
+		}]
+	}, {
+		"name": "ZARIA",
+		"children": [{
+			"name": "CHIKALI"
+		}, {
+			"name": "GASKIYA CORPORATION"
+		}, {
+			"name": "GYALLESU"
+		}, {
+			"name": "HANWA"
+		}, {
+			"name": "HAYIN DOGO"
+		}, {
+			"name": "KOFAR GAYA"
+		}, {
+			"name": "KOFAR JATAU"
+		}, {
+			"name": "KWANGILA"
+		}, {
+			"name": "MARMARA"
+		}, {
+			"name": "PALACE"
+		}, {
+			"name": "RAILWAY QUARTRES"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "TSUGUGI"
+		}, {
+			"name": "TUDUN WADA"
+		}, {
+			"name": "UNGUWAR KANAWA"
+		}]
+	}]
+}, {
+	"name": "KANO",
+	"children": [{
+		"name": "KANO",
+		"children": [{
+			"name": "BADAWA"
+		}, {
+			"name": "DAKATA"
+		}, {
+			"name": "DALA"
+		}, {
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "FAGGE"
+		}, {
+			"name": "GOVERNMENT HOUSE"
+		}, {
+			"name": "GYADI GYADI"
+		}, {
+			"name": "HOTORO"
+		}, {
+			"name": "KABUGA"
+		}, {
+			"name": "KOFAR MATA"
+		}, {
+			"name": "KOFAR NA\u0027ISA"
+		}, {
+			"name": "KOFAR NASSARAWA"
+		}, {
+			"name": "NAIBAWA"
+		}, {
+			"name": "NASSARAWA"
+		}, {
+			"name": "RUMFA COLLAGE"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "SHAHUCHI"
+		}, {
+			"name": "SHARADA"
+		}]
+	}, {
+		"name": "WUDIL",
+		"children": [{
+			"name": "GARINDO"
+		}, {
+			"name": "JIGAWA"
+		}, {
+			"name": "KANO STATE UNIVERSITY"
+		}, {
+			"name": "KATURJE"
+		}, {
+			"name": "KOFAR FADA"
+		}, {
+			"name": "LOCAL GOVERNMENT SCRETARIAT"
+		}, {
+			"name": "POLIC BARRACKS"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "SHAGARI QUARTERS"
+		}, {
+			"name": "UNGUWAR FULANI"
+		}, {
+			"name": "WUDIL COMPREHENSIVE HEALTH"
+		}]
+	}]
+}, {
+	"name": "KEBBI",
+	"children": [{
+		"name": "ARGUNGU",
+		"children": [{
+			"name": "GALADIMA"
+		}, {
+			"name": "GARKAR JATAU"
+		}, {
+			"name": "GWANGE"
+		}, {
+			"name": "KOKANI NORTH"
+		}, {
+			"name": "KOKANI SOUTH"
+		}, {
+			"name": "MAGAJIN RAFI"
+		}]
+	}, {
+		"name": "BIRNIN KEBBI",
+		"children": [{
+			"name": "BY PASS RD."
+		}, {
+			"name": "DG\u0027S QUARTRES"
+		}, {
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "GESSE LOW COST"
+		}, {
+			"name": "MAKERA GANDU"
+		}, {
+			"name": "NASSARAWA I"
+		}, {
+			"name": "NASSARAWA II"
+		}, {
+			"name": "NEW PRISON QUARTERS"
+		}, {
+			"name": "PRISON SERVICE"
+		}, {
+			"name": "RAFIN ATIKU"
+		}]
+	}, {
+		"name": "ZURU",
+		"children": [{
+			"name": "BOMGOGOMO"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "TWIN QUARTERS"
+		}, {
+			"name": "UNGUWAR ZURU"
+		}, {
+			"name": "ZURU EMIRATE COUNCIL"
+		}, {
+			"name": "ZURU CENTRAL"
+		}, {
+			"name": "ZURU FADA"
+		}, {
+			"name": "ZURU JARKASA EAST"
+		}, {
+			"name": "ZURU JARKASA WEST"
+		}, {
+			"name": "ZURU TUDUN WADA"
+		}, {
+			"name": "ZURU ZANGO"
+		}]
+	}, {
+		"name": "YAURI",
+		"children": [{
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "HILUKA"
+		}, {
+			"name": "MARKET"
+		}, {
+			"name": "NEW MOTOR PARK"
+		}, {
+			"name": "POLICE AREA COMMAND"
+		}, {
+			"name": "RIMA QUARTERS"
+		}, {
+			"name": "TASHAR GARKUWA"
+		}, {
+			"name": "UNGUWAR WALI"
+		}]
+	}]
+}, {
+	"name": "KOGI",
+	"children": [{
+		"name": "KABBA",
+		"children": [{
+			"name": "COLLAGE OF AGRIC"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "KABBA TOWN HALL"
+		}, {
+			"name": "LOCAL GOVERNMENT SCRETARIAT"
+		}, {
+			"name": "LOKOJA BYE PASS"
+		}, {
+			"name": "SIR JAMES OLORUNTOBA WAY"
+		}]
+	}, {
+		"name": "OKENE",
+		"children": [{
+			"name": "AGEVA."
+		}, {
+			"name": "KUROKO"
+		}, {
+			"name": "OBANGEDE"
+		}, {
+			"name": "ADEGU"
+		}, {
+			"name": "EMENE"
+		}, {
+			"name": "BARIKI"
+		}]
+	}]
+}, {
+	"name": "KWARA",
+	"children": [{
+		"name": "ILORIN",
+		"children": [{
+			"name": "ABDUL AZEEZ"
+		}, {
+			"name": "ADEWOLE ESTATE"
+		}, {
+			"name": "EDN"
+		}, {
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GAA AKANBI"
+		}, {
+			"name": "KULENDE"
+		}, {
+			"name": "MURITALA RD."
+		}, {
+			"name": "NIGER"
+		}, {
+			"name": "OKELELE"
+		}, {
+			"name": "OLD YIDI"
+		}, {
+			"name": "OLOJE"
+		}, {
+			"name": "PAKATA"
+		}, {
+			"name": "SABON LINE AMILEGBE"
+		}, {
+			"name": "STADIUM RD. GBALASA"
+		}, {
+			"name": "TAIWO"
+		}]
+	}]
+}, {
+	"name": "LAGOS",
+	"children": [{
+		"name": "BADAGRY",
+		"children": [{
+			"name": "AJARA AGAMATHEM VETHO/IBEREKO"
+		}, {
+			"name": "ASAGO SANGO"
+		}, {
+			"name": "ASCON"
+		}, {
+			"name": "BEREKS/SURULERE"
+		}, {
+			"name": "SEME BADAGRY"
+		}]
+	}, {
+		"name": "IKORODU",
+		"children": [{
+			"name": "ABULE ABON"
+		}, {
+			"name": "DAGBOLU"
+		}, {
+			"name": "EYITA"
+		}, {
+			"name": "FEDERAL LOWCOST HOUSING ESTATE"
+		}, {
+			"name": "ISALE I"
+		}, {
+			"name": "ISAWO"
+		}, {
+			"name": "LAMBO LASUNWOM VILLAGE"
+		}, {
+			"name": "LOWA ESTATE"
+		}, {
+			"name": "OBA AYANGUNRIS\u0027S PALACE"
+		}, {
+			"name": "OGOLONTA"
+		}, {
+			"name": "ORI OKUTA"
+		}, {
+			"name": "OWUTU"
+		}]
+	}, {
+		"name": "LAGOS",
+		"children": [{
+			"name": "1004"
+		}, {
+			"name": "ABARENJI"
+		}, {
+			"name": "ABORU"
+		}, {
+			"name": "ABULE EGBA"
+		}, {
+			"name": "ABULE IJESHA"
+		}, {
+			"name": "ABULE OJA"
+		}, {
+			"name": "ABULE OKUTA"
+		}, {
+			"name": "ADENIJI ADELE"
+		}, {
+			"name": "ADENIRAN OGUNSANYA"
+		}, {
+			"name": "AGARAWU"
+		}, {
+			"name": "AGBELEKALE"
+		}, {
+			"name": "AGEGE"
+		}, {
+			"name": "AGODO"
+		}, {
+			"name": "AHMADIYA"
+		}, {
+			"name": "AJAH"
+		}, {
+			"name": "AJAO ESTATE"
+		}, {
+			"name": "AJEGUNLE BOUNDRY"
+		}, {
+			"name": "AKESAN"
+		}, {
+			"name": "AKINTAN"
+		}, {
+			"name": "AKOKA"
+		}, {
+			"name": "ALAGBADO"
+		}, {
+			"name": "ALAKIJA/OLD OJO"
+		}, {
+			"name": "ALAKUKO"
+		}, {
+			"name": "ALAPERE KETU"
+		}, {
+			"name": "ALAUSA"
+		}, {
+			"name": "ALIMOSHO"
+		}, {
+			"name": "ALLEN"
+		}, {
+			"name": "AMUKOKO ALABA ORO"
+		}, {
+			"name": "AMUKOKO EAST"
+		}, {
+			"name": "AMUKOKO NORTH"
+		}, {
+			"name": "AMUKOKO WEST"
+		}, {
+			"name": "ANTHONY"
+		}, {
+			"name": "APAPA CENTRAL"
+		}, {
+			"name": "APAPA NORTH"
+		}, {
+			"name": "APAPA SOUTH"
+		}, {
+			"name": "APAPA WEST"
+		}, {
+			"name": "ATUNRASE ESTATE GBAGADA"
+		}, {
+			"name": "BAKARE FARO"
+		}, {
+			"name": "BALOGUN"
+		}, {
+			"name": "BODE THOMAS"
+		}, {
+			"name": "BROAD ST."
+		}, {
+			"name": "BUNGALOW ESTATE"
+		}, {
+			"name": "C2 SARI IGANMU ORILE NORTH"
+		}, {
+			"name": "CAPTAIN"
+		}, {
+			"name": "CISARI IGANMU ORILE SOUTH"
+		}, {
+			"name": "DOLPHIN ESTATE"
+		}, {
+			"name": "DOPEMU"
+		}, {
+			"name": "DOSUNMU"
+		}, {
+			"name": "EBUTE META WEST"
+		}, {
+			"name": "EGAN"
+		}, {
+			"name": "EGBE"
+		}, {
+			"name": "EGBEDA"
+		}, {
+			"name": "EJIGBO ORINLE OWO"
+		}, {
+			"name": "EPE TEDO"
+		}, {
+			"name": "FADEYI"
+		}, {
+			"name": "FESTAC COMMUNITY I"
+		}, {
+			"name": "FESTAC COMMUNITY II"
+		}, {
+			"name": "FESTAC COMMUNITY III"
+		}, {
+			"name": "FESTAC COMMUNITY IV"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GBAGADA"
+		}, {
+			"name": "GBOSERE"
+		}, {
+			"name": "IDI ARABA"
+		}, {
+			"name": "IDI ORO"
+		}, {
+			"name": "IDUMAGBO"
+		}, {
+			"name": "IDUMOTA"
+		}, {
+			"name": "IDUMU"
+		}, {
+			"name": "IFAKO AGEGE"
+		}, {
+			"name": "IGANDO"
+		}, {
+			"name": "IJAYE"
+		}, {
+			"name": "IJEDODO"
+		}, {
+			"name": "IJEGEMO"
+		}, {
+			"name": "IJEGUN"
+		}, {
+			"name": "IJESHATEDO"
+		}, {
+			"name": "IJORA BADIA CENTRAL"
+		}, {
+			"name": "IJORA BADIA EAST"
+		}, {
+			"name": "IJORA BADIA NORTH"
+		}, {
+			"name": "IJORA BADIA WEST"
+		}, {
+			"name": "IJORA OLOYE"
+		}, {
+			"name": "IJU ISAGA"
+		}, {
+			"name": "IJU WATER WORKS"
+		}, {
+			"name": "IKATA"
+		}, {
+			"name": "IKEJA"
+		}, {
+			"name": "IKEJA OBA AKRAN"
+		}, {
+			"name": "IKOSI"
+		}, {
+			"name": "IKOTUN"
+		}, {
+			"name": "IKOYI"
+		}, {
+			"name": "ILAJE"
+		}, {
+			"name": "ILASAMAJA"
+		}, {
+			"name": "ILUPEJU"
+		}, {
+			"name": "IPAJA"
+		}, {
+			"name": "ISAGA TEDO"
+		}, {
+			"name": "ISALE EKO"
+		}, {
+			"name": "ISHERI OFIN"
+		}, {
+			"name": "ISHERI OKE"
+		}, {
+			"name": "ISHERI OSUN"
+		}, {
+			"name": "ISOLO"
+		}, {
+			"name": "ITAFAJI"
+		}, {
+			"name": "ITIRE"
+		}, {
+			"name": "IWAYA"
+		}, {
+			"name": "JANKARA"
+		}, {
+			"name": "JIBOWU"
+		}, {
+			"name": "KEFFI"
+		}, {
+			"name": "KETU"
+		}, {
+			"name": "KETU MILE 12"
+		}, {
+			"name": "KETU ORISIGUN"
+		}, {
+			"name": "KIRIKIRI"
+		}, {
+			"name": "KIRIKIRI INDUSTRIAL"
+		}, {
+			"name": "KIRIKIRI PHASE"
+		}, {
+			"name": "LAFIAJI"
+		}, {
+			"name": "LAWANSON"
+		}, {
+			"name": "MAGODO"
+		}, {
+			"name": "MAKOKO"
+		}, {
+			"name": "MAKOKO EXTENSION"
+		}, {
+			"name": "MARINA"
+		}, {
+			"name": "MARYLAND"
+		}, {
+			"name": "MASSY"
+		}, {
+			"name": "MEIRAN"
+		}, {
+			"name": "MENDE"
+		}, {
+			"name": "MURTALA MUHAMMED AIRPORT"
+		}, {
+			"name": "MUSHIN"
+		}, {
+			"name": "OBALENDE"
+		}, {
+			"name": "OBANIKORO"
+		}, {
+			"name": "OFFIN"
+		}, {
+			"name": "OGBA AGUDA"
+		}, {
+			"name": "OGUDU"
+		}, {
+			"name": "OJODU"
+		}, {
+			"name": "OJOKORO"
+		}, {
+			"name": "OJOTA"
+		}, {
+			"name": "OKE AFA JAKANDE"
+		}, {
+			"name": "OKE ARIN"
+		}, {
+			"name": "OKE ODO"
+		}, {
+			"name": "OKEPOPO"
+		}, {
+			"name": "OKO OBA AGEGE"
+		}, {
+			"name": "OLODI APAPA"
+		}, {
+			"name": "OLOTA"
+		}, {
+			"name": "OLOWOGBOWO"
+		}, {
+			"name": "OLOWOIRA"
+		}, {
+			"name": "OLUTE/NAVY TOWN"
+		}, {
+			"name": "ONIKAN"
+		}, {
+			"name": "ONIKE"
+		}, {
+			"name": "ONIPANU"
+		}, {
+			"name": "OPEBI"
+		}, {
+			"name": "OREGUN"
+		}, {
+			"name": "OREMEJI IFAKO"
+		}, {
+			"name": "ORILE IGAMU"
+		}, {
+			"name": "OSHODI"
+		}, {
+			"name": "OWOROSOKI"
+		}, {
+			"name": "OWOROSOKI L AND K"
+		}, {
+			"name": "OYA ESTATE"
+		}, {
+			"name": "PALMGROVE"
+		}, {
+			"name": "SANGISA"
+		}, {
+			"name": "SATELITE TOWN"
+		}, {
+			"name": "SHOGUNLE"
+		}, {
+			"name": "SHOMOLU CENTRAL"
+		}, {
+			"name": "SHOMOLU PEDRO"
+		}, {
+			"name": "SITE C"
+		}, {
+			"name": "SUBERU OJE"
+		}, {
+			"name": "SURULERE CENTRAL"
+		}, {
+			"name": "TUJUSHO"
+		}, {
+			"name": "VICTORIA ISLAND"
+		}, {
+			"name": "YABA/EBUTE META EAST"
+		}, {
+			"name": "BADORE"
+		}]
+	}]
+}, {
+	"name": "NASARAWA",
+	"children": [{
+		"name": "AKWANGA",
+		"children": [{
+			"name": "AKWANGA"
+		}]
+	}, {
+		"name": "DOMA",
+		"children": [{
+			"name": "DOMA"
+		}]
+	}, {
+		"name": "KARU",
+		"children": [{
+			"name": "MARARABA"
+		}, {
+			"name": "NYANYA"
+		}]
+	}, {
+		"name": "KEFFI",
+		"children": [{
+			"name": "KEFFI2"
+		}]
+	}, {
+		"name": "LAFIA",
+		"children": [{
+			"name": "LAFIA"
+		}]
+	}, {
+		"name": "NEW KARU",
+		"children": [{
+			"name": "NEW KARU"
+		}]
+	}, {
+		"name": "WAMBA",
+		"children": [{
+			"name": "WAMBA"
+		}]
+	}]
+}, {
+	"name": "NIGER",
+	"children": [{
+		"name": "BIDA",
+		"children": [{
+			"name": "BANGAYI EKPAT SUNARU"
+		}, {
+			"name": "DARACHITA TAKWASA"
+		}, {
+			"name": "IYARUWA"
+		}, {
+			"name": "KUCHITA NDAK POTUN"
+		}, {
+			"name": "NDENZUBA"
+		}, {
+			"name": "WATER WORKS"
+		}]
+	}, {
+		"name": "MINNA",
+		"children": [{
+			"name": "AHMADU BANAGU"
+		}, {
+			"name": "AIRPORT KWANGILA"
+		}, {
+			"name": "BARKIN SALE"
+		}, {
+			"name": "BARO"
+		}, {
+			"name": "BOSSO DUTSIN KURA"
+		}, {
+			"name": "COLLAGE OF EDUCATION"
+		}, {
+			"name": "GWADA"
+		}, {
+			"name": "KOIDA KURA"
+		}, {
+			"name": "KPAKUNGU"
+		}, {
+			"name": "MAITUMBI GWADAI"
+		}, {
+			"name": "RIVER BASIN AUTHORITY"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "TUNGAN ALADE"
+		}, {
+			"name": "TUNGAN CHANCHAGA"
+		}]
+	}, {
+		"name": "SULEJA",
+		"children": [{
+			"name": "KWAMBA"
+		}, {
+			"name": "KWAKWASHE"
+		}, {
+			"name": "MADALLA"
+		}, {
+			"name": "KADUNA ROAD"
+		}, {
+			"name": "RAFI SAYIN"
+		}, {
+			"name": "SULEJA TOWN"
+		}]
+	}, {
+		"name": "LAPIA",
+		"children": [{
+			"name": "BADEGI-LAPAI"
+		}, {
+			"name": "BABANKOGI"
+		}, {
+			"name": "ETSUGI"
+		}, {
+			"name": "BABA GWARI"
+		}, {
+			"name": "YEKO DAY"
+		}, {
+			"name": "EFFU GWAJA"
+		}]
+	}, {
+		"name": "KONTAGORA",
+		"children": [{
+			"name": "GRA"
+		}, {
+			"name": "BARRACK"
+		}, {
+			"name": "KONTAGORA TOWN"
+		}, {
+			"name": "MAIN MARKET, KANTAGORA NIGER"
+		}, {
+			"name": "ANGU NASARAWA"
+		}, {
+			"name": "SABI GARI"
+		}]
+	}]
+}, {
+	"name": "OGUN",
+	"children": [{
+		"name": "ABEOKUTA",
+		"children": [{
+			"name": "AGBOMEJI"
+		}, {
+			"name": "AGO-OKO"
+		}, {
+			"name": "GRA"
+		}, {
+			"name": "IBARA/GRA"
+		}, {
+			"name": "IBEREKODO/AKOMOJE"
+		}, {
+			"name": "IDIABA"
+		}, {
+			"name": "IKOPA/IAWO ONIGUNU- DOGO"
+		}, {
+			"name": "ISABO"
+		}, {
+			"name": "ITOKO"
+		}, {
+			"name": "JEMO"
+		}, {
+			"name": "OJOKODO/IDO OWE/"
+		}, {
+			"name": "OKE OKO"
+		}, {
+			"name": "OLOMORE"
+		}, {
+			"name": "OLUWO"
+		}, {
+			"name": "ONIKOLOBO/GRA EXTENSION"
+		}, {
+			"name": "QUARRY"
+		}, {
+			"name": "TOTORO/OWU/IJEJA/ITORY/"
+		}]
+	}, {
+		"name": "IJEBU ODE",
+		"children": [{
+			"name": "IJAGUN"
+		}, {
+			"name": "IJARI/OGBOGBO AREA"
+		}, {
+			"name": "IKANGBA"
+		}, {
+			"name": "IMORU"
+		}, {
+			"name": "IREWON"
+		}, {
+			"name": "ISASA POROGUN AREA"
+		}, {
+			"name": "IWADE AREA"
+		}, {
+			"name": "IWESI VILLAGE"
+		}, {
+			"name": "LATOGUN"
+		}, {
+			"name": "MOBALUFON"
+		}, {
+			"name": "MOLIPA"
+		}, {
+			"name": "OGBO/IMAWEJE"
+		}, {
+			"name": "OKE-OWA AREA"
+		}, {
+			"name": "ONIRUGBA AREA"
+		}, {
+			"name": "OSIMORE"
+		}, {
+			"name": "SABO"
+		}]
+	}, {
+		"name": "SANGO OTA",
+		"children": [{
+			"name": "ABEBI/OKESUNA"
+		}, {
+			"name": "ADALEMO"
+		}, {
+			"name": "ADO ODO/OTA"
+		}, {
+			"name": "AFOBAJE ESTATE/AGBALA OBANIBASIRI"
+		}, {
+			"name": "AKILO QUARTERS/"
+		}, {
+			"name": "ARAROMI"
+		}, {
+			"name": "ERINKO"
+		}, {
+			"name": "G. R .A"
+		}, {
+			"name": "IDIROKO RD./OJUORE"
+		}, {
+			"name": "IJAMIDO"
+		}, {
+			"name": "ILOJE"
+		}, {
+			"name": "IPAMESAN"
+		}, {
+			"name": "JIBOWU"
+		}, {
+			"name": "JOJU"
+		}, {
+			"name": "KETERE"
+		}, {
+			"name": "MEFUN RD/BABY O/"
+		}, {
+			"name": "NEW IYANRU"
+		}, {
+			"name": "OBASANJO FARM"
+		}, {
+			"name": "OJABI QUARTERS"
+		}, {
+			"name": "OLD IYANRU/IJANAGANG"
+		}, {
+			"name": "OLOTA PALACE/OTUN/"
+		}, {
+			"name": "ORUBA QTRS"
+		}, {
+			"name": "OTA-IDIROKO RD/TOMORI"
+		}, {
+			"name": "PILO"
+		}, {
+			"name": "TEMIDIRE"
+		}, {
+			"name": "IJANA QTRS/OKE OYINBO/MEFUN/"
+		}]
+	}]
+}, {
+	"name": "ONDO",
+	"children": [{
+		"name": "AKURE",
+		"children": [{
+			"name": "ALAGBAKA"
+		}, {
+			"name": "ARAROMI"
+		}, {
+			"name": "FANINI ESTATE FEDERAL UNIVERSITY OF TECHNOLOGY"
+		}, {
+			"name": "GBADARE ONDO BYE PASS"
+		}, {
+			"name": "HIGH COURT"
+		}, {
+			"name": "IJAPO ESTATE"
+		}, {
+			"name": "IJARE IRESE RD."
+		}, {
+			"name": "IJOMU"
+		}, {
+			"name": "NIPOST HEADQUARTERS"
+		}, {
+			"name": "OBA ILE"
+		}, {
+			"name": "OBAS PALACE"
+		}, {
+			"name": "OKE ARO DANJUMA"
+		}, {
+			"name": "OKEARO"
+		}, {
+			"name": "OSINLE SIJUADE ESTATE"
+		}, {
+			"name": "OWODE"
+		}, {
+			"name": "SCHOOL OF AGRIC"
+		}, {
+			"name": "SHAGARI VILLAGE"
+		}]
+	}, {
+		"name": "IKARE AKOKO",
+		"children": [{
+			"name": "EKAN OYINMO"
+		}, {
+			"name": "IGBDE"
+		}, {
+			"name": "IKU"
+		}, {
+			"name": "ODEYARE OKOJA"
+		}, {
+			"name": "OKE RUWA"
+		}, {
+			"name": "OKEGBE"
+		}, {
+			"name": "OKORUN"
+		}, {
+			"name": "OLUKARE\u0027S PALACE"
+		}, {
+			"name": "OYINMO"
+		}]
+	}]
+}, {
+	"name": "OSUN",
+	"children": [{
+		"name": "IFE CENTRAL",
+		"children": [{
+			"name": "ABA COKER"
+		}, {
+			"name": "ELEYELE"
+		}, {
+			"name": "IKOYI"
+		}, {
+			"name": "ILARE"
+		}, {
+			"name": "ILODE"
+		}, {
+			"name": "IREMO"
+		}, {
+			"name": "MORE"
+		}, {
+			"name": "O.A.U"
+		}, {
+			"name": "OKEREWE"
+		}, {
+			"name": "OPA"
+		}, {
+			"name": "ORANMIYAN SHRINE"
+		}]
+	}, {
+		"name": "IJEBU IJESA",
+		"children": [{
+			"name": "IGBON ILORO"
+		}, {
+			"name": "IRE AKARI"
+		}, {
+			"name": "IREPODUN"
+		}, {
+			"name": "ODO AFIN"
+		}, {
+			"name": "ODO ESE"
+		}, {
+			"name": "ODO OJA"
+		}, {
+			"name": "ODOGO"
+		}, {
+			"name": "OGBON OGBEJE"
+		}, {
+			"name": "OKE INISA"
+		}, {
+			"name": "TEMIDIRE"
+		}]
+	}, {
+		"name": "ILESA",
+		"children": [{
+			"name": "ABIOLA AVE."
+		}, {
+			"name": "ARAROMI OKESA"
+		}, {
+			"name": "ASOKO QUARTERS"
+		}, {
+			"name": "AYESO"
+		}, {
+			"name": "EGBEIDE"
+		}, {
+			"name": "FEDERAL TECHNICAL COLLAGE"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "GOVERNMENT QUARTERS"
+		}, {
+			"name": "IBALA"
+		}, {
+			"name": "IDASA"
+		}, {
+			"name": "IJOKA"
+		}, {
+			"name": "ILAJE QUARTERS"
+		}, {
+			"name": "ILERIN QUARTERS"
+		}, {
+			"name": "ILESA LOCAL GOVERNMENT"
+		}, {
+			"name": "IMO QUARTERS"
+		}, {
+			"name": "IROJO QUARTERS"
+		}, {
+			"name": "ISIDA"
+		}, {
+			"name": "ISOKUH"
+		}, {
+			"name": "OSADEP ZONAL OFFICE"
+		}, {
+			"name": "OBOKUN HIGH SCHOOL"
+		}, {
+			"name": "ODUNDUN"
+		}, {
+			"name": "OKE ESE"
+		}, {
+			"name": "OKE ESO IGBAYE"
+		}, {
+			"name": "OKE IRO"
+		}, {
+			"name": "OKE OOYE"
+		}, {
+			"name": "OKE OPO QUARTERS"
+		}, {
+			"name": "OKE OMIRU"
+		}, {
+			"name": "OKEIYIN"
+		}, {
+			"name": "OKEOLA"
+		}, {
+			"name": "OLD AKURE RD."
+		}, {
+			"name": "OROMU QUARTERS"
+		}, {
+			"name": "PALACE"
+		}, {
+			"name": "STADIUM"
+		}, {
+			"name": "LEVENTIS AGRIC FARM"
+		}]
+	}, {
+		"name": "IPETUMODU",
+		"children": [{
+			"name": "AIYETORO ORUNGUN"
+		}, {
+			"name": "AROJE"
+		}, {
+			"name": "ISALE APATA"
+		}, {
+			"name": "ISALE OLA QUARTERS"
+		}, {
+			"name": "SUSU"
+		}, {
+			"name": "SOOKO"
+		}]
+	}, {
+		"name": "MODAKEKE",
+		"children": [{
+			"name": "ADE OWO"
+		}, {
+			"name": "AKARABATA"
+		}, {
+			"name": "ALAPATA"
+		}, {
+			"name": "ARANSE OLUKOOLA"
+		}, {
+			"name": "AYANSHOLA"
+		}, {
+			"name": "BOSA ST."
+		}, {
+			"name": "ESUYARE QUARTERS"
+		}, {
+			"name": "IRAYE ST."
+		}, {
+			"name": "OGBADORE"
+		}, {
+			"name": "OKE D.O RD."
+		}, {
+			"name": "OKE OLA"
+		}, {
+			"name": "OKE OTUBU QUARTERS"
+		}, {
+			"name": "OKEYIDI"
+		}]
+	}, {
+		"name": "OSHOGBO",
+		"children": [{
+			"name": "AIYETORO"
+		}, {
+			"name": "ALEKUWODO"
+		}, {
+			"name": "DADA ESTATE"
+		}, {
+			"name": "FAGBEWESA"
+		}, {
+			"name": "IDI SEKE"
+		}, {
+			"name": "ITA OLOKAN"
+		}, {
+			"name": "KOLA BALOGUN"
+		}, {
+			"name": "ODIOLOWO"
+		}, {
+			"name": "OGOOLUWA"
+		}, {
+			"name": "OKE ONITI"
+		}, {
+			"name": "OKEFIA"
+		}, {
+			"name": "OMO WEST"
+		}, {
+			"name": "OTA EFUN"
+		}, {
+			"name": "RING RD."
+		}]
+	}]
+}, {
+	"name": "OYO",
+	"children": [{
+		"name": "IBADAN",
+		"children": [{
+			"name": "ABEBI/IDIKAN/OKESENI"
+		}, {
+			"name": "ADAMASINGBA/EKOTEDO"
+		}, {
+			"name": "AGOBWO/OROGUN/SAMONDA"
+		}, {
+			"name": "AGUGU/OREMEJI"
+		}, {
+			"name": "AJIBODE/IITA"
+		}, {
+			"name": "AKOBO/ODOGBO/ARMY BARRACKS"
+		}, {
+			"name": "ALAKIA/MONATAN/PDC ESTATE"
+		}, {
+			"name": "ANOWO VILLAGE/ALOMOMASIFALA"
+		}, {
+			"name": "APATA GANGA/OLD ONA"
+		}, {
+			"name": "AREMO/ADEKILE"
+		}, {
+			"name": "DUGBE/LABAOWO/FOKO"
+		}, {
+			"name": "FELELE/OLORUN-SOGO"
+		}, {
+			"name": "GBELEKALE/OJA IGBO"
+		}, {
+			"name": "GBENLA/OLD IFE RD."
+		}, {
+			"name": "IBADAN POLYTECHNIC/UNIVERSITY OF IBADAN"
+		}, {
+			"name": "IJOKODO/ELEYELE"
+		}, {
+			"name": "IWO RD./BASORUN/AGODI GRA"
+		}, {
+			"name": "IYAGANKU/OKEBOLA"
+		}, {
+			"name": "JERICHO/IDISHIN/"
+		}, {
+			"name": "KUDET/ILETUNTUN"
+		}, {
+			"name": "LAGOS TOLL GATE"
+		}, {
+			"name": "MORE PLANTATION/"
+		}, {
+			"name": "NEW BODIJA/IKOLABA/AGODI"
+		}, {
+			"name": "ODINJO/ACADEMY"
+		}, {
+			"name": "ODO ONA OGA TAYLOR"
+		}, {
+			"name": "OKE ADO/CHALLENGE/MOLETE"
+		}, {
+			"name": "OLD BODIJA/U.C.H/MOKOLA"
+		}, {
+			"name": "OLOMI/ODO OBA"
+		}, {
+			"name": "OLOROGUN VILLAGE/AMOLAJE"
+		}, {
+			"name": "OLUNLOYO/AKANRAN"
+		}, {
+			"name": "OLUYOIE/NEW ADEOYE/ORITA CHALLENGE"
+		}, {
+			"name": "ORANYAN/ELEKURO"
+		}, {
+			"name": "RING RD./OSOSADI"
+		}, {
+			"name": "SALVATION ARMY/INALENDE/"
+		}, {
+			"name": "SANGO/MOKOLA"
+		}, {
+			"name": "SECRETARIAT/OYO RD."
+		}, {
+			"name": "YEMETU/OJE/OKE/AREMO"
+		}]
+	}, {
+		"name": "OGBOMOSO",
+		"children": [{
+			"name": "APAKE AREA/OKELERIN"
+		}, {
+			"name": "CARETAKER/OKE ALAPATA"
+		}, {
+			"name": "GAA MASIFA"
+		}, {
+			"name": "IDIORO/THE APOSTOLIC GRAMMER SCHOOL"
+		}, {
+			"name": "IGBOYI AREA/BAPTIST THEOLOGICAL SEMINARY COLLAGE"
+		}, {
+			"name": "LAUTECH"
+		}, {
+			"name": "NITEL OFFICE/OLUODE LAYOUT"
+		}, {
+			"name": "ODE AGBALA/ISALE AFFON"
+		}, {
+			"name": "ONPETU PALACE"
+		}, {
+			"name": "OREMERIN"
+		}, {
+			"name": "OYO STATE GRA"
+		}, {
+			"name": "SABO/OKE ADO"
+		}, {
+			"name": "SABO MOTOR PARK"
+		}, {
+			"name": "SOUN PALACE OSUPA"
+		}, {
+			"name": "STADIUM AREA/OYO NORTH"
+		}]
+	}, {
+		"name": "OYO",
+		"children": [{
+			"name": "AARE AGO/ODOARO"
+		}, {
+			"name": "AGUNPOPO/ELEWI"
+		}, {
+			"name": "AHIPA/ISALE OYO"
+		}, {
+			"name": "AKEETAN TITUN"
+		}, {
+			"name": "AKUNLEMU/AGBOYE"
+		}, {
+			"name": "APAARA/BALOGUN"
+		}, {
+			"name": "ARAROMI/MOBOLAJE"
+		}, {
+			"name": "ILAKA/ALAODI"
+		}, {
+			"name": "ISALE OYO/OGBEGBE"
+		}, {
+			"name": "ISELE BASORUN/ADESINA"
+		}, {
+			"name": "ISOKUN"
+		}, {
+			"name": "IYALAMU/OKE OLOLA"
+		}, {
+			"name": "KOSO"
+		}, {
+			"name": "KOSOBO"
+		}, {
+			"name": "LAGBONDOKO"
+		}, {
+			"name": "MOGBA/IYAJI"
+		}, {
+			"name": "OKE AAFIN"
+		}, {
+			"name": "OKE APO/AJAGBA/GAA"
+		}, {
+			"name": "OKE-EBO"
+		}, {
+			"name": "ORANMIYAN"
+		}, {
+			"name": "OWODE"
+		}, {
+			"name": "PARAKOYI"
+		}, {
+			"name": "SAKUTU/SABO"
+		}]
+	}]
+}, {
+	"name": "PLATEAU",
+	"children": [{
+		"name": "BARKIN LADI",
+		"children": [{
+			"name": "GANGARE"
+		}, {
+			"name": "HOUSING ESTATE/LOCAL GOVERNMENR SCRETARIAT"
+		}, {
+			"name": "SABON LAYI/KWASHANGWA"
+		}, {
+			"name": "UNGUWAR KWANO/KAMFANI"
+		}]
+	}, {
+		"name": "JOS",
+		"children": [{
+			"name": "ALHERI/UTAN"
+		}, {
+			"name": "ANGLO JOS"
+		}, {
+			"name": "APATA/SEMINARY/KATAKO"
+		}, {
+			"name": "BUKURU"
+		}, {
+			"name": "DADIN KOWA/KUFFANG"
+		}, {
+			"name": "DOGON AGOGO/SABON PEGI"
+		}, {
+			"name": "GANGARE/DILIMI"
+		}, {
+			"name": "GIRING/DOGON KARFE"
+		}, {
+			"name": "JANTA"
+		}, {
+			"name": "KABONG"
+		}, {
+			"name": "LIBERTY DAM/BRITISH AMERICA"
+		}, {
+			"name": "NIPOST G.P.O/C.B.N"
+		}, {
+			"name": "RAYFIED MAI ADIKO"
+		}, {
+			"name": "RIKKOS/NASSARAWA"
+		}, {
+			"name": "TOWNSHIP STADIUM"
+		}, {
+			"name": "TUDUN WADA/SECRETARIAT/HWOLSHE"
+		}, {
+			"name": "UNIJOS/UNGUWAN ROGO/KWARARAFA/KASUWAN NAMA"
+		}, {
+			"name": "ZOLOGICAL GARDEN/HOUSE OF ASSEMBLY"
+		}]
+	}, {
+		"name": "MANGU",
+		"children": [{
+			"name": "BUNGA"
+		}, {
+			"name": "JOS ROAD"
+		}, {
+			"name": "GINDRI ROAD"
+		}, {
+			"name": "MINI STADIUM"
+		}, {
+			"name": "NEW MARKET"
+		}, {
+			"name": "SARPIYA"
+		}]
+	}, {
+		"name": "SHENDAM",
+		"children": [{
+			"name": "JOS ROAD"
+		}, {
+			"name": "GRA"
+		}, {
+			"name": "PANGTUMU"
+		}, {
+			"name": "STADIUM"
+		}, {
+			"name": "PANYAM"
+		}, {
+			"name": "FEDERAL LOW"
+		}]
+	}, {
+		"name": "LANGTANG",
+		"children": [{
+			"name": "WUKARI AMPER"
+		}, {
+			"name": "JOS ROAD"
+		}, {
+			"name": "TUNKUS ROAD"
+		}, {
+			"name": "ZANGZAT"
+		}, {
+			"name": "LOCAL GOVERNMENT SEC"
+		}]
+	}]
+}, {
+	"name": "RIVERS",
+	"children": [{
+		"name": "AHOADA",
+		"children": [{
+			"name": "ALO-MINI"
+		}, {
+			"name": "IGWA LAYOUT"
+		}, {
+			"name": "MBIAMA RD."
+		}, {
+			"name": "OCHOMA LAYOUT"
+		}, {
+			"name": "PORT HARCOURT RD."
+		}, {
+			"name": "TOWN"
+		}]
+	}, {
+		"name": "PORT HARCOURT",
+		"children": [{
+			"name": "AMADI FLAT"
+		}, {
+			"name": "BORI KIRI"
+		}, {
+			"name": "D-LINE"
+		}, {
+			"name": "DIOBU MILE 1"
+		}, {
+			"name": "DIOBU MILE 2"
+		}, {
+			"name": "DIOBU MILE 3"
+		}, {
+			"name": "DIOBU MILE 4"
+		}, {
+			"name": "EAGLE ISLAND RUMUEME/OROAKWO"
+		}, {
+			"name": "IKWERRE"
+		}, {
+			"name": "MAGBUOBA"
+		}, {
+			"name": "NEW G.R.A"
+		}, {
+			"name": "NEW LAYOUT"
+		}, {
+			"name": "OLD G.R.A"
+		}, {
+			"name": "OLD TOWNSHIP"
+		}, {
+			"name": "RUMUKRUESHI"
+		}, {
+			"name": "RUMUOKWUTA"
+		}, {
+			"name": "TRANS AMADI"
+		}]
+	}]
+}, {
+	"name": "SOKOTO",
+	"children": [{
+		"name": "SOKOTO",
+		"children": [{
+			"name": "ALI AKILU"
+		}, {
+			"name": "BAGIDANE"
+		}, {
+			"name": "BARIKIN MARMATO"
+		}, {
+			"name": "FEDERAL SECRETARIAT QUARTERS"
+		}, {
+			"name": "GAWO NAMA"
+		}, {
+			"name": "GIDAN IGWAI"
+		}, {
+			"name": "GOVERNMENT HOUSE"
+		}, {
+			"name": "HAJIYA HALIMA"
+		}, {
+			"name": "KALAMBAINA GIDAN MANUMA"
+		}, {
+			"name": "LOW COST GWIWA"
+		}, {
+			"name": "MABERA GIDA GWADABE"
+		}, {
+			"name": "MABERA GIDAN DAHALA"
+		}, {
+			"name": "MABERA GIDAN GWADABE"
+		}, {
+			"name": "MABERA IDI"
+		}, {
+			"name": "MABERA SHIYAR NASARAWA"
+		}, {
+			"name": "MABERA TSOHON GIDA  II"
+		}, {
+			"name": "MABERA TSOHON GIDA  I"
+		}, {
+			"name": "MAGAJIN GARI"
+		}, {
+			"name": "OLD MARKET"
+		}, {
+			"name": "RIJIYAN DORAWA"
+		}, {
+			"name": "RUNJIN SAMBO"
+		}, {
+			"name": "TUSUN WADA"
+		}, {
+			"name": "UNGUWAN ROGO"
+		}, {
+			"name": "YAURI FLAT AREA"
+		}]
+	}, {
+		"name": "TAMBAWAL",
+		"children": [{
+			"name": "EMIRS PALACE"
+		}, {
+			"name": "GOBIRAWA"
+		}, {
+			"name": "NASSARAWA"
+		}, {
+			"name": "RURAL HEALTH CENTER"
+		}, {
+			"name": "SABON GARI"
+		}, {
+			"name": "SHIYAR KALGAWA"
+		}, {
+			"name": "TAKALMAWA"
+		}]
+	}]
+}, {
+	"name": "TARABA",
+	"children": [{
+		"name": "JALINGO",
+		"children": [{
+			"name": "ABUJA/MAYO DASA/"
+		}, {
+			"name": "BARADE WARD"
+		}, {
+			"name": "DORAWA"
+		}, {
+			"name": "EMIRS PALACE/CENTRAL MARKET/"
+		}, {
+			"name": "HOUSE OF ASSEMBLY"
+		}, {
+			"name": "KOFAI A/NUNKAL A"
+		}, {
+			"name": "KOFAI B/NUNKAI B/AWONIYI QTRS"
+		}, {
+			"name": "MAGAMI"
+		}, {
+			"name": "MAYO GWOI/A. J. OWONNIYI ESTATE"
+		}, {
+			"name": "NASSARAWA (JEKA DA FARI"
+		}, {
+			"name": "PRESIDENTIAL LODGE"
+		}, {
+			"name": "TUDUN WADA"
+		}, {
+			"name": "UNGUWAN GADI"
+		}, {
+			"name": "YELWA  B"
+		}, {
+			"name": "YELWA A"
+		}]
+	}]
+}, {
+	"name": "YOBE",
+	"children": [{
+		"name": "DAMATURU",
+		"children": [{
+			"name": "BENKALIO ESTATE"
+		}, {
+			"name": "BINDIGARI"
+		}, {
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "FEDERAL LOW COST"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GWANGE"
+		}, {
+			"name": "IBRAHIM ABACHA ESTATE"
+		}, {
+			"name": "LAMISULA"
+		}, {
+			"name": "LEGISLATIVE QUARTERS"
+		}, {
+			"name": "MAISANDARI"
+		}, {
+			"name": "MAXIMUM SECURITY PRISON"
+		}, {
+			"name": "SPECIALIST HOSPITAL"
+		}, {
+			"name": "STATE LOW COST"
+		}]
+	}, {
+		"name": "NGURU",
+		"children": [{
+			"name": "ABUJA GARAGE"
+		}, {
+			"name": "D.H. PALACE"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GENERAL HOSPITAL"
+		}, {
+			"name": "NEW GENERAL HOSPITAL"
+		}, {
+			"name": "STATE LOW COST HOUSING VILLAGE"
+		}, {
+			"name": "WOMEN TEACHERS\u0027 COLLEGE"
+		}]
+	}]
+}, {
+	"name": "ZAMFARA",
+	"children": [{
+		"name": "GUSAU",
+		"children": [{
+			"name": "BYE PASS"
+		}, {
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "JANYAU"
+		}, {
+			"name": "MAGAJI"
+		}, {
+			"name": "TUDUN WADA"
+		}, {
+			"name": "UNGUMAR DAWAKI"
+		}]
+	}, {
+		"name": "KAURAN NAMODA",
+		"children": [{
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "FED. POLY TECHNIC"
+		}, {
+			"name": "GEN HOSPITAL"
+		}, {
+			"name": "HAKIMI DAN HASSAN"
+		}, {
+			"name": "KOFAR KWATAR KWASHI"
+		}, {
+			"name": "LUNGUN GALADIMA"
+		}, {
+			"name": "LUNGUN SARKIN MARAFA"
+		}, {
+			"name": "LUNGUN YAN NASSARAWA"
+		}, {
+			"name": "POST OFFICE"
+		}, {
+			"name": "SHIYAR DAN GALADIMA"
+		}, {
+			"name": "SHIYAR LIMANCHI"
+		}, {
+			"name": "SHIYAR MAI JUBBU"
+		}, {
+			"name": "SHIYAR SARKIN BAURA"
+		}, {
+			"name": "SHIYAR WALI"
+		}, {
+			"name": "TSOHUWAR KASUWA"
+		}]
+	}]
+}, {
+	"name": "KATSINA",
+	"children": [{
+		"name": "DAURA",
+		"children": [{
+			"name": "EMIR\u0027S PALACE"
+		}, {
+			"name": "KANTI"
+		}, {
+			"name": "KOFAR AREWA"
+		}, {
+			"name": "KOFAR BARU"
+		}, {
+			"name": "KUSUGU HALL"
+		}, {
+			"name": "L.G.A. SCRETARIAT"
+		}, {
+			"name": "RAHAMAIMA"
+		}, {
+			"name": "SABAN GARI"
+		}, {
+			"name": "SHAGARI QUARTRES"
+		}, {
+			"name": "TUDUN WADA"
+		}, {
+			"name": "UNGUWAR DA\u0027U"
+		}, {
+			"name": "UNGUWAR TARNAWA"
+		}]
+	}, {
+		"name": "FUNTUA",
+		"children": [{
+			"name": "BCJ"
+		}, {
+			"name": "DAN DUTSE"
+		}, {
+			"name": "DUTSEN REME"
+		}, {
+			"name": "FILIN KALLO"
+		}, {
+			"name": "GRA"
+		}, {
+			"name": "JABIRI"
+		}, {
+			"name": "KAROFI"
+		}, {
+			"name": "LOW COST"
+		}, {
+			"name": "MAKERA"
+		}, {
+			"name": "NSSARAWA"
+		}, {
+			"name": "SABON LAYI"
+		}, {
+			"name": "SABONB FEGI"
+		}, {
+			"name": "TUDUN IYA"
+		}, {
+			"name": "TUDUN WADA"
+		}, {
+			"name": "UNGUWAR DAHIRU"
+		}, {
+			"name": "UNGUWAR TUKUR"
+		}, {
+			"name": "UNGWAR GANGAREN RAFIN KASA"
+		}, {
+			"name": "UNGWAR. MAGINA"
+		}, {
+			"name": "UNGWARUWAR MATOYA"
+		}, {
+			"name": "UNGWARUWAR MUSA"
+		}]
+	}, {
+		"name": "KATSINA",
+		"children": [{
+			"name": "BATAGARAWA"
+		}, {
+			"name": "FUSKAR KUSU"
+		}, {
+			"name": "FUSKAR YAMMA"
+		}, {
+			"name": "FUSKAR GABAS"
+		}, {
+			"name": "G.R.A"
+		}, {
+			"name": "GARIN TANDU"
+		}, {
+			"name": "KASTINA RACE COURSE"
+		}, {
+			"name": "KOFAR MARUSA"
+		}, {
+			"name": "KOFAR SAMRI LAYOUT"
+		}, {
+			"name": "POLICE BARRACKS"
+		}]
+	}]
+}]

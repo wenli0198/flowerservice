@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/trans">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginHorizontal="16dp"
+        android:background="@drawable/ic_round_corner_white_12dp">
+
+        <ImageView
+            android:id="@+id/item_permission_iv_img"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/icon_permission_phone"
+            android:layout_marginTop="30dp"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/item_permission_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="18dp"
+            android:textColor="#FF333333"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp"
+            tools:ignore="NestedWeights">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingHorizontal="16dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="12dp">
+
+                <TextView
+                    android:id="@+id/item_permission_tv_title_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff333333"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="10dp"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/item_permission_tv_text_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffa5a5a5"
+                    android:textSize="12sp"
+                    android:layout_marginBottom="15dp"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/item_permission_tv_title_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff333333"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/item_permission_tv_text_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffa5a5a5"
+                    android:textSize="12sp"
+                    android:layout_marginTop="10dp"
+                    tools:ignore="HardcodedText"/>
+
+                <TextView
+                    android:id="@+id/item_permission_tv_title_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff333333"
+                    android:textSize="14sp"
+                    android:layout_marginTop="15dp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/item_permission_tv_text_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffa5a5a5"
+                    android:textSize="12sp"
+                    android:layout_marginTop="10dp"
+                    tools:ignore="HardcodedText"/>
+
+                <TextView
+                    android:id="@+id/item_permission_tv_title_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff333333"
+                    android:textSize="14sp"
+                    android:layout_marginTop="15dp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/item_permission_tv_text_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffa5a5a5"
+                    android:textSize="12sp"
+                    android:layout_marginTop="10dp"
+                    tools:ignore="HardcodedText"/>
+
+            </LinearLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+        <LinearLayout
+            android:id="@+id/itpe_layout_diangroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"/>
+
+        <LinearLayout
+            android:id="@+id/itpe_layout_check"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="11dp"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF222222"
+                android:textSize="14sp"
+                android:text="I have completely read the content"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <ImageButton
+                android:id="@+id/itpe_ib_check"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:background="@drawable/icon_item_check_false"
+                android:layout_marginStart="8dp"
+                tools:ignore="ContentDescription" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_permission_view_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="19dp"
+            android:layout_marginHorizontal="10dp"
+            android:paddingVertical="11dp"
+            android:paddingHorizontal="44dp"
+            android:visibility="gone"
+            android:background="@drawable/ic_round_corner_green_l_10dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_item_check_true"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/flower_word_authorized"
+                android:textColor="@color/green_flower"
+                android:textSize="14sp"
+                android:layout_marginStart="8dp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_permission_view_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingTop="6dp"
+            android:paddingBottom="9dp">
+
+            <Button
+                android:id="@+id/item_permission_btn_deny"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="44dp"
+                android:layout_marginStart="16dp"
+                android:background="@drawable/ic_bg_normal_dialog_notmow_btn"
+                android:text="@string/flower_word_deny"
+                android:textAllCaps="false"
+                android:gravity="center"
+                android:layout_marginVertical="10dp"
+                android:textColor="@color/green_flower"
+                android:textSize="14sp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+            <Button
+                android:id="@+id/item_permission_btn_agree"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="44dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="16dp"
+                android:text="@string/flower_word_agree"
+                android:textColor="#ffffffff"
+                android:textAllCaps="false"
+                android:layout_marginVertical="10dp"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:background="@drawable/ic_bg_btn"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pg_qx_zbj_linearlayout_dian_rongqi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"/>
+
+</LinearLayout>

@@ -1,0 +1,247 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Vay hoa</string>
+
+    <string name="language">vi</string>
+
+    <string name="word_dial">Guay số</string>
+    <string name="word_copy">Sao chép</string>
+    <string name="word_customer_service">Liên hệ với dịch vụ khách hàng</string>
+    <string name="word_customer_service_tips">Thời gian hoạt động</string>
+    <string name="word_next">Bước tiếp theo</string>
+    <string name="word_enter">Vô đi.</string>
+    <string name="tab_home">Về nhà</string>
+    <string name="tab_data_safety">Dữ liệu an toàn</string>
+    <string name="tab_personal_center">Tài khoản</string>
+    <string name="word_days">ngày</string>
+    <string name="word_cancel">Hủy bỏ</string>
+    <string name="word_submit">Nộp</string>
+    <string name="word_delete">Xóa</string>
+    <string name="word_login">Bước tiếp theo>></string>
+    <string name="word_input_tip">Xin hãy kiểm tra nguyên liệu</string>
+    <string name="word_query_progress">Tiến trình tìm kiếm</string>
+    <string name="word_submit_success">Gửi thành công</string>
+    <string name="word_copy_success">Sao chép thành công.</string>
+
+    <string name="customer_service_hotline">đường dây nóng dịch vụ khách hàng</string>
+    <string name="customer_service_email">đường dây nóng dịch vụ khách hàng</string>
+
+
+    <string name="launch_permissions">Ứng dụng cần điện thoại, máy ảnh, vị trí, liên lạc, quyền lưu trữ</string>
+    <string name="launch_permissions_camera">Ứng dụng yêu cầu quyền truy cập máy ảnh</string>
+    <string name="launch_permissions_phone">Ứng dụng yêu cầu quyền truy cập từ điện thoại.</string>
+    <string name="launch_permissions_sms">Ứng dụng yêu cầu quyền truy cập tin nhắn SMS.</string>
+
+    <string name="customer_service_tip">Điện thoại chăm sóc khách hàng thời gian trực tuyến Thứ Bảy - Chủ Nhật 9 giờ sáng - 7 giờ tối</string>
+
+    <string name="diaolg_loading_text" tools:ignore="TypographyEllipsis">Nạp đạn...</string>
+
+    <string name="activity_login_select_country">Chọn quốc gia của tôi</string>
+    <string name="activity_login_enter_phone_num">Nhập sô điện thoại đi động của bạn</string>
+    <string name="activity_login_enter_phone_num_ksh">Enter the phone number linked with your M-PESA account</string>
+    <string name="activity_login_enter_ver_code">Mã xác minh SMS gồm 4 chữ số đã được gửi đến số điện thoại</string>
+    <string name="activity_login_ver_code_hint">Mã xác minh 4 chữ số</string>
+    <string name="activity_login_enter_resend_code"><u>Gửi mã lại</u></string>
+    <string name="activity_login_ver_code_send_tip">Mã xác minh đã được gửi.</string>
+    <string name="activity_login_phone_num_title">Ký vào</string>
+
+    <string name="activity_apply_permission_title">Thông báo thu thập thông tin</string>
+    <string name="activity_apply_permission_text">Để tiếp cận đủ điều kiện và tạo điều kiện giải ngân khoản vay nhanh hơn, chúng tôi cần quyền truy cập máy ảnh, liên lạc, địa điểm, điện thoại, lưu trữ và SMS của bạn.</string>
+    <string name="activity_apply_permission_sms">SMS</string>
+    <string name="activity_apply_permission_sms_text">COLLECTION OF SMS DATA:\nPurpose of Permission: As an important part of our loan process, our app reads your Financial SMS information. This helps us identify bank accounts you may hold, cash flow patterns and amounts you transact as a user. To detect, combat and prevent fraud, attempted fraud, money laundering or other illegal use of our services, we will determine your fraud risk and financial situation. You can choose to agree or deny permission, when you refuse permission will mean lack of SMS information and inability to assess your risk and credit.\n\nType of Data Collect: We only monitor financial SMS, including the sender, description and date sent in the user\'s inbox, which helps us identify the various accounts the user owns and the flow patterns of cash held by the user. We also collect and process telephone data such as SMS logs.\n\nSecurity of Data: We encrypt and transmits your Financial SMS information to our server https://www.flowerloan.info using the HTTPS protocol. We promise not to share data with the third parties without your permission.</string>
+    <string name="activity_apply_permission_contacts">CONTACTS</string>
+    <string name="activity_apply_permission_contacts_text">COLLECTION OF CONTACT LIST:\nPurpose of Permission: As an important part of our loan process, we require you to provide references in your loan application. We identify your social network from your contact list and identify fraudulent contacts in your social network, which helps us detect fraudulent loan applications and reduce credit risk. And as a part of our loan journey,we require references from the loan applicant. In this regard, during filling the form on our app, we collect your contact information to detect close contacts which enable you to fill the data automatically. You can choose to agree or deny permission.\n\nType of Data Collect: We collect your contacts list and information which includes name, phone numbers, account type, contact last modified, favorites (starred) and other optional data like relationship and structural address to enrich your financial profile. We collect contact information only after obtaining your additional explicit consent.\n\nSecurity of Data: We encrypt your information and upload it to our server https://www.flowerloan.info using a secure HTTPS protocol and we promise not to share it with third parties without your consent. We will delete the contacts information after we have determined your risk profile.</string>
+    <string name="activity_apply_permission_phone">PHONE</string>
+    <string name="activity_apply_permission_phone_text">Collect and monitor specific information about your device including your hardware model,operating system and version,unique device identifier,user profile information,wifi information,mobile network information to uniquely identify the devices and ensure that unauthorized devices are not able to act on your behalf helping us prevent fraud.</string>
+    <string name="activity_apply_permission_next_btn">Ok\,Let\'s GO</string>
+    <string name="activity_apply_permission_agreement_1">By continuing,your agree to the Term of&#160;</string>
+    <string name="activity_apply_permission_agreement_2">Service&amp;Privacy Policy</string>
+    <string name="activity_apply_permission_agreement_3">&#160;and receive communications via SMS and Email.</string>
+
+    <string name="fragment_loan_main_loan_amount">Số tiền cho mượn</string>
+    <string name="fragment_loan_main_apply_btn">áp đụng ngay lập tức</string>
+    <string name="fragment_loan_main_tip_1">1.Điền thông tin</string>
+    <string name="fragment_loan_main_tip_2">2.Xác nhận nhu cầu vay</string>
+    <string name="fragment_loan_main_tip_3">3.Xác nhận nhu cầu vay</string>
+    <string name="fragment_loan_main_tip">Giữ một hồ sơ trả nợ tốt, và số tiền cho vay của bạn sẽ tiếp tục tăng</string>
+
+    <string name="activity_loan_apply_loan_amount">Số tiền cho mượn</string>
+    <string name="activity_loan_apply_loan_term">Kỳ hạn vay</string>
+    <string name="activity_loan_apply_disburse_amount">Số tiền nhận được</string>
+    <string name="activity_loan_apply_service_fee">phi dịch vụ</string>
+    <string name="activity_loan_apply_repayment_amount">Số tiền đến hạn</string>
+    <string name="activity_loan_apply_interest">lãi phải trả</string>
+    <string name="activity_loan_apply_overdue_penalty_interest">lãi suất phạt quá hạn</string>
+    <string name="activity_loan_apply_btn">Nộp hồ sơ vay</string>
+    <string name="activity_loan_apply_rate_suffix">% / ngày</string>
+
+    <string name="fragment_loan_review_title">Đơn xin vay tiền của bạn đang được xem xét</string>
+    <string name="fragment_loan_review_text">Khoản vay của bạn dự kiến sẽ được xem xét trong vòng <font color="#11986A">10–30 phút</font>. Chúng tôi cũng có thể gọi cho bạn trong vòng <font color="#11986A">24 giờ</font>. Vui lòng giữ đường dây điện thoại của bạn mở</string>
+    <string name="fragment_loan_review_refresh_status">trạng thái làm mới</string>
+    <string name="fragment_loan_review_loan_detail_title">đơn xin vay tiền của bạn</string>
+    <string name="fragment_loan_review_loan_amount">số tiền cho mượn</string>
+    <string name="fragment_loan_review_loan_term">kỳ hạn vay</string>
+    <string name="fragment_loan_review_receiving_account_title">tài khoản nhận tiền vay</string>
+    <string name="fragment_loan_review_receiving_account_text">Sau khi một đơn xin vay được chấp thuận, số tiền cho vay sẽ được chuyển trực tiếp vào thẻ ngân hàng của bạn.</string>
+
+    <string name="fragment_loan_loaning_title">Đơn xin vay của bạn đã được phê duyệt</string>
+    <string name="fragment_loan_loaning_text">Khoản vay sẽ được chuyển vào thẻ ngân hàng của bạn</string>
+
+    <string name="loan_tip_title">Trả hết khoản vay của bạn đúng hạn</string>
+    <string name="loan_tip_1">Bạn sẽ có thể tái tài trợ ngay lập tức</string>
+    <string name="loan_tip_2">Số tiền cho vay sẽ được tăng lên</string>
+    <string name="loan_overdue_tip_title">Quá hạn nghiêm trọng sẽ dẫn đến hậu quả</string>
+    <string name="loan_overdue_tip_1">Tín dụng của bạn sẽ bị ảnh hưởng và bạn sẽ không thể vay được nữa</string>
+    <string name="loan_overdue_tip_2">Nếu bạn quá hạn nghiêm trọng, bạn sẽ phải đối mặt với kiện tụng, điều này sẽ dẫn đến chi phí kiện tụng cao cho bạn.</string>
+
+    <string name="fragment_loan_fail_title">Đơn xin vay của bạn không được duyệt</string>
+    <string name="fragment_loan_fail_text_1">Vui lòng đăng ký vay lại sau&#160;</string>
+    <string name="fragment_loan_fail_text_2">.</string>
+
+    <string name="fragment_repay_total_repayment">Tổng số tiền trả nợ</string>
+    <string name="fragment_repay_due_date">Ngày đáo hạn</string>
+    <string name="fragment_repay_loan_amount">số tiền cho mượn</string>
+    <string name="fragment_repay_interest">lãi phải trả</string>
+    <string name="fragment_repay_service_fee">phí dịch vụ</string>
+    <string name="fragment_repay_overdue_days">số ngày quá hạn</string>
+    <string name="fragment_repay_overdue_penalty">tiền phạt quá hạn</string>
+    <string name="fragment_repay_btn">Trả ngay</string>
+    <string name="fragment_repay_overdue_tip">You have an outstanding loan</string>
+
+    <string name="fragment_repay_plan_a_title">Thanh toán đầy đủ:</string>
+    <string name="fragment_repay_plan_a_text">Có thể vay lại ngay sau khi trả nợ.</string>
+    <string name="fragment_repay_plan_b_title">Gia hạn thời gian trả nợ</string>
+    <string name="fragment_repay_plan_b_text">Sau khi thanh toán phí dịch vụ mở rộng, khoản vay của bạn sẽ được hoãn lại để đóng.</string>
+    <string name="fragment_repay_plan_b_extended_service_charges">Phí dịch vụ mở rộng</string>
+    <string name="fragment_repay_plan_b_days_of_extension">Số ngày gia hạn</string>
+    <string name="fragment_repay_plan_b_due_date_after_extension">Ngày trả nợ hoãn lại</string>
+    <string name="fragment_repay_plan_b_total_repayment_due">Tổng số tiền trả nợ đến hạn</string>
+    <string name="fragment_repay_payment_amount">Số tiền thanh toán</string>
+    <string name="fragment_repay_btn_pay">Chi trả</string>
+
+    <string name="fragment_personal_center_title">Trung tâm cá nhân</string>
+    <string name="fragment_personal_center_service_feedback">Gợi ý và phản hồi</string>
+    <string name="fragment_personal_center_customer_service">Liên hệ với dịch vụ khách hàng</string>
+    <string name="fragment_personal_center_logout">Thoát khỏi đăng nhập</string>
+
+    <string name="activity_service_feedback_filter_startups">Phản hồi của khách hàng</string>
+    <string name="activity_service_feedback_product_suggestion">Gợi ý sản phẩm</string>
+    <string name="activity_service_feedback_app_bugs">Lỗi sản phẩm</string>
+    <string name="activity_service_feedback_payment_issues">Vấn đề thanh toán</string>
+    <string name="activity_service_feedback_others">Người khác</string>
+    <string name="activity_service_feedback_input_title">Mô tả ngắn gọn vấn đề của bạn</string>
+    <string name="activity_service_feedback_input_hint">Nhập phản hồi của bạn</string>
+
+    <string name="view_gender_select_male">Nam giới</string>
+    <string name="view_gender_select_female">Nữ giới</string>
+
+    <string name="dialog_date_picker_title">Chọn ngày đi.</string>
+
+    <string name="dialog_upload_photo_start_camera">Khởi động máy ảnh</string>
+    <string name="dialog_upload_photo_open_album">Mở album ảnh</string>
+
+    <string name="photo_upload_tip">Xin hãy thử lại.</string>
+
+    <string name="activity_usage_permission_guide_text">Chúng tôi yêu cầu bạn cho phép bật <b>\'Quyền truy cập sử dụng\'</b>.  Vui lòng làm theo hướng dẫn bên dưới để kích hoạt quyền.</string>
+    <string name="activity_usage_permission_guide_btn">Kích hoạt quyền</string>
+
+
+
+
+    <string name="permission_flower_sms_title">Thu thập dữ liệu SMS</string>
+    <string name="permission_flower_sms_title_1">Tại sao chúng tôi yêu cầu dữ liệu SMS trên thiết bị của bạn</string>
+    <string name="permission_flower_sms_text_1">Vay hoa-vay online sẽ đọc thông tin SMS trong thiết bị của bạn để đo lường độ tin cậy của người dùng cũng như khám phá và phân tích các rủi ro và gian lận tiềm ẩn.</string>
+    <string name="permission_flower_sms_title_2">Bạn có thể làm gì</string>
+    <string name="permission_flower_sms_text_2">Bạn có thể chọn từ chối ủy quyền, điều này sẽ không ảnh hưởng đến đơn đăng ký vay tiếp tục của bạn trên APP.</string>
+    <string name="permission_flower_sms_title_3">An toàn dữ liệu</string>
+    <string name="permission_flower_sms_text_3">
+        Dữ liệu SMS của bạn sẽ được mã hóa và truyền tới https://www.flowerloan.info. Sau khi phân tích, chúng tôi sẽ xóa vĩnh viễn dữ liệu SMS. Chúng tôi sẽ không chia sẻ dữ liệu SMS của bạn với bất kỳ bên thứ ba nào.
+        Đối với việc thu thập dữ liệu SMS của bạn, dữ liệu đó sẽ chỉ được đọc sau khi bạn cho phép chúng tôi có được quyền \'READ_SMS\' trong thiết bị của bạn. Vay hoa-vay online sẽ không đọc và thu thập dữ liệu SMS của bạn khi ứng dụng bị đóng hoặc không được sử dụng.
+    </string>
+
+    <string name="permission_flower_applist_title">Thu thập dữ liệu danh sách ứng dụng</string>
+    <string name="permission_flower_applist_title_1">Tại sao chúng tôi yêu cầu dữ liệu danh sách APP thiết bị của bạn</string>
+    <string name="permission_flower_applist_text_1">
+        Chúng tôi truy vấn các ứng dụng cụ thể đáp ứng tuyên bố về bảng kê khai của ứng dụng của chúng tôi trên thiết bị của bạn. Những ứng dụng cụ thể này sẽ giúp chúng tôi biết liệu thiết bị của bạn có cài đặt các ứng dụng có tính năng liên quan như lừa đảo hoặc sao chép hay không (ví dụ: thông tin vị trí giả mạo, id email nhân bản và thông tin liên hệ). Để chúng tôi có thể đánh giá tính xác thực của thông tin của bạn và đưa ra đánh giá chính xác về rủi ro tín dụng của bạn.
+    </string>
+    <string name="permission_flower_applist_title_2">Bạn có thể làm gì</string>
+    <string name="permission_flower_applist_text_2">Bạn có thể chọn từ chối ủy quyền, điều này sẽ không ảnh hưởng đến đơn đăng ký vay tiếp tục của bạn trên APP.</string>
+    <string name="permission_flower_applist_title_3">Dữ liệu nào chúng tôi sẽ thu thập</string>
+    <string name="permission_flower_applist_text_3">Chúng tôi sẽ thu thập thông tin cơ bản như tên, số phiên bản và tên gói của các ứng dụng được cài đặt trên thiết bị của người dùng.</string>
+    <string name="permission_flower_applist_title_4">An toàn dữ liệu</string>
+    <string name="permission_flower_applist_text_4">
+        Thông tin ứng dụng hạn chế này sẽ thu thập và truyền đến máy chủ Vay hoa-vay online https://www.flowerloan.info. Vay hoa-vay online sẽ không đọc và thu thập dữ liệu của bạn khi ứng dụng bị đóng hoặc không được sử dụng.. Vay hoa-vay online sẽ không bao giờ chia sẻ dữ liệu với bất kỳ bên thứ ba nào. Việc thu thập sẽ chỉ được thực hiện nếu bạn đồng ý với sự ủy quyền.
+    </string>
+
+    <string name="permission_flower_phonestate_title">Thu thập dữ liệu trạng thái điện thoại</string>
+    <string name="permission_flower_phonestate_text_1">
+        Vay hoa-vay online yêu cầu quyền truy cập trạng thái điện thoại để chúng tôi có thể đảm bảo rằng không có thiết bị trái phép nào thay mặt bạn hành động nhằm ngăn chặn gian lận. chúng tôi sẽ thu thập và giám sát thông tin cụ thể về thiết bị của bạn, bao gồm kiểu phần cứng, kiểu máy, RAM, bộ lưu trữ; số nhận dạng thiết bị duy nhất như IMEI, số sê-ri, SSAID; Thông tin SIM bao gồm nhà điều hành mạng, line1Number, trạng thái chuyển vùng, mã MNC và MCC, thông tin WIFI bao gồm địa chỉ MAC và thông tin mạng di động để nhận dạng duy nhất các thiết bị. Điều này cũng giúp chúng tôi làm phong phú hồ sơ tín dụng của bạn và đánh giá mức độ xứng đáng về tín dụng của bạn.
+    </string>
+
+    <string name="flower_word_authorized">Được ủy quyền</string>
+    <string name="flower_word_deny">Từ chối</string>
+    <string name="flower_word_agree">Đồng ý</string>
+
+    <string name="flower_star_dialog_0rate_tip">Vui lòng đánh giá</string>
+
+    <string name="flower_dialog_normal_text">Kinh nghiệm của bạn như thế nào?\nVui lòng đánh giá chúng tôi để làm cho chúng tôi tốt hơn.</string>
+    <string name="flower_dialog_active_text">Chúc mừng bạn đã nhận được khoản vay đầu tiên không lãi suất, vui lòng cho chúng tôi đánh giá 5 sao.</string>
+    <string name="flower_dialog_notnow">Không phải bây giờ</string>
+    <string name="flower_dialog_rate">Ghi bàn</string>
+
+
+    <string name="flower_notice">Để ý</string>
+    <string name="flower_confirm">Xác nhận</string>
+
+    <string name="language_select_title">Chọn ngôn ngữ của bạn</string>
+    <string name="language_select_en">Tiếng Anh</string>
+    <string name="language_select_sw">Tiếng Swahili</string>
+
+    <string name="pc_language">Ngôn ngữ</string>
+    <string name="pc_terms_of_use">Điều khoản sử dụng</string>
+
+    <string name="accept">Chấp nhận</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="and">và</string>
+    <string name="terms_of_use">Điều khoản sử dụng</string>
+
+    <string name="tips_select_country">Vui lòng chọn quốc gia.</string>
+
+    <string name="please">Vui lòng</string>
+
+    <string name="operated_company_desc">Ứng dụng này được điều hành bởi</string>
+
+    <string name="ocr_title">Xác minh danh tính</string>
+    <string name="ocr_select_type_title">Vui lòng nhập loại tài liệu</string>
+    <string name="ocr_type_1">Thẻ căn cước công dân</string>
+    <string name="ocr_type_2">Giấy phép lái xe</string>
+    <string name="ocr_type_3">Hộ chiếu</string>
+    <string name="ocr_1_desc_front">Ảnh mặt trước của chứng minh thư</string>
+    <string name="ocr_1_desc_back">Ảnh mặt sau của chứng minh thư</string>
+    <string name="ocr_2_desc_front">Ảnh mặt trước của giấy phép</string>
+    <string name="ocr_2_desc_back">Ảnh mặt sau của giấy phép</string>
+    <string name="ocr_3_desc">Tải lên ảnh tài liệu có chứa thông tin cá nhân của bạn</string>
+    <string name="tips_ocr_no_img">Vui lòng tải ảnh lên trước!</string>
+
+    <string name="photo_select_title">Vui lòng chọn chế độ</string>
+    <string name="photo_select_take_photo">Chụp ảnh</string>
+    <string name="photo_select_from_album">Tải lên từ album ảnh</string>
+
+    <string name="select_photo_fail_tips">Không chọn được ảnh, vui lòng chọn lại.</string>
+    <string name="upload_photo_fail_tips">Tải hình ảnh lên không thành công, vui lòng thử lại.</string>
+
+    <string name="sefie_title">Nhận dạng khuôn mặt</string>
+    <string name="sefie_tips">Mẹo: Chụp ảnh tự sướng, đảm bảo khuôn mặt bạn rõ nét và đẹp.</string>
+    <string name="sefie_tips_title">Gợi ý quan trọng:</string>
+    <string name="sefie_tips_1">Không có bóng trên khuôn mặt</string>
+    <string name="sefie_tips_2">Đừng ở trong môi trường có đèn nền</string>
+    <string name="sefie_tips_3">Đừng đeo khẩu trang</string>
+    <string name="sefie_tips_4">Xin hãy cho tôi thấy trán của bạn</string>
+
+    <string name="delete_personal_data">Xóa dữ liệu cá nhân</string>
+    <string name="delete_data_desc">Sau khi xóa dữ liệu, số này sẽ không thể đăng nhập và dữ liệu cá nhân của bạn sẽ bị xóa.\n\nNếu bạn cần sử dụng lại, vui lòng đăng ký bằng số khác.</string>
+    <string name="delete_data_title">Xác nhận xóa dữ liệu?</string>
+    <string name="btn_return">Trở lại</string>
+
+
+
+</resources>

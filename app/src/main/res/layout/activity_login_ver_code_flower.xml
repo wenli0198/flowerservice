@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.test.aoner.fanow.test.activity_fragment_flower.login_flower.LoginVerCodeActivity_flower"
+    android:gravity="center_horizontal">
+
+    <com.test.aoner.fanow.test.view_flower.widget_flower.TitleView_flower
+        android:id="@+id/activity_login_ver_coder_view_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="@string/activity_login_ver_code_hint"/>
+
+    <TextView
+        android:id="@+id/activity_login_ver_coder_et_tv_mobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginHorizontal="20dp"
+        android:textColor="@color/gray_ddd"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:text="@string/activity_login_enter_ver_code"/>
+
+    <EditText
+        android:id="@+id/activity_login_ver_coder_et_ver_code"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginHorizontal="20dp"
+        android:paddingHorizontal="10dp"
+        android:textColor="@color/black"
+        android:hint="@string/activity_login_ver_code_hint"
+        android:background="@drawable/ic_bg_input"
+        android:inputType="number"
+        android:maxLines="1"
+        android:textSize="14sp"
+        tools:ignore="Autofill" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="28dp"
+        android:gravity="center_vertical"
+        android:layout_marginHorizontal="20dp"
+        tools:ignore="UseCompoundDrawables">
+
+        <TextView
+            android:id="@+id/activity_login_ver_coder_tv_resend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="1dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:text="@string/activity_login_enter_resend_code"/>
+
+        <TextView
+            android:id="@+id/activity_login_ver_code_tv_count_down"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:textColor="@color/green_flower"
+            android:textStyle="bold"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/activity_login_ver_coder_btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginHorizontal="20dp"
+        android:background="@drawable/ic_bg_btn"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textAllCaps="false"
+        android:text="@string/word_next"/>
+
+    <LinearLayout
+        android:id="@+id/activity_login_ver_coder_view_operated"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="18dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginHorizontal="20dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/activity_login_ver_coder_iv_operated_logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            tools:ignore="ContentDescription" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_d"
+                android:textSize="14sp"
+                android:text="@string/operated_company_desc"
+                android:fontFamily="sans-serif-medium"/>
+
+            <TextView
+                android:id="@+id/activity_login_ver_coder_tv_company_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif-black"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

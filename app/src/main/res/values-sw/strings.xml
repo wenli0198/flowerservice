@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">Flower Loan</string>
+
+    <string name="language">sw</string>
+
+    <string name="word_dial">Piga</string>
+    <string name="word_copy">Nakili</string>
+    <string name="word_customer_service">Huduma kwa Wateja</string>
+    <string name="word_customer_service_tips">Vidokezo</string>
+    <string name="word_next">Inayofuata</string>
+    <string name="word_enter">Ingiza</string>
+    <string name="tab_home">Nyumbani</string>
+    <string name="tab_data_safety">Usalama wa data</string>
+    <string name="tab_personal_center">Akaunti</string>
+    <string name="word_days">siku</string>
+    <string name="word_cancel">Ghairi</string>
+    <string name="word_submit">Wasilisha</string>
+    <string name="word_delete">Futa</string>
+    <string name="word_login">Ingia >></string>
+    <string name="word_input_tip">Tafadhali angalia ingizo</string>
+    <string name="word_query_progress">Maendeleo ya Maswali</string>
+    <string name="word_submit_success">kuwasilisha kwa mafanikio</string>
+    <string name="word_copy_success">Urudiaji uliofanikiwa.</string>
+
+    <string name="customer_service_hotline">Nambari ya simu ya huduma kwa wateja</string>
+    <string name="customer_service_email">Barua pepe ya huduma kwa wateja</string>
+
+    <string name="launch_permissions">Programu inahitaji simu, kamera, eneo, anwani, ruhusa za kuhifadhi</string>
+    <string name="launch_permissions_camera">Programu inahitaji ruhusa za kamera</string>
+    <string name="launch_permissions_phone">Programu inahitaji ruhusa ya simu.</string>
+    <string name="launch_permissions_sms">Programu inahitaji ruhusa ya sms.</string>
+
+    <string name="customer_service_tip">Saa za simu za huduma kwa wateja mtandaoni ni Jumatatu hadi Jumapili, 9:00am hadi 6:30pm.</string>
+
+    <string name="diaolg_loading_text">Inapakia…</string>
+
+    <string name="activity_login_select_country">Chagua nchi yangu</string>
+    <string name="activity_login_enter_phone_num">Ingiza nambari ya simu</string>
+    <string name="activity_login_enter_phone_num_ksh">Weka nambari ya simu iliyounganishwa na akaunti yako ya M-PESA</string>
+    <string name="activity_login_enter_ver_code">Nambari ya kuthibitisha yenye tarakimu 4 imetumwa kwa simu yako ya mkononi</string>
+    <string name="activity_login_ver_code_hint">Nambari ya uthibitishaji yenye tarakimu 4</string>
+    <string name="activity_login_enter_resend_code"><u>Tuma tena Msimbo</u></string>
+    <string name="activity_login_ver_code_send_tip">Nambari ya kuthibitisha imetumwa.</string>
+    <string name="activity_login_phone_num_title">Ingia</string>
+
+    <string name="activity_apply_permission_title">Notisi ya kupata habari</string>
+    <string name="activity_apply_permission_text">Ili kufikia ustahiki wako na kuwezesha malipo ya haraka ya mkopo wako, tunahitaji ruhusa ili kufikia Kamera yako, Anwani, Mahali, Simu, Hifadhi na SMS.</string>
+    <string name="activity_apply_permission_sms">SMS</string>
+    <string name="activity_apply_permission_sms_text">UKUSANYAJI WA DATA YA SMS:\nKusudi la Ruhusa: Kama sehemu muhimu ya mchakato wetu wa mkopo, programu yetu husoma maelezo yako ya Kifedha ya SMS. Hii hutusaidia kutambua akaunti za benki unazoweza kushikilia, mifumo ya mtiririko wa pesa na kiasi unachotumia kama mtumiaji. Ili kugundua, kupambana na kuzuia ulaghai, ulaghai uliojaribu, ufujaji wa pesa au matumizi mengine haramu ya huduma zetu, tutabainisha hatari yako ya ulaghai na hali ya kifedha. Unaweza kuchagua kukubali au kukataa ruhusa, unapokataa kibali itamaanisha ukosefu wa taarifa za SMS na kutokuwa na uwezo wa kutathmini hatari na mkopo wako.\n\nAina ya Ukusanyaji wa Data: Tunafuatilia tu SMS za kifedha, ikiwa ni pamoja na mtumaji, maelezo na tarehe iliyotumwa. katika kisanduku pokezi cha mtumiaji, ambayo hutusaidia kutambua akaunti mbalimbali anazomiliki mtumiaji na mifumo ya mtiririko wa pesa anazoshikilia. Pia tunakusanya na kuchakata data ya simu kama vile kumbukumbu za SMS.\n\nUsalama wa Data: Tunasimba kwa njia fiche na kutuma taarifa zako za Kifedha za SMS kwa seva yetu https://www.flowerloan.info kwa kutumia itifaki ya HTTPS. Tunaahidi kutoshiriki data na wahusika wengine bila idhini yako.</string>
+    <string name="activity_apply_permission_contacts">MAWASILIANO</string>
+    <string name="activity_apply_permission_contacts_text">UKUSANYAJI WA ORODHA YA MAWASILIANO:\nKusudi la Ruhusa: Kama sehemu muhimu ya mchakato wetu wa mkopo, tunakuhitaji utoe marejeleo katika ombi lako la mkopo. Tunatambua mtandao wako wa kijamii kutoka kwa orodha yako ya anwani na kutambua watu wanaowasiliana nao walaghai katika mtandao wako wa kijamii, jambo ambalo hutusaidia kugundua maombi ya ulaghai ya mikopo na kupunguza hatari ya mikopo. Na kama sehemu ya safari yetu ya mkopo, tunahitaji marejeleo kutoka kwa mwombaji mkopo. Katika suala hili, wakati wa kujaza fomu kwenye programu yetu, tunakusanya maelezo yako ya mawasiliano ili kugundua waasiliani wa karibu ambao hukuwezesha kujaza data kiotomatiki. Unaweza kuchagua kukubali au kukataa ruhusa.\n\nAina ya Kukusanya Data: Tunakusanya orodha ya anwani zako na maelezo ambayo yanajumuisha jina, nambari za simu, aina ya akaunti, anwani iliyorekebishwa mara ya mwisho, vipendwa (vilivyo na nyota) na data nyingine ya hiari kama vile uhusiano na muundo. anwani ili kuboresha wasifu wako wa kifedha. Tunakusanya taarifa za mawasiliano baada tu ya kupata kibali chako cha ziada kilicho wazi.\n\nUsalama wa Data: Tunasimba maelezo yako kwa njia fiche na kuyapakia kwenye seva yetu https://www.flowerloan.info kwa kutumia itifaki salama ya HTTPS na tunaahidi kutoishiriki. na wahusika wengine bila idhini yako. Tutafuta maelezo ya anwani baada ya kuamua wasifu wako wa hatari.</string>
+    <string name="activity_apply_permission_phone">SIMU</string>
+    <string name="activity_apply_permission_phone_text">Kusanya na kufuatilia taarifa mahususi kuhusu kifaa chako ikiwa ni pamoja na muundo wa maunzi yako, mfumo wa uendeshaji na toleo, kitambulisho cha kipekee cha kifaa, maelezo ya wasifu wa mtumiaji, maelezo ya wifi, maelezo ya mtandao wa simu ili kutambua vifaa hivyo kwa njia ya kipekee na kuhakikisha kuwa vifaa visivyoidhinishwa haviwezi kufanya kazi kwa niaba yako. kutusaidia kuzuia ulaghai.</string>
+    <string name="activity_apply_permission_next_btn">Sawa, TWENDE</string>
+    <string name="activity_apply_permission_agreement_1">Kwa kuendelea, unakubali Sheria na&#160;</string>
+    <string name="activity_apply_permission_agreement_2">Masharti na Sera ya Faragha</string>
+    <string name="activity_apply_permission_agreement_3">&#160;na kupokea mawasiliano kupitia SMS na Barua pepe.</string>
+
+    <string name="fragment_loan_main_loan_amount">Kiasi cha mkopo</string>
+    <string name="fragment_loan_main_apply_btn">TUMA OMBI SASA</string>
+    <string name="fragment_loan_main_tip_1">1.Wasilisha\ntaarifa</string>
+    <string name="fragment_loan_main_tip_2">2.Thibitisha\nhitaji lako la mkopo</string>
+    <string name="fragment_loan_main_tip_3">3.Pata\npesa zako</string>
+    <string name="fragment_loan_main_tip">Kudumisha rekodi nzuri ya mkopo itaendelea kuongeza kiasi cha mkopo.</string>
+
+    <string name="activity_loan_apply_loan_amount">Kiasi cha mkopo</string>
+    <string name="activity_loan_apply_loan_term">Muda wa mkopo</string>
+    <string name="activity_loan_apply_disburse_amount">Pesa kiasi</string>
+    <string name="activity_loan_apply_service_fee">Ada ya huduma</string>
+    <string name="activity_loan_apply_repayment_amount">Kiasi cha malipo</string>
+    <string name="activity_loan_apply_interest">Maslahi</string>
+    <string name="activity_loan_apply_overdue_penalty_interest">Riba ya adhabu iliyochelewa</string>
+    <string name="activity_loan_apply_btn">Thibitisha programu</string>
+    <string name="activity_loan_apply_rate_suffix">% kwa siku</string>
+
+    <string name="fragment_loan_review_title">Ombi lako la mkopo linakaguliwa</string>
+    <string name="fragment_loan_review_text">Uidhinishaji wa mkopo huchukua dakika 5–20. Huduma kwa wateja pia inaweza kuwasiliana nawe kwa simu, kwa hivyo tafadhali hakikisha kuwa simu inapatikana.</string>
+    <string name="fragment_loan_review_refresh_status">Onyesha upya hali</string>
+    <string name="fragment_loan_review_loan_detail_title">Ombi lako la mkopo</string>
+    <string name="fragment_loan_review_loan_amount">Kiasi cha mkopo</string>
+    <string name="fragment_loan_review_loan_term">Muda wa mkopo</string>
+    <string name="fragment_loan_review_receiving_account_title">Akaunti ya kupokea mkopo</string>
+    <string name="fragment_loan_review_receiving_account_text">Mkopo ukishaidhinishwa, mkopo utahamishiwa kwenye mojawapo ya akaunti yako inayopatikana.</string>
+
+    <string name="fragment_loan_loaning_title">Ombi lako la mkopo limeidhinishwa</string>
+    <string name="fragment_loan_loaning_text">Mkopo utahamishiwa kwenye akaunti yako.</string>
+
+    <string name="loan_tip_title">Maliza mkopo kwa wakati</string>
+    <string name="loan_tip_1">Utaweza kuomba mkopo tena mara moja</string>
+    <string name="loan_tip_2">Kikomo cha mkopo kitaongezwa.</string>
+    <string name="loan_overdue_tip_title">Kuchelewa sana kutasababisha</string>
+    <string name="loan_overdue_tip_1">Mkopo wako umeharibika na hutaweza tena kupata mkopo.</string>
+    <string name="loan_overdue_tip_2">Ikiwa umechelewa sana, utakabiliwa na kesi, ambayo itasababisha gharama kubwa za kesi kwako.</string>
+
+    <string name="fragment_loan_fail_title">Ombi lako la mkopo halikufaulu!</string>
+    <string name="fragment_loan_fail_text_1">Tafadhali tuma ombi tena baada ya siku&#160;</string>
+    <string name="fragment_loan_fail_text_2">&#160;baadaye.</string>
+
+    <string name="fragment_repay_total_repayment">Jumla ya malipo</string>
+    <string name="fragment_repay_due_date">Tarehe ya mwisho</string>
+    <string name="fragment_repay_loan_amount">Kiasi cha mkopo</string>
+    <string name="fragment_repay_interest">Maslahi</string>
+    <string name="fragment_repay_service_fee">Ada ya huduma</string>
+    <string name="fragment_repay_overdue_days">Siku zilizochelewa</string>
+    <string name="fragment_repay_overdue_penalty">Adhabu iliyochelewa</string>
+    <string name="fragment_repay_btn">Rejesha sasa</string>
+    <string name="fragment_repay_overdue_tip">Una mkopo ambao haujalipwa</string>
+
+    <string name="fragment_personal_center_title">Binafsi</string>
+    <string name="fragment_personal_center_service_feedback">Maoni ya Huduma</string>
+    <string name="fragment_personal_center_customer_service">Huduma kwa Wateja</string>
+    <string name="fragment_personal_center_logout">Toka nje</string>
+
+    <string name="activity_service_feedback_filter_startups">Vichujio vya Kuanzisha</string>
+    <string name="activity_service_feedback_product_suggestion">Pendekezo la bidhaa</string>
+    <string name="activity_service_feedback_app_bugs">Hitilafu za programu</string>
+    <string name="activity_service_feedback_payment_issues">Masuala ya malipo</string>
+    <string name="activity_service_feedback_others">Wengine</string>
+    <string name="activity_service_feedback_input_title">* Eleza kwa ufupi maoni yako</string>
+    <string name="activity_service_feedback_input_hint">Weka maoni yako…</string>
+
+    <string name="view_gender_select_male">Mwanaume</string>
+    <string name="view_gender_select_female">Kike</string>
+
+    <string name="dialog_date_picker_title">Chagua tarehe.</string>
+
+    <string name="dialog_upload_photo_start_camera">Anzisha kamera</string>
+    <string name="dialog_upload_photo_open_album">Fungua albamu</string>
+
+    <string name="photo_upload_tip">Tafadhali jaribu tena.</string>
+
+    <string name="activity_usage_permission_guide_text">Tunaomba ruhusa yako ili kuwezesha<b>\'Ufikiaji wa Matumizi\'</b>.Tafadhali fuata maagizo yaliyo hapa chini ili kuwezesha ruhusa.</string>
+    <string name="activity_usage_permission_guide_btn">Washa ruhusa</string>
+
+
+    <string name="fragment_repay_plan_a_title">Fanya malipo kamili:</string>
+    <string name="fragment_repay_plan_a_text">Unaweza kukopa tena mara baada ya kurejesha.</string>
+    <string name="fragment_repay_plan_b_title">Ulipaji wa pesa:</string>
+    <string name="fragment_repay_plan_b_text">Baada ya kulipa gharama za huduma zilizoongezwa, mkopo wako unaweza kuahirishwa ili kufungwa.</string>
+    <string name="fragment_repay_plan_b_extended_service_charges">Gharama za huduma zilizoongezwa</string>
+    <string name="fragment_repay_plan_b_days_of_extension">Siku za nyongeza</string>
+    <string name="fragment_repay_plan_b_due_date_after_extension">Tarehe ya mwisho baada ya kuongezwa</string>
+    <string name="fragment_repay_plan_b_total_repayment_due">Jumla ya malipo yanayodaiwa</string>
+    <string name="fragment_repay_payment_amount">Kiasi cha malipo</string>
+    <string name="fragment_repay_btn_pay">Lipa</string>
+
+
+    <string name="permission_flower_sms_title">Mkusanyiko wa Data ya SMS</string>
+    <string name="permission_flower_sms_title_1">Kwa nini tunaomba data ya SMS ya kifaa chako</string>
+    <string name="permission_flower_sms_text_1">Mkopo wa mtandaoni wa maua utasoma maelezo ya SMS kwenye kifaa chako ili kupima uaminifu wa mtumiaji na kugundua na kuchanganua ulaghai na hatari zinazoweza kutokea.</string>
+    <string name="permission_flower_sms_title_2">Unachoweza kufanya</string>
+    <string name="permission_flower_sms_text_2">Unaweza kuchagua kukataa uidhinishaji, jambo ambalo halitaathiri maombi yako endelevu ya mikopo kwenye APP.</string>
+    <string name="permission_flower_sms_title_3">Usalama wa data</string>
+    <string name="permission_flower_sms_text_3">
+        Data yako ya SMS itasimbwa kwa njia fiche na kutumwa kwa https://www.flowerloan.info. Baada ya uchambuzi, tutafuta kabisa data ya SMS. Hatutashiriki data yako ya SMS na wahusika wengine.
+        \nKwa ukusanyaji wa data yako ya SMS, itasomwa tu baada ya kutuidhinisha kupata ruhusa ya \'SOMA_SMS\' kwenye kifaa chako. Mkopo wa mtandaoni wa mkopo wa maua hautasoma na kukusanya data yako ya SMS wakati programu imefungwa au haitumiki.
+    </string>
+
+    <string name="permission_flower_applist_title">Mkusanyiko wa Data ya Orodha ya APP</string>
+    <string name="permission_flower_applist_title_1">Kwa nini tunaomba data ya orodha ya APP ya kifaa chako</string>
+    <string name="permission_flower_applist_text_1">
+        Tunahoji programu mahususi zinazokidhi tamko la maelezo ya programu yetu kwenye kifaa chako. Programu hizi mahususi zitatusaidia kujua kama kifaa chako kina programu zilizosakinishwa na vipengele vinavyohusiana kama vile ulaghai au uundaji wa nakala (k.m. maelezo ya mahali ghushi, kitambulisho cha barua pepe kilichoundwa na maelezo ya mawasiliano). Ili tuweze kutathmini uhalisi wa maelezo yako na kufanya uamuzi sahihi kuhusu hatari yako ya mkopo.
+    </string>
+    <string name="permission_flower_applist_title_2">Unachoweza kufanya</string>
+    <string name="permission_flower_applist_text_2">Unaweza kuchagua kukataa uidhinishaji, jambo ambalo halitaathiri maombi yako endelevu ya mikopo kwenye APP.</string>
+    <string name="permission_flower_applist_title_3">Ni data gani tutakusanya</string>
+    <string name="permission_flower_applist_text_3">Tutakusanya maelezo ya msingi kama vile jina, nambari ya toleo na jina la kifurushi cha programu zilizosakinishwa kwenye kifaa cha mtumiaji.</string>
+    <string name="permission_flower_applist_title_4">Usalama wa data</string>
+    <string name="permission_flower_applist_text_4">
+        Maelezo haya machache ya programu yatakusanywa na kutumwa kwa seva za mkopo za mkopo wa mtandaoni za Maua https://www.flowerloan.info.Mkopo wa mtandaoni wa maua hautasoma na kukusanya data yako wakati programu imefungwa au haitumiki. Mkopo wa mkopo wa mtandaoni wa maua hautawahi kushiriki data kwa wahusika wengine. Mkusanyiko utafanywa tu ikiwa unakubali uidhinishaji.
+    </string>
+
+    <string name="permission_flower_phonestate_title">Ukusanyaji wa Data ya Hali ya Simu</string>
+    <string name="permission_flower_phonestate_text_1">
+        Mkopo wa mtandaoni wa mkopo wa maua unahitaji ufikiaji wa hali ya simu ili tuweze kuhakikisha kuwa hakuna kifaa kisichoidhinishwa kinachofanya kazi kwa niaba yako ili kuzuia ulaghai. tutakusanya na kufuatilia taarifa mahususi kuhusu kifaa chako ikijumuisha muundo wa maunzi yako, muundo wa muundo, RAM, hifadhi; vitambulishi vya kipekee vya kifaa kama vile IMEI, nambari ya ufuatiliaji, SSAID; Maelezo ya SIM ambayo yanajumuisha opereta wa mtandao, line1Number, hali ya urandaji, misimbo ya MNC na MCC, maelezo ya WIFI ambayo yanajumuisha anwani ya MAC na maelezo ya mtandao wa simu ili kutambua vifaa kwa njia ya kipekee. Hii pia inatusaidia katika kuboresha wasifu wako wa mkopo na kutathmini ustahili wako wa mkopo.
+    </string>
+
+
+    <string name="flower_word_authorized">Imeidhinishwa</string>
+    <string name="flower_word_deny">Kataa</string>
+    <string name="flower_word_agree">Kubali</string>
+
+    <string name="flower_star_dialog_0rate_tip">Tafadhali Kadiria.</string>
+
+    <string name="flower_dialog_normal_text">Uzoefu wako uko vipi?\nTafadhali tukadirie ili kutufanya bora zaidi.</string>
+    <string name="flower_dialog_active_text">Hongera kwa kupata mkopo wako wa kwanza <b>bila riba</b>, tafadhali tupe ukaguzi wa nyota 5.</string>
+    <string name="flower_dialog_notnow">Si sasa</string>
+    <string name="flower_dialog_rate">Kiwango</string>
+
+
+
+    <string name="flower_notice">Taarifa</string>
+    <string name="flower_confirm">Thibitisha</string>
+
+    <string name="language_select_title">Chagua lugha yako</string>
+    <string name="language_select_en">Kiingereza</string>
+    <string name="language_select_sw">Kiswahili</string>
+
+    <string name="pc_language">Lugha</string>
+    <string name="pc_terms_of_use">Masharti ya matumizi</string>
+
+    <string name="accept">Kubali</string>
+    <string name="privacy_policy">Sera ya Faragha</string>
+    <string name="and">na</string>
+    <string name="terms_of_use">Masharti ya matumizi</string>
+
+    <string name="tips_select_country">Tafadhali chagua nchi..</string>
+
+    <string name="please">Tafadhali</string>
+
+    <string name="operated_company_desc">Programu hii inaendeshwa na</string>
+
+    <string name="ocr_title">Tambua habari</string>
+    <string name="ocr_select_type_title">Tafadhali aina ya hati</string>
+    <string name="ocr_type_1">Kitambulisho cha Taifa</string>
+    <string name="ocr_type_2">Leseni ya kuendesha gari</string>
+    <string name="ocr_type_3">Pasipoti</string>
+    <string name="ocr_1_desc_front">Picha ya mbele ya kitambulisho</string>
+    <string name="ocr_1_desc_back">Picha ya nyuma ya kitambulisho</string>
+    <string name="ocr_2_desc_front">Picha ya mbele ya leseni</string>
+    <string name="ocr_2_desc_back">Picha ya nyuma ya leseni</string>
+    <string name="ocr_3_desc">Pakia picha ya hati iliyo na maelezo yako ya kibinafsi</string>
+    <string name="tips_ocr_no_img">Tafadhali pakia picha kwanza!</string>
+
+    <string name="photo_select_title">Tafadhali modi ya kiteuzi</string>
+    <string name="photo_select_take_photo">Piga picha</string>
+    <string name="photo_select_from_album">Pakia kutoka kwa albamu ya picha</string>
+
+    <string name="select_photo_fail_tips">Uteuzi wa picha haukufaulu, tafadhali chagua tena.</string>
+    <string name="upload_photo_fail_tips">Imeshindwa kupakia picha, tafadhali jaribu tena.</string>
+
+    <string name="sefie_title">Maelezo ya selfie</string>
+    <string name="sefie_tips">Vidokezo:Piga selfie, hakikisha uso wako uko sawa na uko sawa.</string>
+    <string name="sefie_tips_title">Kidokezo muhimu:</string>
+    <string name="sefie_tips_1">Hakuna kivuli kwenye uso</string>
+    <string name="sefie_tips_2">Usiwe katika mazingira ya nyuma</string>
+    <string name="sefie_tips_3">Usivae kinyago</string>
+    <string name="sefie_tips_4">Tafadhali onyesha paji la uso wako</string>
+
+    <string name="delete_personal_data">Futa data ya kibinafsi</string>
+    <string name="delete_data_desc">Baada ya kufuta data, nambari hii haitaweza kuingia na data yako ya kibinafsi itafutwa.\n\nIkiwa unahitaji kuitumia tena, tafadhali jisajili ukitumia nambari nyingine.</string>
+    <string name="delete_data_title">Ungependa kuthibitisha ili kufuta data?</string>
+    <string name="btn_return">Rudi</string>
+
+
+</resources>

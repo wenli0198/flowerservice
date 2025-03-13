@@ -1,0 +1,679 @@
+[{
+	"children": [{
+		"children": [],
+		"name": "Arusha Rural"
+	}, {
+		"children": [],
+		"name": "Arusha City"
+	}, {
+		"children": [],
+		"name": "Karatu"
+	}, {
+		"children": [],
+		"name": "Longido"
+	}, {
+		"children": [],
+		"name": "Meru"
+	}, {
+		"children": [],
+		"name": "Monduli"
+	}, {
+		"children": [],
+		"name": "Ngorongoro"
+	}],
+	"name": "Arusha"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Dar es Salaam City(Ilala Municipal)"
+	}, {
+		"children": [],
+		"name": "Kigamboni Municipal(←Temeke Municipal)"
+	}, {
+		"children": [],
+		"name": "Kinondoni Municipal"
+	}, {
+		"children": [],
+		"name": "Temeke Municipal"
+	}, {
+		"children": [],
+		"name": "Ubungo Municipal(←Kinondoni Municipal)"
+	}],
+	"name": "Dar es Salaam"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Dodoma City"
+	}, {
+		"children": [],
+		"name": "Bahi"
+	}, {
+		"children": [],
+		"name": "Chamwino"
+	}, {
+		"children": [],
+		"name": "Chemba"
+	}, {
+		"children": [],
+		"name": "Kondoa Rural"
+	}, {
+		"children": [],
+		"name": "Kondoa Town(←Kondoa Rural)"
+	}, {
+		"children": [],
+		"name": "Kongwa"
+	}, {
+		"children": [],
+		"name": "Mpwapwa"
+	}],
+	"name": "Dodoma"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Bukombe"
+	}, {
+		"children": [],
+		"name": "Chato"
+	}, {
+		"children": [],
+		"name": "Geita Rural"
+	}, {
+		"children": [],
+		"name": "Geita Town(←Geita Rural)"
+	}, {
+		"children": [],
+		"name": "Mbogwe"
+	}, {
+		"children": [],
+		"name": "Nyang\u0027hwale"
+	}],
+	"name": "Geita"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Iringa Municipal"
+	}, {
+		"children": [],
+		"name": "Iringa Rural"
+	}, {
+		"children": [],
+		"name": "Kilolo"
+	}, {
+		"children": [],
+		"name": "Mafinga Town"
+	}, {
+		"children": [],
+		"name": "Mufindi"
+	}],
+	"name": "Iringa"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Biharamulo"
+	}, {
+		"children": [],
+		"name": "Bukoba Municipal"
+	}, {
+		"children": [],
+		"name": "Bukoba Rural"
+	}, {
+		"children": [],
+		"name": "Karagwe"
+	}, {
+		"children": [],
+		"name": "Kyerwa"
+	}, {
+		"children": [],
+		"name": "Missenyi"
+	}, {
+		"children": [],
+		"name": "Muleba"
+	}, {
+		"children": [],
+		"name": "Ngara"
+	}],
+	"name": "Kagera"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Micheweni"
+	}, {
+		"children": [],
+		"name": "Wete"
+	}],
+	"name": "Kaskazini Pemba[North Pemba]"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Kaskazini A Town[North Unguja A]"
+	}, {
+		"children": [],
+		"name": "Kaskazini B[North Unguja B]"
+	}],
+	"name": "Kaskazini Unguja[North Zanzibar]"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Mlele"
+	}, {
+		"children": [],
+		"name": "Mpanda Municipal"
+	}, {
+		"children": [],
+		"name": "Mpimbwe(←Mlele)"
+	}, {
+		"children": [],
+		"name": "Nsimbo(←Mlele)"
+	}, {
+		"children": [],
+		"name": "Tanganyika(Mpanda Rural)"
+	}],
+	"name": "Katavi"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Buhigwe"
+	}, {
+		"children": [],
+		"name": "Kakonko"
+	}, {
+		"children": [],
+		"name": "Kasulu Rural"
+	}, {
+		"children": [],
+		"name": "Kasulu Town"
+	}, {
+		"children": [],
+		"name": "Kibondo"
+	}, {
+		"children": [],
+		"name": "Kigoma Municipal"
+	}, {
+		"children": [],
+		"name": "Kigoma Rural"
+	}, {
+		"children": [],
+		"name": "Uvinza"
+	}],
+	"name": "Kigoma"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Hai"
+	}, {
+		"children": [],
+		"name": "Moshi Municipal"
+	}, {
+		"children": [],
+		"name": "Moshi Rural"
+	}, {
+		"children": [],
+		"name": "Mwanga"
+	}, {
+		"children": [],
+		"name": "Rombo"
+	}, {
+		"children": [],
+		"name": "Same"
+	}, {
+		"children": [],
+		"name": "Siha"
+	}],
+	"name": "Kilimanjaro"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Chake Chake"
+	}, {
+		"children": [],
+		"name": "Mkoani Town"
+	}],
+	"name": "Kusini Pemba[South Pemba]"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Kati[Central Unguja]"
+	}, {
+		"children": [],
+		"name": "Kusini[South Unguja]"
+	}],
+	"name": "Kusini Unguja[South Zanzibar]"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Kilwa"
+	}, {
+		"children": [],
+		"name": "Lindi Municipal"
+	}, {
+		"children": [],
+		"name": "Liwale"
+	}, {
+		"children": [],
+		"name": "Mtama(←Lindi Rural)"
+	}, {
+		"children": [],
+		"name": "Nachingwea"
+	}, {
+		"children": [],
+		"name": "Ruangwa"
+	}],
+	"name": "Lindi"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Babati Rural"
+	}, {
+		"children": [],
+		"name": "Babati Town"
+	}, {
+		"children": [],
+		"name": "Hanang"
+	}, {
+		"children": [],
+		"name": "Kiteto"
+	}, {
+		"children": [],
+		"name": "Mbulu Rural"
+	}, {
+		"children": [],
+		"name": "Mbulu Town(←Mbulu Rural)"
+	}, {
+		"children": [],
+		"name": "Simanjiro"
+	}],
+	"name": "Manyara"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Bunda Rural"
+	}, {
+		"children": [],
+		"name": "Bunda Town(←Bunda Rural)"
+	}, {
+		"children": [],
+		"name": "Butiama"
+	}, {
+		"children": [],
+		"name": "Musoma Municipal"
+	}, {
+		"children": [],
+		"name": "Musoma Rural"
+	}, {
+		"children": [],
+		"name": "Rorya"
+	}, {
+		"children": [],
+		"name": "Serengeti"
+	}, {
+		"children": [],
+		"name": "Tarime Rural"
+	}, {
+		"children": [],
+		"name": "Tarime Town(←Tarime Rural)"
+	}],
+	"name": "Mara"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Busekelo(← Rungwe)"
+	}, {
+		"children": [],
+		"name": "Chunya"
+	}, {
+		"children": [],
+		"name": "Kyela"
+	}, {
+		"children": [],
+		"name": "Mbarali"
+	}, {
+		"children": [],
+		"name": "Mbeya City"
+	}, {
+		"children": [],
+		"name": "Mbeya Rural"
+	}, {
+		"children": [],
+		"name": "Rungwe"
+	}],
+	"name": "Mbeya"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Magharibi A Municipal(← Magharibi)"
+	}, {
+		"children": [],
+		"name": "Magharibi B Municipal(←Magharibi)"
+	}, {
+		"children": [],
+		"name": "Mjini Municipal[Zanzibar City]"
+	}],
+	"name": "Mjini Magharibi[Urban West]"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Gairo"
+	}, {
+		"children": [],
+		"name": "Ifakara Town(←Kilombero"
+	}, {
+		"children": [],
+		"name": "Kilosa"
+	}, {
+		"children": [],
+		"name": "Malinyi(←Ulanga)"
+	}, {
+		"children": [],
+		"name": "Mlimba(←Kilombero)"
+	}, {
+		"children": [],
+		"name": "Morogoro Municipal"
+	}, {
+		"children": [],
+		"name": "Morogoro Rural"
+	}, {
+		"children": [],
+		"name": "Mvomero"
+	}, {
+		"children": [],
+		"name": "Ulanga"
+	}],
+	"name": "Morogoro"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Masasi Rural"
+	}, {
+		"children": [],
+		"name": "Masasi Town"
+	}, {
+		"children": [],
+		"name": "Mtwara Municipal"
+	}, {
+		"children": [],
+		"name": "Mtwara Rural"
+	}, {
+		"children": [],
+		"name": "Nanyamba Town(←Mtwara Rural)"
+	}, {
+		"children": [],
+		"name": "Nanyumbu"
+	}, {
+		"children": [],
+		"name": "Newala Rural"
+	}, {
+		"children": [],
+		"name": "Newala Town(←Newala Rural)"
+	}, {
+		"children": [],
+		"name": "Tandahimba"
+	}],
+	"name": "Mtwara"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Buchosa(← Sengerema)"
+	}, {
+		"children": [],
+		"name": "Ilemela Municipal"
+	}, {
+		"children": [],
+		"name": "Kwimba"
+	}, {
+		"children": [],
+		"name": "Magu"
+	}, {
+		"children": [],
+		"name": "Misungwi"
+	}, {
+		"children": [],
+		"name": "Mwanza(Nyamagana Municipal)"
+	}, {
+		"children": [],
+		"name": "Sengerema"
+	}, {
+		"children": [],
+		"name": "Ukerewe"
+	}],
+	"name": "Mwanza"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Ludewa"
+	}, {
+		"children": [],
+		"name": "Makambako Town"
+	}, {
+		"children": [],
+		"name": "Makete"
+	}, {
+		"children": [],
+		"name": "Njombe Rural"
+	}, {
+		"children": [],
+		"name": "Njombe Town"
+	}, {
+		"children": [],
+		"name": "Wanging\u0027ombe"
+	}],
+	"name": "Njombe"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Bagamoyo"
+	}, {
+		"children": [],
+		"name": "Chalinze(←Bagamoyo)"
+	}, {
+		"children": [],
+		"name": "Kibaha"
+	}, {
+		"children": [],
+		"name": "Kibaha Town"
+	}, {
+		"children": [],
+		"name": "Kibiti(←Rufiji)"
+	}, {
+		"children": [],
+		"name": "Kisarawe"
+	}, {
+		"children": [],
+		"name": "Mafia"
+	}, {
+		"children": [],
+		"name": "Mkuranga"
+	}, {
+		"children": [],
+		"name": "Rufiji"
+	}],
+	"name": "Pwani"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Kalambo"
+	}, {
+		"children": [],
+		"name": "Nkasi"
+	}, {
+		"children": [],
+		"name": "Sumbawanga Municipal"
+	}, {
+		"children": [],
+		"name": "Sumbawanga Rural"
+	}],
+	"name": "Rukwa"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Madaba(← Songea Rural)"
+	}, {
+		"children": [],
+		"name": "Mbinga Rural"
+	}, {
+		"children": [],
+		"name": "Mbinga Town(←Mbinga Rural)"
+	}, {
+		"children": [],
+		"name": "Namtumbo"
+	}, {
+		"children": [],
+		"name": "Nyasa"
+	}, {
+		"children": [],
+		"name": "Songea Municipal"
+	}, {
+		"children": [],
+		"name": "Songea Rural"
+	}, {
+		"children": [],
+		"name": "Tunduru"
+	}],
+	"name": "Ruvuma"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Kahama Municipality"
+	}, {
+		"children": [],
+		"name": "Kishapu"
+	}, {
+		"children": [],
+		"name": "Msalala(←Kahama Rural)"
+	}, {
+		"children": [],
+		"name": "Shinyanga Municipal"
+	}, {
+		"children": [],
+		"name": "Shinyanga Rural"
+	}, {
+		"children": [],
+		"name": "Ushetu(←Kahama Rural)"
+	}],
+	"name": "Shinyanga"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Bariadi Rural"
+	}, {
+		"children": [],
+		"name": "Bariadi Town(←Bariadi Rural)"
+	}, {
+		"children": [],
+		"name": "Busega"
+	}, {
+		"children": [],
+		"name": "Itilima"
+	}, {
+		"children": [],
+		"name": "Maswa"
+	}, {
+		"children": [],
+		"name": "Meatu"
+	}],
+	"name": "Simiyu"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Ikungi"
+	}, {
+		"children": [],
+		"name": "Iramba"
+	}, {
+		"children": [],
+		"name": "Itigi(←Manyoni)"
+	}, {
+		"children": [],
+		"name": "Manyoni"
+	}, {
+		"children": [],
+		"name": "Mkalama"
+	}, {
+		"children": [],
+		"name": "Singida Municipal"
+	}, {
+		"children": [],
+		"name": "Singida Rural"
+	}],
+	"name": "Singida"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Ileje"
+	}, {
+		"children": [],
+		"name": "Mbozi"
+	}, {
+		"children": [],
+		"name": "Momba"
+	}, {
+		"children": [],
+		"name": "Songwe(←Chunya)"
+	}, {
+		"children": [],
+		"name": "Tunduma Town"
+	}],
+	"name": "Songwe"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Igunga"
+	}, {
+		"children": [],
+		"name": "Kaliua"
+	}, {
+		"children": [],
+		"name": "Nzega Rural"
+	}, {
+		"children": [],
+		"name": "Nzega Town(←Nzega Rural)"
+	}, {
+		"children": [],
+		"name": "Sikonge"
+	}, {
+		"children": [],
+		"name": "Tabora Municipal"
+	}, {
+		"children": [],
+		"name": "Urambo"
+	}, {
+		"children": [],
+		"name": "Uyui"
+	}],
+	"name": "Tabora"
+}, {
+	"children": [{
+		"children": [],
+		"name": "Bumbuli(← Lushoto)"
+	}, {
+		"children": [],
+		"name": "Handeni Rural"
+	}, {
+		"children": [],
+		"name": "Handeni Town"
+	}, {
+		"children": [],
+		"name": "Kilindi"
+	}, {
+		"children": [],
+		"name": "Korogwe Rural"
+	}, {
+		"children": [],
+		"name": "Korogwe Town"
+	}, {
+		"children": [],
+		"name": "Lushoto"
+	}, {
+		"children": [],
+		"name": "Mkinga"
+	}, {
+		"children": [],
+		"name": "Muheza"
+	}, {
+		"children": [],
+		"name": "Pangani"
+	}, {
+		"children": [],
+		"name": "Tanga City"
+	}],
+	"name": "Tanga"
+}]

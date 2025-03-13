@@ -1,0 +1,266 @@
+<resources>
+    <string name="app_name">Flower Loan</string>
+
+    <string name="language">en</string>
+
+    <string name="word_dial">Dial</string>
+    <string name="word_copy">Copy</string>
+    <string name="word_customer_service">Customer Service</string>
+    <string name="word_customer_service_tips">Tips</string>
+    <string name="word_next">Next</string>
+    <string name="word_enter">Enter</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_data_safety">Data safety</string>
+    <string name="tab_personal_center">Account</string>
+    <string name="word_days">days</string>
+    <string name="word_cancel">Cancel</string>
+    <string name="word_submit">Submit</string>
+    <string name="word_delete">Delete</string>
+    <string name="word_login">Log in>></string>
+    <string name="word_input_tip">Please check the input</string>
+    <string name="word_query_progress">Query Progress</string>
+    <string name="word_submit_success">submit successfully</string>
+    <string name="word_copy_success">Successful replication.</string>
+
+    <string name="customer_service_hotline">Customer service hotline</string>
+    <string name="customer_service_email">Customer service Email</string>
+
+
+    <string name="launch_permissions">App requires phone, camera, location, contact, storage permissions</string>
+    <string name="launch_permissions_camera">App requires camera permissions</string>
+    <string name="launch_permissions_phone">App requires phone permission.</string>
+    <string name="launch_permissions_sms">App requires sms permission.</string>
+
+    <string name="customer_service_tip">Customer service telephone online hours are Monday to Sunday,9:00am to 6:30pm.</string>
+
+    <string name="diaolg_loading_text">Loading…</string>
+
+    <string name="activity_login_select_country">Select my country</string>
+    <string name="activity_login_enter_phone_num">Enter the phone number</string>
+    <string name="activity_login_enter_phone_num_ksh">Enter the phone number linked with your M-PESA account</string>
+    <string name="activity_login_enter_ver_code">A 4-digit verification code has been sent to your mobile phone </string>
+    <string name="activity_login_ver_code_hint">4-digit verification code</string>
+    <string name="activity_login_enter_resend_code"><u>Resend Code</u></string>
+    <string name="activity_login_ver_code_send_tip">The verification code has been sent.</string>
+    <string name="activity_login_phone_num_title">Sign in</string>
+
+    <string name="activity_apply_permission_title">Information acquisition notice</string>
+    <string name="activity_apply_permission_text">To access your eligibility and facilitate faster disbursal of your loan, we need permissions to access your Camera, Contact, Location, Phone, Storage and SMS.</string>
+    <string name="activity_apply_permission_sms">SMS</string>
+    <string name="activity_apply_permission_sms_text">COLLECTION OF SMS DATA:\nPurpose of Permission: As an important part of our loan process, our app reads your Financial SMS information. This helps us identify bank accounts you may hold, cash flow patterns and amounts you transact as a user. To detect, combat and prevent fraud, attempted fraud, money laundering or other illegal use of our services, we will determine your fraud risk and financial situation. You can choose to agree or deny permission, when you refuse permission will mean lack of SMS information and inability to assess your risk and credit.\n\nType of Data Collect: We only monitor financial SMS, including the sender, description and date sent in the user\'s inbox, which helps us identify the various accounts the user owns and the flow patterns of cash held by the user. We also collect and process telephone data such as SMS logs.\n\nSecurity of Data: We encrypt and transmits your Financial SMS information to our server https://www.flowerloan.info using the HTTPS protocol. We promise not to share data with the third parties without your permission.</string>
+    <string name="activity_apply_permission_contacts">CONTACTS</string>
+    <string name="activity_apply_permission_contacts_text">COLLECTION OF CONTACT LIST:\nPurpose of Permission: As an important part of our loan process, we require you to provide references in your loan application. We identify your social network from your contact list and identify fraudulent contacts in your social network, which helps us detect fraudulent loan applications and reduce credit risk. And as a part of our loan journey,we require references from the loan applicant. In this regard, during filling the form on our app, we collect your contact information to detect close contacts which enable you to fill the data automatically. You can choose to agree or deny permission.\n\nType of Data Collect: We collect your contacts list and information which includes name, phone numbers, account type, contact last modified, favorites (starred) and other optional data like relationship and structural address to enrich your financial profile. We collect contact information only after obtaining your additional explicit consent.\n\nSecurity of Data: We encrypt your information and upload it to our server https://www.flowerloan.info using a secure HTTPS protocol and we promise not to share it with third parties without your consent. We will delete the contacts information after we have determined your risk profile.</string>
+    <string name="activity_apply_permission_phone">PHONE</string>
+    <string name="activity_apply_permission_phone_text">Collect and monitor specific information about your device including your hardware model,operating system and version,unique device identifier,user profile information,wifi information,mobile network information to uniquely identify the devices and ensure that unauthorized devices are not able to act on your behalf helping us prevent fraud.</string>
+    <string name="activity_apply_permission_next_btn">Ok\,Let\'s GO</string>
+    <string name="activity_apply_permission_agreement_1">By continuing,your agree to the Term of&#160;</string>
+    <string name="activity_apply_permission_agreement_2">Service&amp;Privacy Policy</string>
+    <string name="activity_apply_permission_agreement_3">&#160;and receive communications via SMS and Email.</string>
+
+    <string name="fragment_loan_main_loan_amount">Loan amount</string>
+    <string name="fragment_loan_main_apply_btn">APPLY NOW</string>
+    <string name="fragment_loan_main_tip_1">1.Submit\ninformation</string>
+    <string name="fragment_loan_main_tip_2">2.Confirm\nyour loan need</string>
+    <string name="fragment_loan_main_tip_3">3.Get\nyour money</string>
+    <string name="fragment_loan_main_tip">Maintain good loan record will continue to increase loan amount.</string>
+
+    <string name="activity_loan_apply_loan_amount">Loan amount</string>
+    <string name="activity_loan_apply_loan_term">Loan term</string>
+    <string name="activity_loan_apply_disburse_amount">Disburse amount</string>
+    <string name="activity_loan_apply_service_fee">Service fee</string>
+    <string name="activity_loan_apply_repayment_amount">Repayment amount</string>
+    <string name="activity_loan_apply_interest">Interest</string>
+    <string name="activity_loan_apply_overdue_penalty_interest">Overdue penalty interest</string>
+    <string name="activity_loan_apply_btn">Confirm application</string>
+    <string name="activity_loan_apply_rate_suffix">% per day</string>
+
+    <string name="fragment_loan_review_title">Your loan application is under review</string>
+    <string name="fragment_loan_review_text">Loan approval takes 5–20 minutes. Customer service may also contact you by phone, so please make sure the phone is accessible.</string>
+    <string name="fragment_loan_review_refresh_status">Refresh status</string>
+    <string name="fragment_loan_review_loan_detail_title">Your loan application</string>
+    <string name="fragment_loan_review_loan_amount">Loan amount</string>
+    <string name="fragment_loan_review_loan_term">Loan term</string>
+    <string name="fragment_loan_review_receiving_account_title">Loan receiving account</string>
+    <string name="fragment_loan_review_receiving_account_text">Once the loan is approved, the loan will be transferred to one of your available account.</string>
+    <string name="fragment_loan_review_receiving_account_tip" translatable="false">Indice important : Après l\'approbation de votre prêt, vous recevrez généralement le transfert de prêt dans les 24 heures. Veuillez prêter attention aux rappels SMS pertinents. En raison de la coopération des opérateurs de paiement (Wave/orange money/MTN/MOOV), le délai de transfert de votre prêt vers vous peut être retardé. Veuillez patienter ou contacter le service client pour plus d\'informations.</string>
+
+    <string name="fragment_loan_loaning_title">Your loan application has been approved</string>
+    <string name="fragment_loan_loaning_text">The loan will be transferred to your account.</string>
+
+    <string name="loan_tip_title">Settle the loan on time</string>
+    <string name="loan_tip_1">You will be able to apply for loan again immediately</string>
+    <string name="loan_tip_2">Loan limit will be inscreased.</string>
+    <string name="loan_overdue_tip_title">Serious overdue will result in</string>
+    <string name="loan_overdue_tip_1">Your credit is damaged and you will no longer be able to get loan.</string>
+    <string name="loan_overdue_tip_2">If you are seriously overdue, you will face litigation, which will result in high litigation costs for you.</string>
+
+    <string name="fragment_loan_fail_title">Your loan application failed!</string>
+    <string name="fragment_loan_fail_text_1">Please apply again after&#160;</string>
+    <string name="fragment_loan_fail_text_2">&#160;days later.</string>
+
+    <string name="fragment_repay_total_repayment">Total repayment</string>
+    <string name="fragment_repay_due_date">Due date</string>
+    <string name="fragment_repay_loan_amount">Loan amount</string>
+    <string name="fragment_repay_interest">Interest</string>
+    <string name="fragment_repay_service_fee">Service fee</string>
+    <string name="fragment_repay_overdue_days">Overdue days</string>
+    <string name="fragment_repay_overdue_penalty">Overdue penalty</string>
+    <string name="fragment_repay_btn">Repay now</string>
+    <string name="fragment_repay_overdue_tip">You have an outstanding loan</string>
+
+    <string name="fragment_personal_center_title">Personal</string>
+    <string name="fragment_personal_center_service_feedback">Service Feedback</string>
+    <string name="fragment_personal_center_customer_service">Customer Service</string>
+    <string name="fragment_personal_center_logout">Log out</string>
+
+    <string name="activity_service_feedback_filter_startups">Filter Startups</string>
+    <string name="activity_service_feedback_product_suggestion">Product suggestion</string>
+    <string name="activity_service_feedback_app_bugs">App bugs</string>
+    <string name="activity_service_feedback_payment_issues">Payment issues</string>
+    <string name="activity_service_feedback_others">Others</string>
+    <string name="activity_service_feedback_input_title">*Briefly describe your feedback</string>
+    <string name="activity_service_feedback_input_hint">Enter your feedback…</string>
+
+    <string name="view_add_bank_account_cote_title" translatable="false">Où voulez-vous que votre prêt soit transféré*</string>
+    <string name="view_add_bank_account_cote_add_btn" translatable="false">Ajouter</string>
+    <string name="view_add_bank_account_cote_text" translatable="false">Veuillez ajouter votre portefeuille électronique mobile pour recevoir votre prêt\n\nAfin de vous assurer que vous pouvez recevoir le prêt, veuillez ajouter autant de portefeuilles mobiles que possible pour éviter le problème de la limite affectant le transfert du prêt vers vous.</string>
+
+    <string name="dialog_add_bank_account_cote_title" translatable="false">Ajouter un portefeuille électronique mobile</string>
+    <string name="dialog_add_bank_account_cote_account_type_title" translatable="false">Veuillez choisir un opérateur *</string>
+    <string name="dialog_add_bank_account_cote_account_type_hint" translatable="false">Veuillez choisir un opérateur</string>
+    <string name="dialog_add_bank_account_cote_account_input_title_1" translatable="false">Numéro de téléphone *</string>
+    <string name="dialog_add_bank_account_cote_account_input_title_2" translatable="false">Confirmer le numéro de téléphone à nouveau *</string>
+
+    <string name="dialog_delete_account_cote_title" translatable="false">Êtes-vous sûr de vouloir supprimer ce portefeuille électronique mobile ?</string>
+
+    <string name="dialog_delete_bank_account_cote_title" translatable="false">Êtes-vous sûr de vouloir supprimer ce portefeuille électronique mobile ?</string>
+    <string name="dialog_delete_bank_account_cote_cancel_btn" translatable="false">Annuler</string>
+    <string name="dialog_delete_bank_account_cote_delete_btn" translatable="false">Supprimer</string>
+
+    <string name="view_gender_select_male">Male</string>
+    <string name="view_gender_select_female">Female</string>
+
+    <string name="dialog_date_picker_title">Choose the date.</string>
+
+    <!--    facebook-->
+    <string name="facebook_app_id" translatable="false">276113528742399</string>
+    <string name="facebook_client_token" translatable="false">ef2a3475edf93e5cfbea7f5116b3428d</string>
+
+    <string name="dialog_upload_photo_start_camera">Start the camera</string>
+    <string name="dialog_upload_photo_open_album">Open the album</string>
+
+    <string name="photo_upload_tip">Please try again.</string>
+
+    <string name="activity_usage_permission_guide_text">We ask for your permission to enable <b>\'Usage access\'</b>.Please follow the instructions below to enable permissions.</string>
+    <string name="activity_usage_permission_guide_btn">Enable permission</string>
+
+
+    <string name="fragment_repay_plan_a_title">Make payment in full:</string>
+    <string name="fragment_repay_plan_a_text">You can borrow again immediately after repayment.</string>
+    <string name="fragment_repay_plan_b_title">Rollover repayment:</string>
+    <string name="fragment_repay_plan_b_text">After paying the extended service charges, your loan can be deferred for closing.</string>
+    <string name="fragment_repay_plan_b_extended_service_charges">Extended service charges</string>
+    <string name="fragment_repay_plan_b_days_of_extension">Days of extension</string>
+    <string name="fragment_repay_plan_b_due_date_after_extension">Due date after extension</string>
+    <string name="fragment_repay_plan_b_total_repayment_due">Total repayment due</string>
+    <string name="fragment_repay_payment_amount">Payment amount</string>
+    <string name="fragment_repay_btn_pay">Pay</string>
+
+
+    <string name="permission_flower_sms_title">SMS Data Collection</string>
+    <string name="permission_flower_sms_title_1">Why we request your device SMS data</string>
+    <string name="permission_flower_sms_text_1">Flower loan-online loan will read the SMS information in your device to measure the user\'s credibility and discover and analyze potential fraud and risks.</string>
+    <string name="permission_flower_sms_title_2">What you can do</string>
+    <string name="permission_flower_sms_text_2">You can choose to refuse the authorization, which will not affect your continued application for loans on the APP.</string>
+    <string name="permission_flower_sms_title_3">Data safety</string>
+    <string name="permission_flower_sms_text_3">
+        Your SMS data will be encrypted and transmitted to https://www.flowerloan.info. After analysis, we will permanently delete the SMS data. We will not share your SMS data with any third party.
+        \nFor the collection of your SMS data, it will only be read after you authorize us to obtain the \'READ_SMS\' permission in your device. Flower loan-online loan will not read and collect your SMS data when the app is closed or not in use.
+    </string>
+
+    <string name="permission_flower_applist_title">APP List Data Collection</string>
+    <string name="permission_flower_applist_title_1">Why we request your device APP list data</string>
+    <string name="permission_flower_applist_text_1">
+        We querying for specific apps that satisfy our app\'s manifest declaration on your device. These specific apps will help us to know if your device has apps installed with related features such as fraud or cloning (e.g. fake location information, cloned email id and contact information). So that we can judge the authenticity of your information and make a correct judgment on your credit risk.
+    </string>
+    <string name="permission_flower_applist_title_2">What you can do</string>
+    <string name="permission_flower_applist_text_2">You can choose to refuse the authorization, which will not affect your continued application for loans on the APP.</string>
+    <string name="permission_flower_applist_title_3">What data we will collect</string>
+    <string name="permission_flower_applist_text_3">We will collect basic information such as the name, version number and package name of the applications installed on the user\'s device.</string>
+    <string name="permission_flower_applist_title_4">Data safety</string>
+    <string name="permission_flower_applist_text_4">
+        This limited app information will collects and transmits to Flower loan-online loan servers https://www.flowerloan.info.Flower loan-online loan will not read and collect your data when the app is closed or not in use.. Flower loan-online loan will never share data to any third party. The collection will only be done if you agree to the authorization.
+    </string>
+
+    <string name="permission_flower_phonestate_title">Phone Status Data Collecton</string>
+    <string name="permission_flower_phonestate_text_1">
+        Flower loan-online loan require phone state access so that we can ensure that no unauthorized device acts on your behalf to prevent frauds. we will collects and monitors specific information about your device including your hardware model, build model, RAM, storage; unique device identifiers like IMEI, serial number, SSAID; SIM information that includes network operator, line1Number, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify the devices. This also helps us in enriching your credit profile and assessing your credit worthiness.
+    </string>
+
+
+    <string name="flower_word_authorized">Authorized</string>
+    <string name="flower_word_deny">Deny</string>
+    <string name="flower_word_agree">Agree</string>
+
+    <string name="flower_star_dialog_0rate_tip">Please Rate.</string>
+
+    <string name="flower_dialog_normal_text">How is your experience?\nPlease rate us to make us better.</string>
+    <string name="flower_dialog_active_text">Congratulations on getting your first loan interest-<b>free</b>, please give us a 5-star review.</string>
+    <string name="flower_dialog_notnow">Not now</string>
+    <string name="flower_dialog_rate">Rate</string>
+
+    <string name="flower_notice">Notice</string>
+    <string name="flower_confirm">Confirm</string>
+
+    <string name="language_select_title">Select your language</string>
+    <string name="language_select_en">English</string>
+    <string name="language_select_sw">Swahili</string>
+
+    <string name="pc_language">Language</string>
+    <string name="pc_terms_of_use">Terms of use</string>
+
+    <string name="accept">Accept</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="and">and</string>
+    <string name="terms_of_use">Terms of use</string>
+
+    <string name="tips_select_country">Please select country.</string>
+
+    <string name="please">Please</string>
+
+    <string name="operated_company_desc">This App is operated by</string>
+
+    <string name="ocr_title">Identity verification</string>
+    <string name="ocr_select_type_title">Please document type</string>
+    <string name="ocr_type_1">National ID card</string>
+    <string name="ocr_type_2">Driving license</string>
+    <string name="ocr_type_3">Passport</string>
+    <string name="ocr_1_desc_front">Photo of the front of the identity card</string>
+    <string name="ocr_1_desc_back">Photo of the back of the identity card</string>
+    <string name="ocr_2_desc_front">Photo of the front of the license</string>
+    <string name="ocr_2_desc_back">Photo of the back of the license</string>
+    <string name="ocr_3_desc">Upload a photo of the document containing your personal information</string>
+    <string name="tips_ocr_no_img">Please upload photos first!</string>
+
+    <string name="photo_select_title">Please selector mode</string>
+    <string name="photo_select_take_photo">Take a photo</string>
+    <string name="photo_select_from_album">Upload from photo album</string>
+
+    <string name="select_photo_fail_tips">Photo selection failed, please select again.</string>
+    <string name="upload_photo_fail_tips">Image upload failed, please try again.</string>
+
+    <string name="sefie_title">Face recognition</string>
+    <string name="sefie_tips">Tips:Take a selfie, make sure your face is clearly and well it.</string>
+    <string name="sefie_tips_title">Important hint:</string>
+    <string name="sefie_tips_1">No shadow on the face</string>
+    <string name="sefie_tips_2">Don\'t be in a backlit environment</string>
+    <string name="sefie_tips_3">Don\'t wear a mask</string>
+    <string name="sefie_tips_4">Please show your forehead</string>
+
+    <string name="delete_personal_data">Delete personal data</string>
+    <string name="delete_data_desc">After deleting the data, this numberwill not be able to log in and yourpersonal data will be cleared.\n\nIf you need to use it again, pleaseregister with another number.</string>
+    <string name="delete_data_title">Confirm to delete data?</string>
+    <string name="btn_return">Return</string>
+
+
+</resources>

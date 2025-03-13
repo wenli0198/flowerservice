@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Prêt fleur</string>
+
+    <string name="language">fr</string>
+
+    <string name="word_dial">Cadran</string>
+    <string name="word_copy">Cadran</string>
+    <string name="word_customer_service">Cadran</string>
+    <string name="word_customer_service_tips">astuces</string>
+    <string name="word_next">L\'étape suivante</string>
+    <string name="word_enter">Entrez</string>
+    <string name="tab_home">le prêt</string>
+    <string name="tab_data_safety">sécurité de données</string>
+    <string name="tab_personal_center">Moi</string>
+    <string name="word_days">journées</string>
+    <string name="word_cancel">Annuler</string>
+    <string name="word_submit">Soumettre</string>
+    <string name="word_delete">Supprimer</string>
+    <string name="word_login">Vous connecter>></string>
+    <string name="word_input_tip">S’il vous plaît vérifier l’entrée</string>
+    <string name="word_submit_success">Soumettre avec succès</string>
+    <string name="word_copy_success">Copiez avec succès</string>
+
+    <string name="customer_service_hotline">Hotline service client</string>
+    <string name="customer_service_email">Courriel du service à la clientèle</string>
+
+    <string name="launch_permissions">L\'application nécessite un téléphone, un appareil photo, un emplacement, un contact et des autorisations de stockage</string>
+    <string name="launch_permissions_camera">L\'application nécessite des autorisations pour l\'appareil photo</string>
+    <string name="launch_permissions_phone">L\'application nécessite l\'autorisation du téléphone.</string>
+    <string name="launch_permissions_sms">L\'application nécessite une autorisation SMS.</string>
+
+    <string name="customer_service_tip">Les heures d\'ouverture du service client en ligne sont du lundi au dimanche, de 9h00 à 18h30.</string>
+
+    <string name="diaolg_loading_text" tools:ignore="TypographyEllipsis">chargement...</string>
+
+    <string name="activity_login_select_country">Sélectionnez mon pays</string>
+    <string name="activity_login_enter_phone_num">Entrez le numéro de téléphone</string>
+    <string name="activity_login_enter_phone_num_ksh">Entrez le numéro de téléphone lié à votre compte M-PESA</string>
+    <string name="activity_login_enter_ver_code">Veuillez entrer le code à 4 chiffres</string>
+    <string name="activity_login_ver_code_hint">code à 4 chiffres</string>
+    <string name="activity_login_enter_resend_code"><u>Renvoyer le code</u></string>
+    <string name="activity_login_ver_code_send_tip">Captcha envoyé avec succès.</string>
+    <string name="activity_login_phone_num_title">Se connecter</string>
+
+    <string name="activity_apply_permission_title">Avis d\'acquisition d\'informations</string>
+    <string name="activity_apply_permission_text">Pour accéder à votre éligibilité et faciliter un décaissement plus rapide de votre prêt, nous avons besoin d\'autorisations pour accéder à votreappareil photo, contact, emplacement,téléphone, stockage et SMS.</string>
+    <string name="activity_apply_permission_sms">SMS</string>
+    <string name="activity_apply_permission_sms_text">COLLECTE DES DONNÉES SMS:\nObjet de l\'autorisation: Dans le cadre de notre processus de prêt, notre application lit vos informations financières SMS.  Cela nous aide à identifier les comptes bancaires que vous détenez, les schémas de flux de trésorerie et les montants que vous effectuez en tant qu\'utilisateur.  Pour détecter, combattre et prévenir la fraude, la tentative de fraude, le blanchiment d\'argent ou toute autre utilisation illégale de nos services, nous déterminerons votre risque de fraude et votre situation financière.  Vous pouvez choisir d\'accepter ou de refuser l\'autorisation, lorsque vous refusez l\'autorisation, cela signifie un manque d\'informations SMS et une incapacité à évaluer votre risque et votre crédit.\nType de collecte de données: nous surveillons uniquement les SMS financiers, y compris l\'expéditeur, la description et la date d\'envoi dans la boîte de réception de l\'utilisateur, ce qui nous aide à identifier les différents comptes que l\'utilisateur possède et les modèles de flux d\'argent détenus par l\'utilisateur.  Nous collectons et traitons également des données téléphoniques telles que les journaux SMS.\nSécurité des données : Nous chiffrons et transmettons vos informations financières SMS à notre serveur https://www.flowerloan.info  en utilisant le protocole HTTPS .  Nous nous engageons à ne pas partager de données avec des tiers sans votre permission.</string>
+    <string name="activity_apply_permission_contacts">CONTACTS</string>
+    <string name="activity_apply_permission_contacts_text">COLLECTE DE LA LISTE DE CONTACTS:\nObjectif de l\'autorisation : Dans le cadre de notre processus de prêt, nous vous demandons de fournir des références dans votre demande de prêt.  Nous identifions votre réseau social à partir de votre liste de contacts et identifions les contacts frauduleux dans votre réseau social, ce qui nous aide à détecter les demandes de prêt frauduleuses et à réduire le risque de crédit.  Et dans le cadre de notre parcours de prêt, nous exigeons des références du demandeur de prêt.  A cet égard, lors du remplissage du formulaire sur notre application, nous collectons vos coordonnées pour détecter les contacts proches qui vous permettent de remplir les données automatiquement.  Vous pouvez choisir d\'accepter ou de refuser l\'autorisation.\nType de collecte de données : Nous recueillons votre liste de contacts et des informations qui incluent le nom, les numéros de téléphone, le type de compte, la dernière modification du contact, les favoris (associés) et d\'autres données facultatives telles que la relation et l\'adresse structurelle pour enrichir votre profil financier.  Nous collectons les informations de contact uniquement après avoir obtenu votre consentement explicite supplémentaire.\nSécurité des données : Nous chiffrons vos informations et les téléchargeons sur notre serveur (https://www.flowerloan.info) en utilisant un protocole HTTPS sécurisé et nous nous engageons à ne pas les partager avec des tiers sans votre consentement.  Nous supprimerons les informations de contact une fois que nous aurons déterminé votre profil de risque. </string>
+    <string name="activity_apply_permission_phone">TÉLÉPHONER</string>
+    <string name="activity_apply_permission_phone_text">Prêt équitable exige l\'accès à l\'état du téléphone afin que nous puissions nous assurer qu\'aucun appareil non autorisé n\'agit en votre nom pour prévenir les fraudes. nous collecterons et surveillerons des informations spécifiques sur votre appareil, y compris votre modèle matériel, votre modèle de construction, votre RAM, votre stockage; identifiants uniques d\'appareil comme IMEI, numéro de série, SSAID; Informations SIM qui incluent l\'opérateur de réseau, le numéro de ligne, l\'état d\'itinérance, les codes MNC et MCC, les informations WIFI qui incluent l\'adresse MAC et les informations sur le réseau mobile pour identifier de manière unique les appareils. Cela nous aide également à enrichir votre profil de crédit et à évaluer votre solvabilité.</string>
+    <string name="activity_apply_permission_next_btn">OK allons-y</string>
+    <string name="activity_apply_permission_agreement_1">En poursuivant, vous acceptez les&#160;</string>
+    <string name="activity_apply_permission_agreement_2">Conditions d\'utilisation &amp; Politique de confidentialité</string>
+    <string name="activity_apply_permission_agreement_3">&#160;et recevoir des communications par SMS et e-mail.</string>
+
+    <string name="fragment_loan_main_loan_amount">Montant du prêt personnel en espèces</string>
+    <string name="fragment_loan_main_apply_btn">Appliquer maintenant</string>
+    <string name="fragment_loan_main_tip_1">1.Soumettre\ndes informations</string>
+    <string name="fragment_loan_main_tip_2">2.Confirmez\nvotre besoin de prêt</string>
+    <string name="fragment_loan_main_tip_3">3.Obtenez\nvotre argent</string>
+    <string name="fragment_loan_main_tip">Maintenir un bon dossier de prêt continuera d\'augmenter le montant du prêt.</string>
+
+    <string name="activity_loan_apply_loan_amount">Montant du prêt</string>
+    <string name="activity_loan_apply_loan_term">Durée du prêt</string>
+    <string name="activity_loan_apply_disburse_amount">Montant du décaissement</string>
+    <string name="activity_loan_apply_service_fee">Frais de service</string>
+    <string name="activity_loan_apply_repayment_amount">Montant à rembourser</string>
+    <string name="activity_loan_apply_interest">Intérêt</string>
+    <string name="activity_loan_apply_overdue_penalty_interest">Pénalité de retard</string>
+    <string name="activity_loan_apply_btn">Présenter une demande</string>
+    <string name="activity_loan_apply_rate_suffix">% par jour</string>
+    <string name="word_query_progress">Progression de la requête</string>
+
+    <string name="fragment_loan_review_title">Votre candidature est en cours d\'examen</string>
+    <string name="fragment_loan_review_text">L\'approbation du prêt prend entre 5 et 20 minutes. Le service client peut également vous contacter par téléphone, veuillez donc vous assurer que le téléphone est accessible.</string>
+    <string name="fragment_loan_review_refresh_status">Rafraîchir le statut</string>
+    <string name="fragment_loan_review_loan_detail_title">Votre demande de prêt</string>
+    <string name="fragment_loan_review_loan_amount">Montant du prêt</string>
+    <string name="fragment_loan_review_loan_term">Durée du prêt</string>
+    <string name="fragment_loan_review_receiving_account_title">Prêt sera transféré à</string>
+    <string name="fragment_loan_review_receiving_account_text">Une fois le prêt approuvé, le prêt sera transféré sur l\'un de vos portefeuille électronique mobile disponibles.</string>
+
+    <string name="fragment_loan_loaning_title">Votre demande de prêt a été approuvée</string>
+    <string name="fragment_loan_loaning_text">Le prêt sera transféré sur votre compte.</string>
+
+    <string name="loan_tip_title">Régler le prêt</string>
+    <string name="loan_tip_1">Vous pourrez refaire une demande de prêt immédiatement.</string>
+    <string name="loan_tip_2">La limite de prêt sera augmentée.</string>
+    <string name="loan_overdue_tip_title">Un retard important entraînera</string>
+    <string name="loan_overdue_tip_1">Votre crédit est endommagé et vous ne pourrez plus obtenir de prêt.</string>
+    <string name="loan_overdue_tip_2">Si vous êtes sérieusement en retard, vous ferez face à des litiges, ce qui entraînera des frais de justice élevés pour vous.</string>
+
+    <string name="fragment_loan_fail_title">Votre candidature n\'a pasété approuvée</string>
+    <string name="fragment_loan_fail_text_1">veuillez réappliquer&#160;</string>
+    <string name="fragment_loan_fail_text_2">&#160;jours plus tard.</string>
+
+    <string name="fragment_repay_total_repayment">Montant total dû</string>
+    <string name="fragment_repay_due_date">Date d\'échéance</string>
+    <string name="fragment_repay_loan_amount">Montant du prêt</string>
+    <string name="fragment_repay_interest">Intérêt</string>
+    <string name="fragment_repay_service_fee">Frais de service</string>
+    <string name="fragment_repay_overdue_days">Jours en retard</string>
+    <string name="fragment_repay_overdue_penalty">Pénalité de retard</string>
+    <string name="fragment_repay_btn">Payer maintenant</string>
+    <string name="fragment_repay_overdue_tip">Vous avez un prêt en souffrance</string>
+
+    <string name="fragment_personal_center_title">Le centre personnel</string>
+    <string name="fragment_personal_center_service_feedback">Commentaires sur les services</string>
+    <string name="fragment_personal_center_customer_service">Service Clients</string>
+    <string name="fragment_personal_center_logout">Déconnexion</string>
+
+    <string name="activity_service_feedback_filter_startups">I Feedback pour un meilleur service *</string>
+    <string name="activity_service_feedback_product_suggestion">proposition de produit</string>
+    <string name="activity_service_feedback_app_bugs">Bugs d\'application</string>
+    <string name="activity_service_feedback_payment_issues">problèmes de paiement</string>
+    <string name="activity_service_feedback_others">autres</string>
+    <string name="activity_service_feedback_input_title">Suggestion de produit</string>
+    <string name="activity_service_feedback_input_hint">Soumettre</string>
+
+    <string name="view_gender_select_male">mâle</string>
+    <string name="view_gender_select_female">femelle</string>
+
+    <string name="dialog_date_picker_title">Choisissez la date</string>
+
+    <string name="dialog_upload_photo_start_camera">Prendre des photos</string>
+    <string name="dialog_upload_photo_open_album">Choisir un album</string>
+
+    <string name="photo_upload_tip">Veuillez réessayer</string>
+
+
+    <string name="activity_usage_permission_guide_text">Nous vous demandons votre autorisation pour activer <b>I\'« Accès à l\'utilisation »</b>. Veuillez suivre les instructions ci-dessous pour activer les autorisations.</string>
+    <string name="activity_usage_permission_guide_btn">Activer l\'autorisation</string>
+
+    <string name="fragment_repay_plan_a_title">Effectuez le paiement en totalité:</string>
+    <string name="fragment_repay_plan_a_text">Vous pouvez emprunter à nouveau immédiatement après le remboursement.</string>
+    <string name="fragment_repay_plan_b_title">Paiement de roulement:</string>
+    <string name="fragment_repay_plan_b_text">Après avoir payé les frais de service étendus, votre prêt peut être reporté pour la clôture.</string>
+    <string name="fragment_repay_plan_b_extended_service_charges">Frais de service étendus</string>
+    <string name="fragment_repay_plan_b_days_of_extension">Jours de report de prêt</string>
+    <string name="fragment_repay_plan_b_due_date_after_extension">Date d\'échéance après prolongation</string>
+    <string name="fragment_repay_plan_b_total_repayment_due">Paiement total dû</string>
+    <string name="fragment_repay_payment_amount">Montant du paiement</string>
+    <string name="fragment_repay_btn_pay">Payer</string>
+
+
+    <string name="permission_flower_sms_title">Collecte de données SMS</string>
+    <string name="permission_flower_sms_title_1">Pourquoi nous demandons les données SMS de votre appareil</string>
+    <string name="permission_flower_sms_text_1">Prêt fleur-prêt en ligne lira les informations SMS sur votre appareil pour mesurer la crédibilité de l\'utilisateur et découvrir et analyser les fraudes et les risques potentiels.</string>
+    <string name="permission_flower_sms_title_2">Ce que tu peux faire</string>
+    <string name="permission_flower_sms_text_2">Vous pouvez choisir de refuser l\'autorisation, ce qui n\'affectera pas la poursuite de votre demande de prêt sur l\'APP.</string>
+    <string name="permission_flower_sms_title_3">Sécurité des données</string>
+    <string name="permission_flower_sms_text_3">
+        Vos données SMS seront cryptées et transmises à https://www.flowerloan.info. Après analyse, nous supprimerons définitivement les données SMS. Nous ne partagerons vos données SMS avec aucun tiers.
+        Pour la collecte de vos données SMS, elles ne seront lues qu\'après que vous nous auriez autorisé à obtenir l\'autorisation \'READ_SMS\' sur votre appareil.Prêt fleur-prêt en ligne ne lira ni ne collectera vos données SMS lorsque l\'application est fermée ou n\'est pas utilisée.
+    </string>
+
+    <string name="permission_flower_applist_title">Collecte de données de la liste des applications</string>
+    <string name="permission_flower_applist_title_1">Pourquoi nous demandons les données de la liste d\'applications de votre appareil</string>
+    <string name="permission_flower_applist_text_1">
+        Nous recherchons des applications spécifiques qui satisfont à la déclaration manifeste de notre application sur votre appareil. Ces applications spécifiques nous aideront à savoir si des applications installées sur votre appareil comportent des fonctionnalités associées telles que la fraude ou le clonage (par exemple, de fausses informations de localisation, un identifiant de messagerie cloné et des informations de contact). Afin que nous puissions juger de l’authenticité de vos informations et porter un jugement correct sur votre risque de crédit.
+    </string>
+    <string name="permission_flower_applist_title_2">Ce que tu peux faire</string>
+    <string name="permission_flower_applist_text_2">Vous pouvez choisir de refuser l\'autorisation, ce qui n\'affectera pas la poursuite de votre demande de prêt sur l\'APP.</string>
+    <string name="permission_flower_applist_title_3">Quelles données nous collecterons</string>
+    <string name="permission_flower_applist_text_3">
+        Nous collecterons des informations de base telles que le nom, le numéro de version et le nom du package des applications installées sur l\'appareil de l\'utilisateur.
+    </string>
+    <string name="permission_flower_applist_title_4">Sécurité des données</string>
+    <string name="permission_flower_applist_text_4">
+        Ces informations limitées sur l\'application seront collectées et transmises aux serveurs Prêt fleur-prêt en ligne https://www.flowerloan.info Prêt fleur-prêt en ligne ne lira ni ne collectera vos données lorsque l\'application est fermée ou n\'est pas utilisée.Prêt fleur-prêt en ligne ne partagera jamais de données avec des tiers. La collecte ne se fera que si vous acceptez l\'autorisation.
+    </string>
+
+    <string name="permission_flower_phonestate_title">Collecte de données sur l\'état du téléphone</string>
+    <string name="permission_flower_phonestate_text_1">
+        Prêt fleur-prêt en ligne nécessite un accès à l\'état du téléphone afin que nous puissions garantir qu\'aucun appareil non autorisé n\'agit en votre nom pour prévenir les fraudes. nous collecterons et surveillerons des informations spécifiques sur votre appareil, notamment votre modèle de matériel, votre modèle de construction, votre RAM et votre stockage ; identifiants uniques de l\'appareil comme IMEI, numéro de série, SSAID ; Informations SIM comprenant l\'opérateur réseau, le numéro de ligne 1, l\'état d\'itinérance, les codes MNC et MCC, les informations WIFI comprenant l\'adresse MAC et les informations sur le réseau mobile pour identifier de manière unique les appareils. Cela nous aide également à enrichir votre profil de crédit et à évaluer votre solvabilité.
+    </string>
+
+    <string name="flower_word_authorized">Déjà autorisé</string>
+    <string name="flower_word_deny">Refuser</string>
+    <string name="flower_word_agree">Accepter</string>
+
+    <string name="flower_star_dialog_0rate_tip">Veuillez évaluer</string>
+
+    <string name="flower_dialog_normal_text">Comment est votre expérience ?\nVeuillez nous évaluer pour nous améliorer.</string>
+    <string name="flower_dialog_active_text">Félicitations pour avoir obtenu votre premier prêt sans intérêt, veuillez nous donner une évaluation 5 étoiles.</string>
+    <string name="flower_dialog_notnow">Pas maintenant</string>
+    <string name="flower_dialog_rate">Taux</string>
+
+    <string name="flower_notice">Avis</string>
+    <string name="flower_confirm">Confirmer</string>
+
+    <string name="language_select_title">Sélectionnez votre langue</string>
+    <string name="language_select_en">Anglaise</string>
+    <string name="language_select_sw">Swahili</string>
+
+    <string name="pc_language">Langue</string>
+    <string name="pc_terms_of_use">Conditions d\'utilisation</string>
+
+    <string name="accept">Accepter la</string>
+    <string name="privacy_policy">politique de confidentialité</string>
+    <string name="and">et les</string>
+    <string name="terms_of_use">conditions d\'utilisation</string>
+
+    <string name="tips_select_country">Veuillez sélectionner un pays.</string>
+
+    <string name="please">Veuillez</string>
+
+    <string name="operated_company_desc">Cette application est exploitée par</string>
+
+
+    <string name="ocr_title">Vérification d\'identité</string>
+    <string name="ocr_select_type_title">Veuillez indiquer le type de document</string>
+    <string name="ocr_type_1">Carte nationale d\'identité</string>
+    <string name="ocr_type_2">Permis de conduire</string>
+    <string name="ocr_type_3">Passeport</string>
+    <string name="ocr_1_desc_front">Photographie du recto de la carte d\'identité</string>
+    <string name="ocr_1_desc_back">Photo du verso de la carte d\'identité</string>
+    <string name="ocr_2_desc_front">Photo du recto du permis</string>
+    <string name="ocr_2_desc_back">Photo du verso du permis</string>
+    <string name="ocr_3_desc">Téléchargez une photo du document contenant vos informations personnelles</string>
+    <string name="tips_ocr_no_img">Veuillez d\'abord télécharger des photos !</string>
+
+    <string name="photo_select_title">Veuillez sélectionner le mode</string>
+    <string name="photo_select_take_photo">Prendre une photo</string>
+    <string name="photo_select_from_album">Télécharger depuis l\'album photo</string>
+
+    <string name="select_photo_fail_tips">La sélection des photos a échoué, veuillez sélectionner à nouveau.</string>
+    <string name="upload_photo_fail_tips">Le téléchargement de l\'image a échoué, veuillez réessayer.</string>
+
+    <string name="sefie_title">Reconnaissance faciale</string>
+    <string name="sefie_tips">Conseils : Prenez un selfie, assurez-vous que votre visage est clair et bien dessiné.</string>
+    <string name="sefie_tips_title">Conseil important :</string>
+    <string name="sefie_tips_1">Aucune ombre sur le visage</string>
+    <string name="sefie_tips_2">Ne restez pas dans un environnement rétroéclairé</string>
+    <string name="sefie_tips_3">Ne portez pas de masque</string>
+    <string name="sefie_tips_4">S\'il vous plaît montrez votre front</string>
+
+    <string name="delete_personal_data">Supprimer les données personnelles</string>
+    <string name="delete_data_desc">Après avoir supprimé les données, ce numéro ne pourra plus se connecter et vos données personnelles seront effacées.\n\nSi vous devez l\'utiliser à nouveau, veuillez vous inscrire avec un autre numéro.</string>
+    <string name="delete_data_title">Confirmer la suppression des données ?</string>
+    <string name="btn_return">Retour</string>
+
+
+
+</resources>

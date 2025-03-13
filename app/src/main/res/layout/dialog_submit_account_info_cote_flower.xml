@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center"
+    android:background="@color/trans">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_dialog_cote"
+        android:elevation="1dp"
+        tools:ignore="ContentDescription"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="-100dp">
+
+        <ImageButton
+            android:id="@+id/dialog_submit_account_info_ib_back"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="@drawable/icon_close_2"
+            android:layout_gravity="end"
+            tools:ignore="ContentDescription" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/ic_bg_dialog_cote"
+            android:paddingTop="60dp"
+            android:paddingBottom="30dp"
+            android:paddingHorizontal="20dp"
+            android:layout_marginTop="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="15dp"
+                android:textColor="#FF333333"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="Une fois le prêt approuvé, le prêt sera transféré sur l'un de vos portefeuille électronique mobile disponibles."
+                tools:ignore="HardcodedText" />
+
+            <LinearLayout
+                android:id="@+id/dialog_submit_account_info_layout_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="15dp"
+                android:orientation="vertical"/>
+
+            <Button
+                android:id="@+id/dialog_submit_account_info_btn_submit"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginHorizontal="15dp"
+                android:background="@drawable/ic_bg_btn"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:textSize="14sp"
+                android:text="Confirmer"
+                android:layout_marginTop="20dp"
+                tools:ignore="ButtonStyle,HardcodedText" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

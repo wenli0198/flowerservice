@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+        </intent>
+    </queries>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.READ_SMS"
+        tools:ignore="PermissionImpliesUnsupportedChromeOsHardware" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission
+        android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name=".activity_fragment_flower.base_flower.BaseApplication_flower"
+        android:allowBackup="true"
+        android:extractNativeLibs="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FlowerLoan"
+        tools:node="merge"
+        tools:targetApi="s">
+        <activity
+            android:name=".activity_fragment_flower.UsagePermissionGuideActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.info_flower.FaceUploadActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.info_flower.OcrUploadActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.loan_flower.AddPaystackBankAccountActivity_Niri_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.loan_flower.RepayPaystackActivity_Niri_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.info_flower.BindBankAccountActivity_Cote_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.ServiceFeedbackActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.loan_flower.LoanApplyActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.info_flower.InfoUploadActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.loan_flower.LoanMainActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.login_flower.LoginVerCodeActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.login_flower.LoginPhoneNumActivity_flower"
+            android:exported="false" />
+        <activity
+            android:name=".activity_fragment_flower.MainActivity_flower"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- adjust -->
+        <receiver
+            android:name="com.adjust.sdk.AdjustReferrerReceiver"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.file_provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_provider_paths" />
+        </provider> <!-- facebook -->
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider276113528742399"
+            android:exported="true"
+            tools:ignore="ExportedContentProvider" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.facebook.sdk.ClientToken"
+            android:value="@string/facebook_client_token" />
+        <meta-data
+            android:name="com.facebook.sdk.AutoLogAppEventsEnabled"
+            android:value="true" />
+        <meta-data
+            android:name="com.facebook.sdk.AdvertiserIDCollectionEnabled"
+            android:value="true" />
+    </application>
+
+</manifest>

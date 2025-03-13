@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.test.aoner.fanow.test.activity_fragment_flower.loan_flower.AddPaystackBankAccountActivity_Niri_flower">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.test.aoner.fanow.test.view_flower.widget_flower.TitleView_flower
+                android:id="@+id/activity_add_paystack_bank_account_view_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginBottom="10dp"
+                app:isWhiteStyle="false"
+                app:title="Add a bank account"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:paddingVertical="30dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:layout_marginHorizontal="20dp"
+                    android:gravity="center"
+                    android:text="To complete the verification, we need to deduct 50₦ from your bank card."
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:text="The full amount will be refunded to your bank card immediately after verification."
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="14sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:text="Please make sure that there is enough balance in the bank card."
+                    tools:ignore="HardcodedText" />
+
+                <com.test.aoner.fanow.test.view_flower.widget_flower.InputView_flower
+                    android:id="@+id/activity_add_paystack_bank_account_iv_bank_account"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    app:title="Bank account number"
+                    android:hint="Bank account number"
+                    tools:ignore="HardcodedText"
+                    android:layout_marginHorizontal="20dp"
+                    android:inputType="number"/>
+
+                <com.test.aoner.fanow.test.view_flower.widget_flower.DatePickeView_flower
+                    android:id="@+id/activity_add_paystack_bank_account_dpv_card_expires"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    app:title="Card expires"
+                    android:hint="Card expires"
+                    android:layout_marginHorizontal="20dp"
+                    tools:ignore="HardcodedText" />
+
+                <com.test.aoner.fanow.test.view_flower.widget_flower.InputView_flower
+                    android:id="@+id/activity_add_paystack_bank_account_iv_cvv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    app:title="CVV"
+                    android:hint="CVV"
+                    tools:ignore="HardcodedText"
+                    android:layout_marginHorizontal="20dp"
+                    android:inputType="number"/>
+
+                <Button
+                    android:id="@+id/activity_add_paystack_bank_account_btn_add"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_bg_btn"
+                    android:layout_marginTop="50dp"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:text="Add"
+                    android:textAllCaps="false"
+                    android:layout_marginHorizontal="20dp"
+                    tools:ignore="HardcodedText" />
+
+                <LinearLayout
+                    android:id="@+id/activity_add_paystack_bank_account_view_operated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginTop="20dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginHorizontal="20dp"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/activity_add_paystack_bank_account_iv_operated"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        tools:ignore="ContentDescription" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/gray_d"
+                            android:textSize="14sp"
+                            android:text="@string/operated_company_desc"
+                            android:fontFamily="sans-serif-medium"/>
+
+                        <TextView
+                            android:id="@+id/activity_add_paystack_bank_account_tv_company_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="2dp"
+                            android:textColor="@color/black"
+                            android:textSize="14sp"
+                            android:fontFamily="sans-serif-black"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>

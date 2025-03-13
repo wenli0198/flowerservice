@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <declare-styleable name="TitleView">
+        <attr name="title"/>
+        <attr name="showBackBtn" format="boolean"/>
+        <attr name="showCustomerServiceBtn" format="boolean"/>
+        <attr name="isWhiteStyle" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="SelectView">
+        <attr name="title"/>
+        <attr name="android:hint"/>
+        <attr name="icon"/>
+        <attr name="android:text"/>
+    </declare-styleable>
+
+    <declare-styleable name="InputView">
+        <attr name="title"/>
+        <attr name="android:hint"/>
+        <attr name="android:inputType"/>
+    </declare-styleable>
+
+    <declare-styleable name="DatePickeView">
+        <attr name="title"/>
+        <attr name="android:hint"/>
+    </declare-styleable>
+
+    <declare-styleable name="AddressPickView_Viet">
+        <attr name="title"/>
+        <attr name="android:hint"/>
+    </declare-styleable>
+
+</resources>

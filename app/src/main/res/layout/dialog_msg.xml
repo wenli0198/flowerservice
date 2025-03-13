@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:minWidth="270dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/ic_bg_msg_dialog"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_msg_dialog"
+        android:layout_marginTop="25dp"
+        android:layout_marginHorizontal="15dp"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/dialog_msg_tv_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginHorizontal="15dp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="25dp"
+        android:textSize="16sp"
+        android:gravity="center"/>
+
+    <!--<TextView
+        android:id="@+id/dialog_msg_tv_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="16sp"
+        android:textColor="@color/orange_flower"
+        android:text="@string/word_ok"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:paddingVertical="10dp"/>-->
+
+</LinearLayout>
